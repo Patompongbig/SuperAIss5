@@ -1,0 +1,3196 @@
+_id,Disease,Year,PROVINCE,Week_no
+40195,Hand Foot Mouth,2023,Bangkok,1
+40196,Hand Foot Mouth,2023,Bangkok,2
+40197,Hand Foot Mouth,2023,Bangkok,3
+40198,Hand Foot Mouth,2023,Bangkok,4
+40199,Hand Foot Mouth,2023,Bangkok,5
+40200,Hand Foot Mouth,2023,Bangkok,6
+40201,Hand Foot Mouth,2023,Bangkok,7
+40202,Hand Foot Mouth,2023,Bangkok,8
+40203,Hand Foot Mouth,2023,Bangkok,9
+40204,Hand Foot Mouth,2023,Bangkok,10
+40205,Hand Foot Mouth,2023,Bangkok,11
+40206,Hand Foot Mouth,2023,Bangkok,12
+40207,Hand Foot Mouth,2023,Bangkok,13
+40208,Hand Foot Mouth,2023,Bangkok,14
+40209,Hand Foot Mouth,2023,Bangkok,15
+40210,Hand Foot Mouth,2023,Bangkok,16
+40211,Hand Foot Mouth,2023,Bangkok,17
+40212,Hand Foot Mouth,2023,Bangkok,18
+40213,Hand Foot Mouth,2023,Bangkok,19
+40214,Hand Foot Mouth,2023,Bangkok,20
+40215,Hand Foot Mouth,2023,Bangkok,21
+40216,Hand Foot Mouth,2023,Bangkok,22
+40217,Hand Foot Mouth,2023,Bangkok,23
+40218,Hand Foot Mouth,2023,Bangkok,24
+40219,Hand Foot Mouth,2023,Bangkok,25
+40220,Hand Foot Mouth,2023,Bangkok,26
+40221,Hand Foot Mouth,2023,Bangkok,27
+40222,Hand Foot Mouth,2023,Bangkok,28
+40223,Hand Foot Mouth,2023,Bangkok,29
+40224,Hand Foot Mouth,2023,Bangkok,30
+40225,Hand Foot Mouth,2023,Bangkok,31
+40226,Hand Foot Mouth,2023,Bangkok,32
+40227,Hand Foot Mouth,2023,Bangkok,33
+40228,Hand Foot Mouth,2023,Bangkok,34
+40229,Hand Foot Mouth,2023,Bangkok,35
+40230,Hand Foot Mouth,2023,Bangkok,36
+40231,Hand Foot Mouth,2023,Bangkok,37
+40232,Hand Foot Mouth,2023,Bangkok,38
+40233,Hand Foot Mouth,2023,Bangkok,39
+40234,Hand Foot Mouth,2023,Bangkok,40
+40235,Hand Foot Mouth,2023,Bangkok,41
+40236,Hand Foot Mouth,2023,Samut Prakan,1
+40237,Hand Foot Mouth,2023,Samut Prakan,2
+40238,Hand Foot Mouth,2023,Samut Prakan,3
+40239,Hand Foot Mouth,2023,Samut Prakan,4
+40240,Hand Foot Mouth,2023,Samut Prakan,5
+40241,Hand Foot Mouth,2023,Samut Prakan,6
+40242,Hand Foot Mouth,2023,Samut Prakan,7
+40243,Hand Foot Mouth,2023,Samut Prakan,8
+40244,Hand Foot Mouth,2023,Samut Prakan,9
+40245,Hand Foot Mouth,2023,Samut Prakan,10
+40246,Hand Foot Mouth,2023,Samut Prakan,11
+40247,Hand Foot Mouth,2023,Samut Prakan,12
+40248,Hand Foot Mouth,2023,Samut Prakan,13
+40249,Hand Foot Mouth,2023,Samut Prakan,14
+40250,Hand Foot Mouth,2023,Samut Prakan,15
+40251,Hand Foot Mouth,2023,Samut Prakan,16
+40252,Hand Foot Mouth,2023,Samut Prakan,17
+40253,Hand Foot Mouth,2023,Samut Prakan,18
+40254,Hand Foot Mouth,2023,Samut Prakan,19
+40255,Hand Foot Mouth,2023,Samut Prakan,20
+40256,Hand Foot Mouth,2023,Samut Prakan,21
+40257,Hand Foot Mouth,2023,Samut Prakan,22
+40258,Hand Foot Mouth,2023,Samut Prakan,23
+40259,Hand Foot Mouth,2023,Samut Prakan,24
+40260,Hand Foot Mouth,2023,Samut Prakan,25
+40261,Hand Foot Mouth,2023,Samut Prakan,26
+40262,Hand Foot Mouth,2023,Samut Prakan,27
+40263,Hand Foot Mouth,2023,Samut Prakan,28
+40264,Hand Foot Mouth,2023,Samut Prakan,29
+40265,Hand Foot Mouth,2023,Samut Prakan,30
+40266,Hand Foot Mouth,2023,Samut Prakan,31
+40267,Hand Foot Mouth,2023,Samut Prakan,32
+40268,Hand Foot Mouth,2023,Samut Prakan,33
+40269,Hand Foot Mouth,2023,Samut Prakan,34
+40270,Hand Foot Mouth,2023,Samut Prakan,35
+40271,Hand Foot Mouth,2023,Samut Prakan,36
+40272,Hand Foot Mouth,2023,Samut Prakan,37
+40273,Hand Foot Mouth,2023,Samut Prakan,38
+40274,Hand Foot Mouth,2023,Samut Prakan,39
+40275,Hand Foot Mouth,2023,Samut Prakan,40
+40276,Hand Foot Mouth,2023,Samut Prakan,41
+40277,Hand Foot Mouth,2023,Samut Prakan,42
+40278,Hand Foot Mouth,2023,Nonthaburi,1
+40279,Hand Foot Mouth,2023,Nonthaburi,2
+40280,Hand Foot Mouth,2023,Nonthaburi,3
+40281,Hand Foot Mouth,2023,Nonthaburi,4
+40282,Hand Foot Mouth,2023,Nonthaburi,5
+40283,Hand Foot Mouth,2023,Nonthaburi,6
+40284,Hand Foot Mouth,2023,Nonthaburi,7
+40285,Hand Foot Mouth,2023,Nonthaburi,8
+40286,Hand Foot Mouth,2023,Nonthaburi,9
+40287,Hand Foot Mouth,2023,Nonthaburi,10
+40288,Hand Foot Mouth,2023,Nonthaburi,11
+40289,Hand Foot Mouth,2023,Nonthaburi,12
+40290,Hand Foot Mouth,2023,Nonthaburi,13
+40291,Hand Foot Mouth,2023,Nonthaburi,14
+40292,Hand Foot Mouth,2023,Nonthaburi,15
+40293,Hand Foot Mouth,2023,Nonthaburi,16
+40294,Hand Foot Mouth,2023,Nonthaburi,17
+40295,Hand Foot Mouth,2023,Nonthaburi,18
+40296,Hand Foot Mouth,2023,Nonthaburi,19
+40297,Hand Foot Mouth,2023,Nonthaburi,20
+40298,Hand Foot Mouth,2023,Nonthaburi,21
+40299,Hand Foot Mouth,2023,Nonthaburi,22
+40300,Hand Foot Mouth,2023,Nonthaburi,23
+40301,Hand Foot Mouth,2023,Nonthaburi,24
+40302,Hand Foot Mouth,2023,Nonthaburi,25
+40303,Hand Foot Mouth,2023,Nonthaburi,26
+40304,Hand Foot Mouth,2023,Nonthaburi,27
+40305,Hand Foot Mouth,2023,Nonthaburi,28
+40306,Hand Foot Mouth,2023,Nonthaburi,29
+40307,Hand Foot Mouth,2023,Nonthaburi,30
+40308,Hand Foot Mouth,2023,Nonthaburi,31
+40309,Hand Foot Mouth,2023,Nonthaburi,32
+40310,Hand Foot Mouth,2023,Nonthaburi,33
+40311,Hand Foot Mouth,2023,Nonthaburi,34
+40312,Hand Foot Mouth,2023,Nonthaburi,35
+40313,Hand Foot Mouth,2023,Nonthaburi,36
+40314,Hand Foot Mouth,2023,Nonthaburi,37
+40315,Hand Foot Mouth,2023,Nonthaburi,38
+40316,Hand Foot Mouth,2023,Nonthaburi,39
+40317,Hand Foot Mouth,2023,Nonthaburi,40
+40318,Hand Foot Mouth,2023,Nonthaburi,41
+40319,Hand Foot Mouth,2023,Nonthaburi,42
+40320,Hand Foot Mouth,2023,Pathum Thani,1
+40321,Hand Foot Mouth,2023,Pathum Thani,2
+40322,Hand Foot Mouth,2023,Pathum Thani,3
+40323,Hand Foot Mouth,2023,Pathum Thani,4
+40324,Hand Foot Mouth,2023,Pathum Thani,5
+40325,Hand Foot Mouth,2023,Pathum Thani,6
+40326,Hand Foot Mouth,2023,Pathum Thani,7
+40327,Hand Foot Mouth,2023,Pathum Thani,8
+40328,Hand Foot Mouth,2023,Pathum Thani,9
+40329,Hand Foot Mouth,2023,Pathum Thani,10
+40330,Hand Foot Mouth,2023,Pathum Thani,11
+40331,Hand Foot Mouth,2023,Pathum Thani,12
+40332,Hand Foot Mouth,2023,Pathum Thani,13
+40333,Hand Foot Mouth,2023,Pathum Thani,14
+40334,Hand Foot Mouth,2023,Pathum Thani,15
+40335,Hand Foot Mouth,2023,Pathum Thani,16
+40336,Hand Foot Mouth,2023,Pathum Thani,17
+40337,Hand Foot Mouth,2023,Pathum Thani,18
+40338,Hand Foot Mouth,2023,Pathum Thani,19
+40339,Hand Foot Mouth,2023,Pathum Thani,20
+40340,Hand Foot Mouth,2023,Pathum Thani,21
+40341,Hand Foot Mouth,2023,Pathum Thani,22
+40342,Hand Foot Mouth,2023,Pathum Thani,23
+40343,Hand Foot Mouth,2023,Pathum Thani,24
+40344,Hand Foot Mouth,2023,Pathum Thani,25
+40345,Hand Foot Mouth,2023,Pathum Thani,26
+40346,Hand Foot Mouth,2023,Pathum Thani,27
+40347,Hand Foot Mouth,2023,Pathum Thani,28
+40348,Hand Foot Mouth,2023,Pathum Thani,29
+40349,Hand Foot Mouth,2023,Pathum Thani,30
+40350,Hand Foot Mouth,2023,Pathum Thani,31
+40351,Hand Foot Mouth,2023,Pathum Thani,32
+40352,Hand Foot Mouth,2023,Pathum Thani,33
+40353,Hand Foot Mouth,2023,Pathum Thani,34
+40354,Hand Foot Mouth,2023,Pathum Thani,35
+40355,Hand Foot Mouth,2023,Pathum Thani,36
+40356,Hand Foot Mouth,2023,Pathum Thani,37
+40357,Hand Foot Mouth,2023,Pathum Thani,38
+40358,Hand Foot Mouth,2023,Pathum Thani,39
+40359,Hand Foot Mouth,2023,Pathum Thani,40
+40360,Hand Foot Mouth,2023,Pathum Thani,41
+40361,Hand Foot Mouth,2023,Pathum Thani,42
+40362,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,1
+40363,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,2
+40364,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,3
+40365,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,4
+40366,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,5
+40367,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,6
+40368,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,7
+40369,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,8
+40370,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,9
+40371,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,10
+40372,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,11
+40373,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,12
+40374,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,13
+40375,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,14
+40376,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,15
+40377,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,16
+40378,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,17
+40379,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,18
+40380,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,19
+40381,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,20
+40382,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,21
+40383,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,22
+40384,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,23
+40385,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,24
+40386,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,25
+40387,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,26
+40388,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,27
+40389,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,28
+40390,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,29
+40391,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,30
+40392,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,31
+40393,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,32
+40394,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,33
+40395,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,34
+40396,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,35
+40397,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,36
+40398,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,37
+40399,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,38
+40400,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,39
+40401,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,40
+40402,Hand Foot Mouth,2023,Phra Nakhon Si Ayutthaya,41
+40403,Hand Foot Mouth,2023,Ang Thong,1
+40404,Hand Foot Mouth,2023,Ang Thong,2
+40405,Hand Foot Mouth,2023,Ang Thong,3
+40406,Hand Foot Mouth,2023,Ang Thong,4
+40407,Hand Foot Mouth,2023,Ang Thong,5
+40408,Hand Foot Mouth,2023,Ang Thong,6
+40409,Hand Foot Mouth,2023,Ang Thong,7
+40410,Hand Foot Mouth,2023,Ang Thong,8
+40411,Hand Foot Mouth,2023,Ang Thong,9
+40412,Hand Foot Mouth,2023,Ang Thong,10
+40413,Hand Foot Mouth,2023,Ang Thong,11
+40414,Hand Foot Mouth,2023,Ang Thong,12
+40415,Hand Foot Mouth,2023,Ang Thong,13
+40416,Hand Foot Mouth,2023,Ang Thong,14
+40417,Hand Foot Mouth,2023,Ang Thong,15
+40418,Hand Foot Mouth,2023,Ang Thong,16
+40419,Hand Foot Mouth,2023,Ang Thong,17
+40420,Hand Foot Mouth,2023,Ang Thong,18
+40421,Hand Foot Mouth,2023,Ang Thong,19
+40422,Hand Foot Mouth,2023,Ang Thong,20
+40423,Hand Foot Mouth,2023,Ang Thong,21
+40424,Hand Foot Mouth,2023,Ang Thong,22
+40425,Hand Foot Mouth,2023,Ang Thong,23
+40426,Hand Foot Mouth,2023,Ang Thong,24
+40427,Hand Foot Mouth,2023,Ang Thong,25
+40428,Hand Foot Mouth,2023,Ang Thong,26
+40429,Hand Foot Mouth,2023,Ang Thong,27
+40430,Hand Foot Mouth,2023,Ang Thong,28
+40431,Hand Foot Mouth,2023,Ang Thong,29
+40432,Hand Foot Mouth,2023,Ang Thong,30
+40433,Hand Foot Mouth,2023,Ang Thong,31
+40434,Hand Foot Mouth,2023,Ang Thong,32
+40435,Hand Foot Mouth,2023,Ang Thong,33
+40436,Hand Foot Mouth,2023,Ang Thong,34
+40437,Hand Foot Mouth,2023,Ang Thong,35
+40438,Hand Foot Mouth,2023,Ang Thong,36
+40439,Hand Foot Mouth,2023,Ang Thong,37
+40440,Hand Foot Mouth,2023,Ang Thong,38
+40441,Hand Foot Mouth,2023,Ang Thong,39
+40442,Hand Foot Mouth,2023,Ang Thong,40
+40443,Hand Foot Mouth,2023,Ang Thong,41
+40444,Hand Foot Mouth,2023,Ang Thong,42
+40445,Hand Foot Mouth,2023,Lopburi,1
+40446,Hand Foot Mouth,2023,Lopburi,2
+40447,Hand Foot Mouth,2023,Lopburi,3
+40448,Hand Foot Mouth,2023,Lopburi,4
+40449,Hand Foot Mouth,2023,Lopburi,5
+40450,Hand Foot Mouth,2023,Lopburi,6
+40451,Hand Foot Mouth,2023,Lopburi,7
+40452,Hand Foot Mouth,2023,Lopburi,8
+40453,Hand Foot Mouth,2023,Lopburi,9
+40454,Hand Foot Mouth,2023,Lopburi,10
+40455,Hand Foot Mouth,2023,Lopburi,11
+40456,Hand Foot Mouth,2023,Lopburi,12
+40457,Hand Foot Mouth,2023,Lopburi,13
+40458,Hand Foot Mouth,2023,Lopburi,14
+40459,Hand Foot Mouth,2023,Lopburi,15
+40460,Hand Foot Mouth,2023,Lopburi,16
+40461,Hand Foot Mouth,2023,Lopburi,17
+40462,Hand Foot Mouth,2023,Lopburi,18
+40463,Hand Foot Mouth,2023,Lopburi,19
+40464,Hand Foot Mouth,2023,Lopburi,20
+40465,Hand Foot Mouth,2023,Lopburi,21
+40466,Hand Foot Mouth,2023,Lopburi,22
+40467,Hand Foot Mouth,2023,Lopburi,23
+40468,Hand Foot Mouth,2023,Lopburi,24
+40469,Hand Foot Mouth,2023,Lopburi,25
+40470,Hand Foot Mouth,2023,Lopburi,26
+40471,Hand Foot Mouth,2023,Lopburi,27
+40472,Hand Foot Mouth,2023,Lopburi,28
+40473,Hand Foot Mouth,2023,Lopburi,29
+40474,Hand Foot Mouth,2023,Lopburi,30
+40475,Hand Foot Mouth,2023,Lopburi,31
+40476,Hand Foot Mouth,2023,Lopburi,32
+40477,Hand Foot Mouth,2023,Lopburi,33
+40478,Hand Foot Mouth,2023,Lopburi,34
+40479,Hand Foot Mouth,2023,Lopburi,35
+40480,Hand Foot Mouth,2023,Lopburi,36
+40481,Hand Foot Mouth,2023,Lopburi,37
+40482,Hand Foot Mouth,2023,Lopburi,38
+40483,Hand Foot Mouth,2023,Lopburi,39
+40484,Hand Foot Mouth,2023,Lopburi,40
+40485,Hand Foot Mouth,2023,Lopburi,41
+40486,Hand Foot Mouth,2023,Sing Buri,1
+40487,Hand Foot Mouth,2023,Sing Buri,2
+40488,Hand Foot Mouth,2023,Sing Buri,3
+40489,Hand Foot Mouth,2023,Sing Buri,4
+40490,Hand Foot Mouth,2023,Sing Buri,5
+40491,Hand Foot Mouth,2023,Sing Buri,6
+40492,Hand Foot Mouth,2023,Sing Buri,7
+40493,Hand Foot Mouth,2023,Sing Buri,8
+40494,Hand Foot Mouth,2023,Sing Buri,9
+40495,Hand Foot Mouth,2023,Sing Buri,10
+40496,Hand Foot Mouth,2023,Sing Buri,11
+40497,Hand Foot Mouth,2023,Sing Buri,12
+40498,Hand Foot Mouth,2023,Sing Buri,13
+40499,Hand Foot Mouth,2023,Sing Buri,14
+40500,Hand Foot Mouth,2023,Sing Buri,15
+40501,Hand Foot Mouth,2023,Sing Buri,16
+40502,Hand Foot Mouth,2023,Sing Buri,17
+40503,Hand Foot Mouth,2023,Sing Buri,18
+40504,Hand Foot Mouth,2023,Sing Buri,19
+40505,Hand Foot Mouth,2023,Sing Buri,20
+40506,Hand Foot Mouth,2023,Sing Buri,21
+40507,Hand Foot Mouth,2023,Sing Buri,22
+40508,Hand Foot Mouth,2023,Sing Buri,23
+40509,Hand Foot Mouth,2023,Sing Buri,24
+40510,Hand Foot Mouth,2023,Sing Buri,25
+40511,Hand Foot Mouth,2023,Sing Buri,26
+40512,Hand Foot Mouth,2023,Sing Buri,27
+40513,Hand Foot Mouth,2023,Sing Buri,28
+40514,Hand Foot Mouth,2023,Sing Buri,29
+40515,Hand Foot Mouth,2023,Sing Buri,30
+40516,Hand Foot Mouth,2023,Sing Buri,31
+40517,Hand Foot Mouth,2023,Sing Buri,32
+40518,Hand Foot Mouth,2023,Sing Buri,33
+40519,Hand Foot Mouth,2023,Sing Buri,34
+40520,Hand Foot Mouth,2023,Sing Buri,35
+40521,Hand Foot Mouth,2023,Sing Buri,36
+40522,Hand Foot Mouth,2023,Sing Buri,37
+40523,Hand Foot Mouth,2023,Sing Buri,38
+40524,Hand Foot Mouth,2023,Sing Buri,39
+40525,Hand Foot Mouth,2023,Sing Buri,40
+40526,Hand Foot Mouth,2023,Sing Buri,41
+40527,Hand Foot Mouth,2023,Chainat,1
+40528,Hand Foot Mouth,2023,Chainat,2
+40529,Hand Foot Mouth,2023,Chainat,3
+40530,Hand Foot Mouth,2023,Chainat,4
+40531,Hand Foot Mouth,2023,Chainat,5
+40532,Hand Foot Mouth,2023,Chainat,6
+40533,Hand Foot Mouth,2023,Chainat,7
+40534,Hand Foot Mouth,2023,Chainat,8
+40535,Hand Foot Mouth,2023,Chainat,9
+40536,Hand Foot Mouth,2023,Chainat,10
+40537,Hand Foot Mouth,2023,Chainat,11
+40538,Hand Foot Mouth,2023,Chainat,12
+40539,Hand Foot Mouth,2023,Chainat,13
+40540,Hand Foot Mouth,2023,Chainat,14
+40541,Hand Foot Mouth,2023,Chainat,15
+40542,Hand Foot Mouth,2023,Chainat,16
+40543,Hand Foot Mouth,2023,Chainat,17
+40544,Hand Foot Mouth,2023,Chainat,18
+40545,Hand Foot Mouth,2023,Chainat,19
+40546,Hand Foot Mouth,2023,Chainat,20
+40547,Hand Foot Mouth,2023,Chainat,21
+40548,Hand Foot Mouth,2023,Chainat,22
+40549,Hand Foot Mouth,2023,Chainat,23
+40550,Hand Foot Mouth,2023,Chainat,24
+40551,Hand Foot Mouth,2023,Chainat,25
+40552,Hand Foot Mouth,2023,Chainat,26
+40553,Hand Foot Mouth,2023,Chainat,27
+40554,Hand Foot Mouth,2023,Chainat,28
+40555,Hand Foot Mouth,2023,Chainat,29
+40556,Hand Foot Mouth,2023,Chainat,30
+40557,Hand Foot Mouth,2023,Chainat,31
+40558,Hand Foot Mouth,2023,Chainat,32
+40559,Hand Foot Mouth,2023,Chainat,33
+40560,Hand Foot Mouth,2023,Chainat,34
+40561,Hand Foot Mouth,2023,Chainat,35
+40562,Hand Foot Mouth,2023,Chainat,36
+40563,Hand Foot Mouth,2023,Chainat,37
+40564,Hand Foot Mouth,2023,Chainat,38
+40565,Hand Foot Mouth,2023,Chainat,39
+40566,Hand Foot Mouth,2023,Chainat,40
+40567,Hand Foot Mouth,2023,Chainat,41
+40568,Hand Foot Mouth,2023,Saraburi,1
+40569,Hand Foot Mouth,2023,Saraburi,2
+40570,Hand Foot Mouth,2023,Saraburi,3
+40571,Hand Foot Mouth,2023,Saraburi,4
+40572,Hand Foot Mouth,2023,Saraburi,5
+40573,Hand Foot Mouth,2023,Saraburi,6
+40574,Hand Foot Mouth,2023,Saraburi,7
+40575,Hand Foot Mouth,2023,Saraburi,8
+40576,Hand Foot Mouth,2023,Saraburi,9
+40577,Hand Foot Mouth,2023,Saraburi,10
+40578,Hand Foot Mouth,2023,Saraburi,11
+40579,Hand Foot Mouth,2023,Saraburi,12
+40580,Hand Foot Mouth,2023,Saraburi,13
+40581,Hand Foot Mouth,2023,Saraburi,14
+40582,Hand Foot Mouth,2023,Saraburi,15
+40583,Hand Foot Mouth,2023,Saraburi,16
+40584,Hand Foot Mouth,2023,Saraburi,17
+40585,Hand Foot Mouth,2023,Saraburi,18
+40586,Hand Foot Mouth,2023,Saraburi,19
+40587,Hand Foot Mouth,2023,Saraburi,20
+40588,Hand Foot Mouth,2023,Saraburi,21
+40589,Hand Foot Mouth,2023,Saraburi,22
+40590,Hand Foot Mouth,2023,Saraburi,23
+40591,Hand Foot Mouth,2023,Saraburi,24
+40592,Hand Foot Mouth,2023,Saraburi,25
+40593,Hand Foot Mouth,2023,Saraburi,26
+40594,Hand Foot Mouth,2023,Saraburi,27
+40595,Hand Foot Mouth,2023,Saraburi,28
+40596,Hand Foot Mouth,2023,Saraburi,29
+40597,Hand Foot Mouth,2023,Saraburi,30
+40598,Hand Foot Mouth,2023,Saraburi,31
+40599,Hand Foot Mouth,2023,Saraburi,32
+40600,Hand Foot Mouth,2023,Saraburi,33
+40601,Hand Foot Mouth,2023,Saraburi,34
+40602,Hand Foot Mouth,2023,Saraburi,35
+40603,Hand Foot Mouth,2023,Saraburi,36
+40604,Hand Foot Mouth,2023,Saraburi,37
+40605,Hand Foot Mouth,2023,Saraburi,38
+40606,Hand Foot Mouth,2023,Saraburi,39
+40607,Hand Foot Mouth,2023,Saraburi,40
+40608,Hand Foot Mouth,2023,Saraburi,41
+40609,Hand Foot Mouth,2023,Chonburi,1
+40610,Hand Foot Mouth,2023,Chonburi,2
+40611,Hand Foot Mouth,2023,Chonburi,3
+40612,Hand Foot Mouth,2023,Chonburi,4
+40613,Hand Foot Mouth,2023,Chonburi,5
+40614,Hand Foot Mouth,2023,Chonburi,6
+40615,Hand Foot Mouth,2023,Chonburi,7
+40616,Hand Foot Mouth,2023,Chonburi,8
+40617,Hand Foot Mouth,2023,Chonburi,9
+40618,Hand Foot Mouth,2023,Chonburi,10
+40619,Hand Foot Mouth,2023,Chonburi,11
+40620,Hand Foot Mouth,2023,Chonburi,12
+40621,Hand Foot Mouth,2023,Chonburi,13
+40622,Hand Foot Mouth,2023,Chonburi,14
+40623,Hand Foot Mouth,2023,Chonburi,15
+40624,Hand Foot Mouth,2023,Chonburi,16
+40625,Hand Foot Mouth,2023,Chonburi,17
+40626,Hand Foot Mouth,2023,Chonburi,18
+40627,Hand Foot Mouth,2023,Chonburi,19
+40628,Hand Foot Mouth,2023,Chonburi,20
+40629,Hand Foot Mouth,2023,Chonburi,21
+40630,Hand Foot Mouth,2023,Chonburi,22
+40631,Hand Foot Mouth,2023,Chonburi,23
+40632,Hand Foot Mouth,2023,Chonburi,24
+40633,Hand Foot Mouth,2023,Chonburi,25
+40634,Hand Foot Mouth,2023,Chonburi,26
+40635,Hand Foot Mouth,2023,Chonburi,27
+40636,Hand Foot Mouth,2023,Chonburi,28
+40637,Hand Foot Mouth,2023,Chonburi,29
+40638,Hand Foot Mouth,2023,Chonburi,30
+40639,Hand Foot Mouth,2023,Chonburi,31
+40640,Hand Foot Mouth,2023,Chonburi,32
+40641,Hand Foot Mouth,2023,Chonburi,33
+40642,Hand Foot Mouth,2023,Chonburi,34
+40643,Hand Foot Mouth,2023,Chonburi,35
+40644,Hand Foot Mouth,2023,Chonburi,36
+40645,Hand Foot Mouth,2023,Chonburi,37
+40646,Hand Foot Mouth,2023,Chonburi,38
+40647,Hand Foot Mouth,2023,Chonburi,39
+40648,Hand Foot Mouth,2023,Chonburi,40
+40649,Hand Foot Mouth,2023,Chonburi,41
+40650,Hand Foot Mouth,2023,Chonburi,42
+40651,Hand Foot Mouth,2023,Rayong,1
+40652,Hand Foot Mouth,2023,Rayong,2
+40653,Hand Foot Mouth,2023,Rayong,3
+40654,Hand Foot Mouth,2023,Rayong,4
+40655,Hand Foot Mouth,2023,Rayong,5
+40656,Hand Foot Mouth,2023,Rayong,6
+40657,Hand Foot Mouth,2023,Rayong,7
+40658,Hand Foot Mouth,2023,Rayong,8
+40659,Hand Foot Mouth,2023,Rayong,9
+40660,Hand Foot Mouth,2023,Rayong,10
+40661,Hand Foot Mouth,2023,Rayong,11
+40662,Hand Foot Mouth,2023,Rayong,12
+40663,Hand Foot Mouth,2023,Rayong,13
+40664,Hand Foot Mouth,2023,Rayong,14
+40665,Hand Foot Mouth,2023,Rayong,15
+40666,Hand Foot Mouth,2023,Rayong,16
+40667,Hand Foot Mouth,2023,Rayong,17
+40668,Hand Foot Mouth,2023,Rayong,18
+40669,Hand Foot Mouth,2023,Rayong,19
+40670,Hand Foot Mouth,2023,Rayong,20
+40671,Hand Foot Mouth,2023,Rayong,21
+40672,Hand Foot Mouth,2023,Rayong,22
+40673,Hand Foot Mouth,2023,Rayong,23
+40674,Hand Foot Mouth,2023,Rayong,24
+40675,Hand Foot Mouth,2023,Rayong,25
+40676,Hand Foot Mouth,2023,Rayong,26
+40677,Hand Foot Mouth,2023,Rayong,27
+40678,Hand Foot Mouth,2023,Rayong,28
+40679,Hand Foot Mouth,2023,Rayong,29
+40680,Hand Foot Mouth,2023,Rayong,30
+40681,Hand Foot Mouth,2023,Rayong,31
+40682,Hand Foot Mouth,2023,Rayong,32
+40683,Hand Foot Mouth,2023,Rayong,33
+40684,Hand Foot Mouth,2023,Rayong,34
+40685,Hand Foot Mouth,2023,Rayong,35
+40686,Hand Foot Mouth,2023,Rayong,36
+40687,Hand Foot Mouth,2023,Rayong,37
+40688,Hand Foot Mouth,2023,Rayong,38
+40689,Hand Foot Mouth,2023,Rayong,39
+40690,Hand Foot Mouth,2023,Rayong,40
+40691,Hand Foot Mouth,2023,Rayong,41
+40692,Hand Foot Mouth,2023,Rayong,42
+40693,Hand Foot Mouth,2023,Chanthaburi,1
+40694,Hand Foot Mouth,2023,Chanthaburi,2
+40695,Hand Foot Mouth,2023,Chanthaburi,3
+40696,Hand Foot Mouth,2023,Chanthaburi,4
+40697,Hand Foot Mouth,2023,Chanthaburi,5
+40698,Hand Foot Mouth,2023,Chanthaburi,6
+40699,Hand Foot Mouth,2023,Chanthaburi,7
+40700,Hand Foot Mouth,2023,Chanthaburi,8
+40701,Hand Foot Mouth,2023,Chanthaburi,9
+40702,Hand Foot Mouth,2023,Chanthaburi,10
+40703,Hand Foot Mouth,2023,Chanthaburi,11
+40704,Hand Foot Mouth,2023,Chanthaburi,12
+40705,Hand Foot Mouth,2023,Chanthaburi,13
+40706,Hand Foot Mouth,2023,Chanthaburi,14
+40707,Hand Foot Mouth,2023,Chanthaburi,15
+40708,Hand Foot Mouth,2023,Chanthaburi,16
+40709,Hand Foot Mouth,2023,Chanthaburi,17
+40710,Hand Foot Mouth,2023,Chanthaburi,18
+40711,Hand Foot Mouth,2023,Chanthaburi,19
+40712,Hand Foot Mouth,2023,Chanthaburi,20
+40713,Hand Foot Mouth,2023,Chanthaburi,21
+40714,Hand Foot Mouth,2023,Chanthaburi,22
+40715,Hand Foot Mouth,2023,Chanthaburi,23
+40716,Hand Foot Mouth,2023,Chanthaburi,24
+40717,Hand Foot Mouth,2023,Chanthaburi,25
+40718,Hand Foot Mouth,2023,Chanthaburi,26
+40719,Hand Foot Mouth,2023,Chanthaburi,27
+40720,Hand Foot Mouth,2023,Chanthaburi,28
+40721,Hand Foot Mouth,2023,Chanthaburi,29
+40722,Hand Foot Mouth,2023,Chanthaburi,30
+40723,Hand Foot Mouth,2023,Chanthaburi,31
+40724,Hand Foot Mouth,2023,Chanthaburi,32
+40725,Hand Foot Mouth,2023,Chanthaburi,33
+40726,Hand Foot Mouth,2023,Chanthaburi,34
+40727,Hand Foot Mouth,2023,Chanthaburi,35
+40728,Hand Foot Mouth,2023,Chanthaburi,36
+40729,Hand Foot Mouth,2023,Chanthaburi,37
+40730,Hand Foot Mouth,2023,Chanthaburi,38
+40731,Hand Foot Mouth,2023,Chanthaburi,39
+40732,Hand Foot Mouth,2023,Chanthaburi,40
+40733,Hand Foot Mouth,2023,Trat,1
+40734,Hand Foot Mouth,2023,Trat,2
+40735,Hand Foot Mouth,2023,Trat,3
+40736,Hand Foot Mouth,2023,Trat,4
+40737,Hand Foot Mouth,2023,Trat,5
+40738,Hand Foot Mouth,2023,Trat,6
+40739,Hand Foot Mouth,2023,Trat,7
+40740,Hand Foot Mouth,2023,Trat,8
+40741,Hand Foot Mouth,2023,Trat,9
+40742,Hand Foot Mouth,2023,Trat,10
+40743,Hand Foot Mouth,2023,Trat,11
+40744,Hand Foot Mouth,2023,Trat,12
+40745,Hand Foot Mouth,2023,Trat,13
+40746,Hand Foot Mouth,2023,Trat,14
+40747,Hand Foot Mouth,2023,Trat,15
+40748,Hand Foot Mouth,2023,Trat,16
+40749,Hand Foot Mouth,2023,Trat,17
+40750,Hand Foot Mouth,2023,Trat,18
+40751,Hand Foot Mouth,2023,Trat,19
+40752,Hand Foot Mouth,2023,Trat,20
+40753,Hand Foot Mouth,2023,Trat,21
+40754,Hand Foot Mouth,2023,Trat,22
+40755,Hand Foot Mouth,2023,Trat,23
+40756,Hand Foot Mouth,2023,Trat,24
+40757,Hand Foot Mouth,2023,Trat,25
+40758,Hand Foot Mouth,2023,Trat,26
+40759,Hand Foot Mouth,2023,Trat,27
+40760,Hand Foot Mouth,2023,Trat,28
+40761,Hand Foot Mouth,2023,Trat,29
+40762,Hand Foot Mouth,2023,Trat,30
+40763,Hand Foot Mouth,2023,Trat,31
+40764,Hand Foot Mouth,2023,Trat,32
+40765,Hand Foot Mouth,2023,Trat,33
+40766,Hand Foot Mouth,2023,Trat,34
+40767,Hand Foot Mouth,2023,Trat,35
+40768,Hand Foot Mouth,2023,Trat,36
+40769,Hand Foot Mouth,2023,Trat,37
+40770,Hand Foot Mouth,2023,Trat,38
+40771,Hand Foot Mouth,2023,Trat,39
+40772,Hand Foot Mouth,2023,Trat,40
+40773,Hand Foot Mouth,2023,Chachoengsao,1
+40774,Hand Foot Mouth,2023,Chachoengsao,2
+40775,Hand Foot Mouth,2023,Chachoengsao,3
+40776,Hand Foot Mouth,2023,Chachoengsao,4
+40777,Hand Foot Mouth,2023,Chachoengsao,5
+40778,Hand Foot Mouth,2023,Chachoengsao,6
+40779,Hand Foot Mouth,2023,Chachoengsao,7
+40780,Hand Foot Mouth,2023,Chachoengsao,8
+40781,Hand Foot Mouth,2023,Chachoengsao,9
+40782,Hand Foot Mouth,2023,Chachoengsao,10
+40783,Hand Foot Mouth,2023,Chachoengsao,11
+40784,Hand Foot Mouth,2023,Chachoengsao,12
+40785,Hand Foot Mouth,2023,Chachoengsao,13
+40786,Hand Foot Mouth,2023,Chachoengsao,14
+40787,Hand Foot Mouth,2023,Chachoengsao,15
+40788,Hand Foot Mouth,2023,Chachoengsao,16
+40789,Hand Foot Mouth,2023,Chachoengsao,17
+40790,Hand Foot Mouth,2023,Chachoengsao,18
+40791,Hand Foot Mouth,2023,Chachoengsao,19
+40792,Hand Foot Mouth,2023,Chachoengsao,20
+40793,Hand Foot Mouth,2023,Chachoengsao,21
+40794,Hand Foot Mouth,2023,Chachoengsao,22
+40795,Hand Foot Mouth,2023,Chachoengsao,23
+40796,Hand Foot Mouth,2023,Chachoengsao,24
+40797,Hand Foot Mouth,2023,Chachoengsao,25
+40798,Hand Foot Mouth,2023,Chachoengsao,26
+40799,Hand Foot Mouth,2023,Chachoengsao,27
+40800,Hand Foot Mouth,2023,Chachoengsao,28
+40801,Hand Foot Mouth,2023,Chachoengsao,29
+40802,Hand Foot Mouth,2023,Chachoengsao,30
+40803,Hand Foot Mouth,2023,Chachoengsao,31
+40804,Hand Foot Mouth,2023,Chachoengsao,32
+40805,Hand Foot Mouth,2023,Chachoengsao,33
+40806,Hand Foot Mouth,2023,Chachoengsao,34
+40807,Hand Foot Mouth,2023,Chachoengsao,35
+40808,Hand Foot Mouth,2023,Chachoengsao,36
+40809,Hand Foot Mouth,2023,Chachoengsao,37
+40810,Hand Foot Mouth,2023,Chachoengsao,38
+40811,Hand Foot Mouth,2023,Chachoengsao,39
+40812,Hand Foot Mouth,2023,Chachoengsao,40
+40813,Hand Foot Mouth,2023,Chachoengsao,41
+40814,Hand Foot Mouth,2023,Chachoengsao,42
+40815,Hand Foot Mouth,2023,Prachinburi,1
+40816,Hand Foot Mouth,2023,Prachinburi,2
+40817,Hand Foot Mouth,2023,Prachinburi,3
+40818,Hand Foot Mouth,2023,Prachinburi,4
+40819,Hand Foot Mouth,2023,Prachinburi,5
+40820,Hand Foot Mouth,2023,Prachinburi,6
+40821,Hand Foot Mouth,2023,Prachinburi,7
+40822,Hand Foot Mouth,2023,Prachinburi,8
+40823,Hand Foot Mouth,2023,Prachinburi,9
+40824,Hand Foot Mouth,2023,Prachinburi,10
+40825,Hand Foot Mouth,2023,Prachinburi,11
+40826,Hand Foot Mouth,2023,Prachinburi,12
+40827,Hand Foot Mouth,2023,Prachinburi,13
+40828,Hand Foot Mouth,2023,Prachinburi,14
+40829,Hand Foot Mouth,2023,Prachinburi,15
+40830,Hand Foot Mouth,2023,Prachinburi,16
+40831,Hand Foot Mouth,2023,Prachinburi,17
+40832,Hand Foot Mouth,2023,Prachinburi,18
+40833,Hand Foot Mouth,2023,Prachinburi,19
+40834,Hand Foot Mouth,2023,Prachinburi,20
+40835,Hand Foot Mouth,2023,Prachinburi,21
+40836,Hand Foot Mouth,2023,Prachinburi,22
+40837,Hand Foot Mouth,2023,Prachinburi,23
+40838,Hand Foot Mouth,2023,Prachinburi,24
+40839,Hand Foot Mouth,2023,Prachinburi,25
+40840,Hand Foot Mouth,2023,Prachinburi,26
+40841,Hand Foot Mouth,2023,Prachinburi,27
+40842,Hand Foot Mouth,2023,Prachinburi,28
+40843,Hand Foot Mouth,2023,Prachinburi,29
+40844,Hand Foot Mouth,2023,Prachinburi,30
+40845,Hand Foot Mouth,2023,Prachinburi,31
+40846,Hand Foot Mouth,2023,Prachinburi,32
+40847,Hand Foot Mouth,2023,Prachinburi,33
+40848,Hand Foot Mouth,2023,Prachinburi,34
+40849,Hand Foot Mouth,2023,Prachinburi,35
+40850,Hand Foot Mouth,2023,Prachinburi,36
+40851,Hand Foot Mouth,2023,Prachinburi,37
+40852,Hand Foot Mouth,2023,Prachinburi,38
+40853,Hand Foot Mouth,2023,Prachinburi,39
+40854,Hand Foot Mouth,2023,Prachinburi,40
+40855,Hand Foot Mouth,2023,Prachinburi,41
+40856,Hand Foot Mouth,2023,Nakhon Nayok,1
+40857,Hand Foot Mouth,2023,Nakhon Nayok,2
+40858,Hand Foot Mouth,2023,Nakhon Nayok,3
+40859,Hand Foot Mouth,2023,Nakhon Nayok,4
+40860,Hand Foot Mouth,2023,Nakhon Nayok,5
+40861,Hand Foot Mouth,2023,Nakhon Nayok,6
+40862,Hand Foot Mouth,2023,Nakhon Nayok,7
+40863,Hand Foot Mouth,2023,Nakhon Nayok,8
+40864,Hand Foot Mouth,2023,Nakhon Nayok,9
+40865,Hand Foot Mouth,2023,Nakhon Nayok,10
+40866,Hand Foot Mouth,2023,Nakhon Nayok,11
+40867,Hand Foot Mouth,2023,Nakhon Nayok,12
+40868,Hand Foot Mouth,2023,Nakhon Nayok,13
+40869,Hand Foot Mouth,2023,Nakhon Nayok,14
+40870,Hand Foot Mouth,2023,Nakhon Nayok,15
+40871,Hand Foot Mouth,2023,Nakhon Nayok,16
+40872,Hand Foot Mouth,2023,Nakhon Nayok,17
+40873,Hand Foot Mouth,2023,Nakhon Nayok,18
+40874,Hand Foot Mouth,2023,Nakhon Nayok,19
+40875,Hand Foot Mouth,2023,Nakhon Nayok,20
+40876,Hand Foot Mouth,2023,Nakhon Nayok,21
+40877,Hand Foot Mouth,2023,Nakhon Nayok,22
+40878,Hand Foot Mouth,2023,Nakhon Nayok,23
+40879,Hand Foot Mouth,2023,Nakhon Nayok,24
+40880,Hand Foot Mouth,2023,Nakhon Nayok,25
+40881,Hand Foot Mouth,2023,Nakhon Nayok,26
+40882,Hand Foot Mouth,2023,Nakhon Nayok,27
+40883,Hand Foot Mouth,2023,Nakhon Nayok,28
+40884,Hand Foot Mouth,2023,Nakhon Nayok,29
+40885,Hand Foot Mouth,2023,Nakhon Nayok,30
+40886,Hand Foot Mouth,2023,Nakhon Nayok,31
+40887,Hand Foot Mouth,2023,Nakhon Nayok,32
+40888,Hand Foot Mouth,2023,Nakhon Nayok,33
+40889,Hand Foot Mouth,2023,Nakhon Nayok,34
+40890,Hand Foot Mouth,2023,Nakhon Nayok,35
+40891,Hand Foot Mouth,2023,Nakhon Nayok,36
+40892,Hand Foot Mouth,2023,Nakhon Nayok,37
+40893,Hand Foot Mouth,2023,Nakhon Nayok,38
+40894,Hand Foot Mouth,2023,Nakhon Nayok,39
+40895,Hand Foot Mouth,2023,Nakhon Nayok,40
+40896,Hand Foot Mouth,2023,Nakhon Nayok,41
+40897,Hand Foot Mouth,2023,Nakhon Nayok,42
+40898,Hand Foot Mouth,2023,Sa Kaeo,1
+40899,Hand Foot Mouth,2023,Sa Kaeo,2
+40900,Hand Foot Mouth,2023,Sa Kaeo,3
+40901,Hand Foot Mouth,2023,Sa Kaeo,4
+40902,Hand Foot Mouth,2023,Sa Kaeo,5
+40903,Hand Foot Mouth,2023,Sa Kaeo,6
+40904,Hand Foot Mouth,2023,Sa Kaeo,7
+40905,Hand Foot Mouth,2023,Sa Kaeo,8
+40906,Hand Foot Mouth,2023,Sa Kaeo,9
+40907,Hand Foot Mouth,2023,Sa Kaeo,10
+40908,Hand Foot Mouth,2023,Sa Kaeo,11
+40909,Hand Foot Mouth,2023,Sa Kaeo,12
+40910,Hand Foot Mouth,2023,Sa Kaeo,13
+40911,Hand Foot Mouth,2023,Sa Kaeo,14
+40912,Hand Foot Mouth,2023,Sa Kaeo,15
+40913,Hand Foot Mouth,2023,Sa Kaeo,16
+40914,Hand Foot Mouth,2023,Sa Kaeo,17
+40915,Hand Foot Mouth,2023,Sa Kaeo,18
+40916,Hand Foot Mouth,2023,Sa Kaeo,19
+40917,Hand Foot Mouth,2023,Sa Kaeo,20
+40918,Hand Foot Mouth,2023,Sa Kaeo,21
+40919,Hand Foot Mouth,2023,Sa Kaeo,22
+40920,Hand Foot Mouth,2023,Sa Kaeo,23
+40921,Hand Foot Mouth,2023,Sa Kaeo,24
+40922,Hand Foot Mouth,2023,Sa Kaeo,25
+40923,Hand Foot Mouth,2023,Sa Kaeo,26
+40924,Hand Foot Mouth,2023,Sa Kaeo,27
+40925,Hand Foot Mouth,2023,Sa Kaeo,28
+40926,Hand Foot Mouth,2023,Sa Kaeo,29
+40927,Hand Foot Mouth,2023,Sa Kaeo,30
+40928,Hand Foot Mouth,2023,Sa Kaeo,31
+40929,Hand Foot Mouth,2023,Sa Kaeo,32
+40930,Hand Foot Mouth,2023,Sa Kaeo,33
+40931,Hand Foot Mouth,2023,Sa Kaeo,34
+40932,Hand Foot Mouth,2023,Sa Kaeo,35
+40933,Hand Foot Mouth,2023,Sa Kaeo,36
+40934,Hand Foot Mouth,2023,Sa Kaeo,37
+40935,Hand Foot Mouth,2023,Sa Kaeo,38
+40936,Hand Foot Mouth,2023,Sa Kaeo,39
+40937,Hand Foot Mouth,2023,Sa Kaeo,40
+40938,Hand Foot Mouth,2023,Sa Kaeo,41
+40939,Hand Foot Mouth,2023,Sa Kaeo,42
+40940,Hand Foot Mouth,2023,Nakhon Ratchasima,1
+40941,Hand Foot Mouth,2023,Nakhon Ratchasima,2
+40942,Hand Foot Mouth,2023,Nakhon Ratchasima,3
+40943,Hand Foot Mouth,2023,Nakhon Ratchasima,4
+40944,Hand Foot Mouth,2023,Nakhon Ratchasima,5
+40945,Hand Foot Mouth,2023,Nakhon Ratchasima,6
+40946,Hand Foot Mouth,2023,Nakhon Ratchasima,7
+40947,Hand Foot Mouth,2023,Nakhon Ratchasima,8
+40948,Hand Foot Mouth,2023,Nakhon Ratchasima,9
+40949,Hand Foot Mouth,2023,Nakhon Ratchasima,10
+40950,Hand Foot Mouth,2023,Nakhon Ratchasima,11
+40951,Hand Foot Mouth,2023,Nakhon Ratchasima,12
+40952,Hand Foot Mouth,2023,Nakhon Ratchasima,13
+40953,Hand Foot Mouth,2023,Nakhon Ratchasima,14
+40954,Hand Foot Mouth,2023,Nakhon Ratchasima,15
+40955,Hand Foot Mouth,2023,Nakhon Ratchasima,16
+40956,Hand Foot Mouth,2023,Nakhon Ratchasima,17
+40957,Hand Foot Mouth,2023,Nakhon Ratchasima,18
+40958,Hand Foot Mouth,2023,Nakhon Ratchasima,19
+40959,Hand Foot Mouth,2023,Nakhon Ratchasima,20
+40960,Hand Foot Mouth,2023,Nakhon Ratchasima,21
+40961,Hand Foot Mouth,2023,Nakhon Ratchasima,22
+40962,Hand Foot Mouth,2023,Nakhon Ratchasima,23
+40963,Hand Foot Mouth,2023,Nakhon Ratchasima,24
+40964,Hand Foot Mouth,2023,Nakhon Ratchasima,25
+40965,Hand Foot Mouth,2023,Nakhon Ratchasima,26
+40966,Hand Foot Mouth,2023,Nakhon Ratchasima,27
+40967,Hand Foot Mouth,2023,Nakhon Ratchasima,28
+40968,Hand Foot Mouth,2023,Nakhon Ratchasima,29
+40969,Hand Foot Mouth,2023,Nakhon Ratchasima,30
+40970,Hand Foot Mouth,2023,Nakhon Ratchasima,31
+40971,Hand Foot Mouth,2023,Nakhon Ratchasima,32
+40972,Hand Foot Mouth,2023,Nakhon Ratchasima,33
+40973,Hand Foot Mouth,2023,Nakhon Ratchasima,34
+40974,Hand Foot Mouth,2023,Nakhon Ratchasima,35
+40975,Hand Foot Mouth,2023,Nakhon Ratchasima,36
+40976,Hand Foot Mouth,2023,Nakhon Ratchasima,37
+40977,Hand Foot Mouth,2023,Nakhon Ratchasima,38
+40978,Hand Foot Mouth,2023,Nakhon Ratchasima,39
+40979,Hand Foot Mouth,2023,Nakhon Ratchasima,40
+40980,Hand Foot Mouth,2023,Nakhon Ratchasima,41
+40981,Hand Foot Mouth,2023,Nakhon Ratchasima,42
+40982,Hand Foot Mouth,2023,Buriram,1
+40983,Hand Foot Mouth,2023,Buriram,2
+40984,Hand Foot Mouth,2023,Buriram,3
+40985,Hand Foot Mouth,2023,Buriram,4
+40986,Hand Foot Mouth,2023,Buriram,5
+40987,Hand Foot Mouth,2023,Buriram,6
+40988,Hand Foot Mouth,2023,Buriram,7
+40989,Hand Foot Mouth,2023,Buriram,8
+40990,Hand Foot Mouth,2023,Buriram,9
+40991,Hand Foot Mouth,2023,Buriram,10
+40992,Hand Foot Mouth,2023,Buriram,11
+40993,Hand Foot Mouth,2023,Buriram,12
+40994,Hand Foot Mouth,2023,Buriram,13
+40995,Hand Foot Mouth,2023,Buriram,14
+40996,Hand Foot Mouth,2023,Buriram,15
+40997,Hand Foot Mouth,2023,Buriram,16
+40998,Hand Foot Mouth,2023,Buriram,17
+40999,Hand Foot Mouth,2023,Buriram,18
+41000,Hand Foot Mouth,2023,Buriram,19
+41001,Hand Foot Mouth,2023,Buriram,20
+41002,Hand Foot Mouth,2023,Buriram,21
+41003,Hand Foot Mouth,2023,Buriram,22
+41004,Hand Foot Mouth,2023,Buriram,23
+41005,Hand Foot Mouth,2023,Buriram,24
+41006,Hand Foot Mouth,2023,Buriram,25
+41007,Hand Foot Mouth,2023,Buriram,26
+41008,Hand Foot Mouth,2023,Buriram,27
+41009,Hand Foot Mouth,2023,Buriram,28
+41010,Hand Foot Mouth,2023,Buriram,29
+41011,Hand Foot Mouth,2023,Buriram,30
+41012,Hand Foot Mouth,2023,Buriram,31
+41013,Hand Foot Mouth,2023,Buriram,32
+41014,Hand Foot Mouth,2023,Buriram,33
+41015,Hand Foot Mouth,2023,Buriram,34
+41016,Hand Foot Mouth,2023,Buriram,35
+41017,Hand Foot Mouth,2023,Buriram,36
+41018,Hand Foot Mouth,2023,Buriram,37
+41019,Hand Foot Mouth,2023,Buriram,38
+41020,Hand Foot Mouth,2023,Buriram,39
+41021,Hand Foot Mouth,2023,Buriram,40
+41022,Hand Foot Mouth,2023,Buriram,41
+41023,Hand Foot Mouth,2023,Surin,1
+41024,Hand Foot Mouth,2023,Surin,2
+41025,Hand Foot Mouth,2023,Surin,3
+41026,Hand Foot Mouth,2023,Surin,4
+41027,Hand Foot Mouth,2023,Surin,5
+41028,Hand Foot Mouth,2023,Surin,6
+41029,Hand Foot Mouth,2023,Surin,7
+41030,Hand Foot Mouth,2023,Surin,8
+41031,Hand Foot Mouth,2023,Surin,9
+41032,Hand Foot Mouth,2023,Surin,10
+41033,Hand Foot Mouth,2023,Surin,11
+41034,Hand Foot Mouth,2023,Surin,12
+41035,Hand Foot Mouth,2023,Surin,13
+41036,Hand Foot Mouth,2023,Surin,14
+41037,Hand Foot Mouth,2023,Surin,15
+41038,Hand Foot Mouth,2023,Surin,16
+41039,Hand Foot Mouth,2023,Surin,17
+41040,Hand Foot Mouth,2023,Surin,18
+41041,Hand Foot Mouth,2023,Surin,19
+41042,Hand Foot Mouth,2023,Surin,20
+41043,Hand Foot Mouth,2023,Surin,21
+41044,Hand Foot Mouth,2023,Surin,22
+41045,Hand Foot Mouth,2023,Surin,23
+41046,Hand Foot Mouth,2023,Surin,24
+41047,Hand Foot Mouth,2023,Surin,25
+41048,Hand Foot Mouth,2023,Surin,26
+41049,Hand Foot Mouth,2023,Surin,27
+41050,Hand Foot Mouth,2023,Surin,28
+41051,Hand Foot Mouth,2023,Surin,29
+41052,Hand Foot Mouth,2023,Surin,30
+41053,Hand Foot Mouth,2023,Surin,31
+41054,Hand Foot Mouth,2023,Surin,32
+41055,Hand Foot Mouth,2023,Surin,33
+41056,Hand Foot Mouth,2023,Surin,34
+41057,Hand Foot Mouth,2023,Surin,35
+41058,Hand Foot Mouth,2023,Surin,36
+41059,Hand Foot Mouth,2023,Surin,37
+41060,Hand Foot Mouth,2023,Surin,38
+41061,Hand Foot Mouth,2023,Surin,39
+41062,Hand Foot Mouth,2023,Surin,40
+41063,Hand Foot Mouth,2023,Surin,41
+41064,Hand Foot Mouth,2023,Surin,42
+41065,Hand Foot Mouth,2023,Sisaket,1
+41066,Hand Foot Mouth,2023,Sisaket,2
+41067,Hand Foot Mouth,2023,Sisaket,3
+41068,Hand Foot Mouth,2023,Sisaket,4
+41069,Hand Foot Mouth,2023,Sisaket,5
+41070,Hand Foot Mouth,2023,Sisaket,6
+41071,Hand Foot Mouth,2023,Sisaket,7
+41072,Hand Foot Mouth,2023,Sisaket,8
+41073,Hand Foot Mouth,2023,Sisaket,9
+41074,Hand Foot Mouth,2023,Sisaket,10
+41075,Hand Foot Mouth,2023,Sisaket,11
+41076,Hand Foot Mouth,2023,Sisaket,12
+41077,Hand Foot Mouth,2023,Sisaket,13
+41078,Hand Foot Mouth,2023,Sisaket,14
+41079,Hand Foot Mouth,2023,Sisaket,15
+41080,Hand Foot Mouth,2023,Sisaket,16
+41081,Hand Foot Mouth,2023,Sisaket,17
+41082,Hand Foot Mouth,2023,Sisaket,18
+41083,Hand Foot Mouth,2023,Sisaket,19
+41084,Hand Foot Mouth,2023,Sisaket,20
+41085,Hand Foot Mouth,2023,Sisaket,21
+41086,Hand Foot Mouth,2023,Sisaket,22
+41087,Hand Foot Mouth,2023,Sisaket,23
+41088,Hand Foot Mouth,2023,Sisaket,24
+41089,Hand Foot Mouth,2023,Sisaket,25
+41090,Hand Foot Mouth,2023,Sisaket,26
+41091,Hand Foot Mouth,2023,Sisaket,27
+41092,Hand Foot Mouth,2023,Sisaket,28
+41093,Hand Foot Mouth,2023,Sisaket,29
+41094,Hand Foot Mouth,2023,Sisaket,30
+41095,Hand Foot Mouth,2023,Sisaket,31
+41096,Hand Foot Mouth,2023,Sisaket,32
+41097,Hand Foot Mouth,2023,Sisaket,33
+41098,Hand Foot Mouth,2023,Sisaket,34
+41099,Hand Foot Mouth,2023,Sisaket,35
+41100,Hand Foot Mouth,2023,Sisaket,36
+41101,Hand Foot Mouth,2023,Sisaket,37
+41102,Hand Foot Mouth,2023,Sisaket,38
+41103,Hand Foot Mouth,2023,Sisaket,39
+41104,Hand Foot Mouth,2023,Sisaket,40
+41105,Hand Foot Mouth,2023,Sisaket,41
+41106,Hand Foot Mouth,2023,Ubon Ratchathani,1
+41107,Hand Foot Mouth,2023,Ubon Ratchathani,2
+41108,Hand Foot Mouth,2023,Ubon Ratchathani,3
+41109,Hand Foot Mouth,2023,Ubon Ratchathani,4
+41110,Hand Foot Mouth,2023,Ubon Ratchathani,5
+41111,Hand Foot Mouth,2023,Ubon Ratchathani,6
+41112,Hand Foot Mouth,2023,Ubon Ratchathani,7
+41113,Hand Foot Mouth,2023,Ubon Ratchathani,8
+41114,Hand Foot Mouth,2023,Ubon Ratchathani,9
+41115,Hand Foot Mouth,2023,Ubon Ratchathani,10
+41116,Hand Foot Mouth,2023,Ubon Ratchathani,11
+41117,Hand Foot Mouth,2023,Ubon Ratchathani,12
+41118,Hand Foot Mouth,2023,Ubon Ratchathani,13
+41119,Hand Foot Mouth,2023,Ubon Ratchathani,14
+41120,Hand Foot Mouth,2023,Ubon Ratchathani,15
+41121,Hand Foot Mouth,2023,Ubon Ratchathani,16
+41122,Hand Foot Mouth,2023,Ubon Ratchathani,17
+41123,Hand Foot Mouth,2023,Ubon Ratchathani,18
+41124,Hand Foot Mouth,2023,Ubon Ratchathani,19
+41125,Hand Foot Mouth,2023,Ubon Ratchathani,20
+41126,Hand Foot Mouth,2023,Ubon Ratchathani,21
+41127,Hand Foot Mouth,2023,Ubon Ratchathani,22
+41128,Hand Foot Mouth,2023,Ubon Ratchathani,23
+41129,Hand Foot Mouth,2023,Ubon Ratchathani,24
+41130,Hand Foot Mouth,2023,Ubon Ratchathani,25
+41131,Hand Foot Mouth,2023,Ubon Ratchathani,26
+41132,Hand Foot Mouth,2023,Ubon Ratchathani,27
+41133,Hand Foot Mouth,2023,Ubon Ratchathani,28
+41134,Hand Foot Mouth,2023,Ubon Ratchathani,29
+41135,Hand Foot Mouth,2023,Ubon Ratchathani,30
+41136,Hand Foot Mouth,2023,Ubon Ratchathani,31
+41137,Hand Foot Mouth,2023,Ubon Ratchathani,32
+41138,Hand Foot Mouth,2023,Ubon Ratchathani,33
+41139,Hand Foot Mouth,2023,Ubon Ratchathani,34
+41140,Hand Foot Mouth,2023,Ubon Ratchathani,35
+41141,Hand Foot Mouth,2023,Ubon Ratchathani,36
+41142,Hand Foot Mouth,2023,Ubon Ratchathani,37
+41143,Hand Foot Mouth,2023,Ubon Ratchathani,38
+41144,Hand Foot Mouth,2023,Ubon Ratchathani,39
+41145,Hand Foot Mouth,2023,Ubon Ratchathani,40
+41146,Hand Foot Mouth,2023,Ubon Ratchathani,41
+41147,Hand Foot Mouth,2023,Yasothon,1
+41148,Hand Foot Mouth,2023,Yasothon,2
+41149,Hand Foot Mouth,2023,Yasothon,3
+41150,Hand Foot Mouth,2023,Yasothon,4
+41151,Hand Foot Mouth,2023,Yasothon,5
+41152,Hand Foot Mouth,2023,Yasothon,6
+41153,Hand Foot Mouth,2023,Yasothon,7
+41154,Hand Foot Mouth,2023,Yasothon,8
+41155,Hand Foot Mouth,2023,Yasothon,9
+41156,Hand Foot Mouth,2023,Yasothon,10
+41157,Hand Foot Mouth,2023,Yasothon,11
+41158,Hand Foot Mouth,2023,Yasothon,12
+41159,Hand Foot Mouth,2023,Yasothon,13
+41160,Hand Foot Mouth,2023,Yasothon,14
+41161,Hand Foot Mouth,2023,Yasothon,15
+41162,Hand Foot Mouth,2023,Yasothon,16
+41163,Hand Foot Mouth,2023,Yasothon,17
+41164,Hand Foot Mouth,2023,Yasothon,18
+41165,Hand Foot Mouth,2023,Yasothon,19
+41166,Hand Foot Mouth,2023,Yasothon,20
+41167,Hand Foot Mouth,2023,Yasothon,21
+41168,Hand Foot Mouth,2023,Yasothon,22
+41169,Hand Foot Mouth,2023,Yasothon,23
+41170,Hand Foot Mouth,2023,Yasothon,24
+41171,Hand Foot Mouth,2023,Yasothon,25
+41172,Hand Foot Mouth,2023,Yasothon,26
+41173,Hand Foot Mouth,2023,Yasothon,27
+41174,Hand Foot Mouth,2023,Yasothon,28
+41175,Hand Foot Mouth,2023,Yasothon,29
+41176,Hand Foot Mouth,2023,Yasothon,30
+41177,Hand Foot Mouth,2023,Yasothon,31
+41178,Hand Foot Mouth,2023,Yasothon,32
+41179,Hand Foot Mouth,2023,Yasothon,33
+41180,Hand Foot Mouth,2023,Yasothon,34
+41181,Hand Foot Mouth,2023,Yasothon,35
+41182,Hand Foot Mouth,2023,Yasothon,36
+41183,Hand Foot Mouth,2023,Yasothon,37
+41184,Hand Foot Mouth,2023,Yasothon,38
+41185,Hand Foot Mouth,2023,Yasothon,39
+41186,Hand Foot Mouth,2023,Yasothon,40
+41187,Hand Foot Mouth,2023,Yasothon,41
+41188,Hand Foot Mouth,2023,Yasothon,42
+41189,Hand Foot Mouth,2023,Chaiyaphum,1
+41190,Hand Foot Mouth,2023,Chaiyaphum,2
+41191,Hand Foot Mouth,2023,Chaiyaphum,3
+41192,Hand Foot Mouth,2023,Chaiyaphum,4
+41193,Hand Foot Mouth,2023,Chaiyaphum,5
+41194,Hand Foot Mouth,2023,Chaiyaphum,6
+41195,Hand Foot Mouth,2023,Chaiyaphum,7
+41196,Hand Foot Mouth,2023,Chaiyaphum,8
+41197,Hand Foot Mouth,2023,Chaiyaphum,9
+41198,Hand Foot Mouth,2023,Chaiyaphum,10
+41199,Hand Foot Mouth,2023,Chaiyaphum,11
+41200,Hand Foot Mouth,2023,Chaiyaphum,12
+41201,Hand Foot Mouth,2023,Chaiyaphum,13
+41202,Hand Foot Mouth,2023,Chaiyaphum,14
+41203,Hand Foot Mouth,2023,Chaiyaphum,15
+41204,Hand Foot Mouth,2023,Chaiyaphum,16
+41205,Hand Foot Mouth,2023,Chaiyaphum,17
+41206,Hand Foot Mouth,2023,Chaiyaphum,18
+41207,Hand Foot Mouth,2023,Chaiyaphum,19
+41208,Hand Foot Mouth,2023,Chaiyaphum,20
+41209,Hand Foot Mouth,2023,Chaiyaphum,21
+41210,Hand Foot Mouth,2023,Chaiyaphum,22
+41211,Hand Foot Mouth,2023,Chaiyaphum,23
+41212,Hand Foot Mouth,2023,Chaiyaphum,24
+41213,Hand Foot Mouth,2023,Chaiyaphum,25
+41214,Hand Foot Mouth,2023,Chaiyaphum,26
+41215,Hand Foot Mouth,2023,Chaiyaphum,27
+41216,Hand Foot Mouth,2023,Chaiyaphum,28
+41217,Hand Foot Mouth,2023,Chaiyaphum,29
+41218,Hand Foot Mouth,2023,Chaiyaphum,30
+41219,Hand Foot Mouth,2023,Chaiyaphum,31
+41220,Hand Foot Mouth,2023,Chaiyaphum,32
+41221,Hand Foot Mouth,2023,Chaiyaphum,33
+41222,Hand Foot Mouth,2023,Chaiyaphum,34
+41223,Hand Foot Mouth,2023,Chaiyaphum,35
+41224,Hand Foot Mouth,2023,Chaiyaphum,36
+41225,Hand Foot Mouth,2023,Chaiyaphum,37
+41226,Hand Foot Mouth,2023,Chaiyaphum,38
+41227,Hand Foot Mouth,2023,Chaiyaphum,39
+41228,Hand Foot Mouth,2023,Chaiyaphum,40
+41229,Hand Foot Mouth,2023,Chaiyaphum,41
+41230,Hand Foot Mouth,2023,Amnat Charoen,1
+41231,Hand Foot Mouth,2023,Amnat Charoen,2
+41232,Hand Foot Mouth,2023,Amnat Charoen,3
+41233,Hand Foot Mouth,2023,Amnat Charoen,4
+41234,Hand Foot Mouth,2023,Amnat Charoen,5
+41235,Hand Foot Mouth,2023,Amnat Charoen,6
+41236,Hand Foot Mouth,2023,Amnat Charoen,7
+41237,Hand Foot Mouth,2023,Amnat Charoen,8
+41238,Hand Foot Mouth,2023,Amnat Charoen,9
+41239,Hand Foot Mouth,2023,Amnat Charoen,10
+41240,Hand Foot Mouth,2023,Amnat Charoen,11
+41241,Hand Foot Mouth,2023,Amnat Charoen,12
+41242,Hand Foot Mouth,2023,Amnat Charoen,13
+41243,Hand Foot Mouth,2023,Amnat Charoen,14
+41244,Hand Foot Mouth,2023,Amnat Charoen,15
+41245,Hand Foot Mouth,2023,Amnat Charoen,16
+41246,Hand Foot Mouth,2023,Amnat Charoen,17
+41247,Hand Foot Mouth,2023,Amnat Charoen,18
+41248,Hand Foot Mouth,2023,Amnat Charoen,19
+41249,Hand Foot Mouth,2023,Amnat Charoen,20
+41250,Hand Foot Mouth,2023,Amnat Charoen,21
+41251,Hand Foot Mouth,2023,Amnat Charoen,22
+41252,Hand Foot Mouth,2023,Amnat Charoen,23
+41253,Hand Foot Mouth,2023,Amnat Charoen,24
+41254,Hand Foot Mouth,2023,Amnat Charoen,25
+41255,Hand Foot Mouth,2023,Amnat Charoen,26
+41256,Hand Foot Mouth,2023,Amnat Charoen,27
+41257,Hand Foot Mouth,2023,Amnat Charoen,28
+41258,Hand Foot Mouth,2023,Amnat Charoen,29
+41259,Hand Foot Mouth,2023,Amnat Charoen,30
+41260,Hand Foot Mouth,2023,Amnat Charoen,31
+41261,Hand Foot Mouth,2023,Amnat Charoen,32
+41262,Hand Foot Mouth,2023,Amnat Charoen,33
+41263,Hand Foot Mouth,2023,Amnat Charoen,34
+41264,Hand Foot Mouth,2023,Amnat Charoen,35
+41265,Hand Foot Mouth,2023,Amnat Charoen,36
+41266,Hand Foot Mouth,2023,Amnat Charoen,37
+41267,Hand Foot Mouth,2023,Amnat Charoen,38
+41268,Hand Foot Mouth,2023,Amnat Charoen,39
+41269,Hand Foot Mouth,2023,Amnat Charoen,40
+41270,Hand Foot Mouth,2023,Amnat Charoen,41
+41271,Hand Foot Mouth,2023,Amnat Charoen,42
+41272,Hand Foot Mouth,2023,Bueng Kan,1
+41273,Hand Foot Mouth,2023,Bueng Kan,2
+41274,Hand Foot Mouth,2023,Bueng Kan,3
+41275,Hand Foot Mouth,2023,Bueng Kan,4
+41276,Hand Foot Mouth,2023,Bueng Kan,5
+41277,Hand Foot Mouth,2023,Bueng Kan,6
+41278,Hand Foot Mouth,2023,Bueng Kan,7
+41279,Hand Foot Mouth,2023,Bueng Kan,8
+41280,Hand Foot Mouth,2023,Bueng Kan,9
+41281,Hand Foot Mouth,2023,Bueng Kan,10
+41282,Hand Foot Mouth,2023,Bueng Kan,11
+41283,Hand Foot Mouth,2023,Bueng Kan,12
+41284,Hand Foot Mouth,2023,Bueng Kan,13
+41285,Hand Foot Mouth,2023,Bueng Kan,14
+41286,Hand Foot Mouth,2023,Bueng Kan,15
+41287,Hand Foot Mouth,2023,Bueng Kan,16
+41288,Hand Foot Mouth,2023,Bueng Kan,17
+41289,Hand Foot Mouth,2023,Bueng Kan,18
+41290,Hand Foot Mouth,2023,Bueng Kan,19
+41291,Hand Foot Mouth,2023,Bueng Kan,20
+41292,Hand Foot Mouth,2023,Bueng Kan,21
+41293,Hand Foot Mouth,2023,Bueng Kan,22
+41294,Hand Foot Mouth,2023,Bueng Kan,23
+41295,Hand Foot Mouth,2023,Bueng Kan,24
+41296,Hand Foot Mouth,2023,Bueng Kan,25
+41297,Hand Foot Mouth,2023,Bueng Kan,26
+41298,Hand Foot Mouth,2023,Bueng Kan,27
+41299,Hand Foot Mouth,2023,Bueng Kan,28
+41300,Hand Foot Mouth,2023,Bueng Kan,29
+41301,Hand Foot Mouth,2023,Bueng Kan,30
+41302,Hand Foot Mouth,2023,Bueng Kan,31
+41303,Hand Foot Mouth,2023,Bueng Kan,32
+41304,Hand Foot Mouth,2023,Bueng Kan,33
+41305,Hand Foot Mouth,2023,Bueng Kan,34
+41306,Hand Foot Mouth,2023,Bueng Kan,35
+41307,Hand Foot Mouth,2023,Bueng Kan,36
+41308,Hand Foot Mouth,2023,Bueng Kan,37
+41309,Hand Foot Mouth,2023,Bueng Kan,38
+41310,Hand Foot Mouth,2023,Bueng Kan,39
+41311,Hand Foot Mouth,2023,Bueng Kan,40
+41312,Hand Foot Mouth,2023,Bueng Kan,41
+41313,Hand Foot Mouth,2023,Bueng Kan,42
+41314,Hand Foot Mouth,2023,Nong Bua Lamphu,1
+41315,Hand Foot Mouth,2023,Nong Bua Lamphu,2
+41316,Hand Foot Mouth,2023,Nong Bua Lamphu,3
+41317,Hand Foot Mouth,2023,Nong Bua Lamphu,4
+41318,Hand Foot Mouth,2023,Nong Bua Lamphu,5
+41319,Hand Foot Mouth,2023,Nong Bua Lamphu,6
+41320,Hand Foot Mouth,2023,Nong Bua Lamphu,7
+41321,Hand Foot Mouth,2023,Nong Bua Lamphu,8
+41322,Hand Foot Mouth,2023,Nong Bua Lamphu,9
+41323,Hand Foot Mouth,2023,Nong Bua Lamphu,10
+41324,Hand Foot Mouth,2023,Nong Bua Lamphu,11
+41325,Hand Foot Mouth,2023,Nong Bua Lamphu,12
+41326,Hand Foot Mouth,2023,Nong Bua Lamphu,13
+41327,Hand Foot Mouth,2023,Nong Bua Lamphu,14
+41328,Hand Foot Mouth,2023,Nong Bua Lamphu,15
+41329,Hand Foot Mouth,2023,Nong Bua Lamphu,16
+41330,Hand Foot Mouth,2023,Nong Bua Lamphu,17
+41331,Hand Foot Mouth,2023,Nong Bua Lamphu,18
+41332,Hand Foot Mouth,2023,Nong Bua Lamphu,19
+41333,Hand Foot Mouth,2023,Nong Bua Lamphu,20
+41334,Hand Foot Mouth,2023,Nong Bua Lamphu,21
+41335,Hand Foot Mouth,2023,Nong Bua Lamphu,22
+41336,Hand Foot Mouth,2023,Nong Bua Lamphu,23
+41337,Hand Foot Mouth,2023,Nong Bua Lamphu,24
+41338,Hand Foot Mouth,2023,Nong Bua Lamphu,25
+41339,Hand Foot Mouth,2023,Nong Bua Lamphu,26
+41340,Hand Foot Mouth,2023,Nong Bua Lamphu,27
+41341,Hand Foot Mouth,2023,Nong Bua Lamphu,28
+41342,Hand Foot Mouth,2023,Nong Bua Lamphu,29
+41343,Hand Foot Mouth,2023,Nong Bua Lamphu,30
+41344,Hand Foot Mouth,2023,Nong Bua Lamphu,31
+41345,Hand Foot Mouth,2023,Nong Bua Lamphu,32
+41346,Hand Foot Mouth,2023,Nong Bua Lamphu,33
+41347,Hand Foot Mouth,2023,Nong Bua Lamphu,34
+41348,Hand Foot Mouth,2023,Nong Bua Lamphu,35
+41349,Hand Foot Mouth,2023,Nong Bua Lamphu,36
+41350,Hand Foot Mouth,2023,Nong Bua Lamphu,37
+41351,Hand Foot Mouth,2023,Nong Bua Lamphu,38
+41352,Hand Foot Mouth,2023,Nong Bua Lamphu,39
+41353,Hand Foot Mouth,2023,Nong Bua Lamphu,40
+41354,Hand Foot Mouth,2023,Nong Bua Lamphu,41
+41355,Hand Foot Mouth,2023,Khon Kaen,1
+41356,Hand Foot Mouth,2023,Khon Kaen,2
+41357,Hand Foot Mouth,2023,Khon Kaen,3
+41358,Hand Foot Mouth,2023,Khon Kaen,4
+41359,Hand Foot Mouth,2023,Khon Kaen,5
+41360,Hand Foot Mouth,2023,Khon Kaen,6
+41361,Hand Foot Mouth,2023,Khon Kaen,7
+41362,Hand Foot Mouth,2023,Khon Kaen,8
+41363,Hand Foot Mouth,2023,Khon Kaen,9
+41364,Hand Foot Mouth,2023,Khon Kaen,10
+41365,Hand Foot Mouth,2023,Khon Kaen,11
+41366,Hand Foot Mouth,2023,Khon Kaen,12
+41367,Hand Foot Mouth,2023,Khon Kaen,13
+41368,Hand Foot Mouth,2023,Khon Kaen,14
+41369,Hand Foot Mouth,2023,Khon Kaen,15
+41370,Hand Foot Mouth,2023,Khon Kaen,16
+41371,Hand Foot Mouth,2023,Khon Kaen,17
+41372,Hand Foot Mouth,2023,Khon Kaen,18
+41373,Hand Foot Mouth,2023,Khon Kaen,19
+41374,Hand Foot Mouth,2023,Khon Kaen,20
+41375,Hand Foot Mouth,2023,Khon Kaen,21
+41376,Hand Foot Mouth,2023,Khon Kaen,22
+41377,Hand Foot Mouth,2023,Khon Kaen,23
+41378,Hand Foot Mouth,2023,Khon Kaen,24
+41379,Hand Foot Mouth,2023,Khon Kaen,25
+41380,Hand Foot Mouth,2023,Khon Kaen,26
+41381,Hand Foot Mouth,2023,Khon Kaen,27
+41382,Hand Foot Mouth,2023,Khon Kaen,28
+41383,Hand Foot Mouth,2023,Khon Kaen,29
+41384,Hand Foot Mouth,2023,Khon Kaen,30
+41385,Hand Foot Mouth,2023,Khon Kaen,31
+41386,Hand Foot Mouth,2023,Khon Kaen,32
+41387,Hand Foot Mouth,2023,Khon Kaen,33
+41388,Hand Foot Mouth,2023,Khon Kaen,34
+41389,Hand Foot Mouth,2023,Khon Kaen,35
+41390,Hand Foot Mouth,2023,Khon Kaen,36
+41391,Hand Foot Mouth,2023,Khon Kaen,37
+41392,Hand Foot Mouth,2023,Khon Kaen,38
+41393,Hand Foot Mouth,2023,Khon Kaen,39
+41394,Hand Foot Mouth,2023,Khon Kaen,40
+41395,Hand Foot Mouth,2023,Khon Kaen,41
+41396,Hand Foot Mouth,2023,Khon Kaen,42
+41397,Hand Foot Mouth,2023,Udon Thani,1
+41398,Hand Foot Mouth,2023,Udon Thani,2
+41399,Hand Foot Mouth,2023,Udon Thani,3
+41400,Hand Foot Mouth,2023,Udon Thani,4
+41401,Hand Foot Mouth,2023,Udon Thani,5
+41402,Hand Foot Mouth,2023,Udon Thani,6
+41403,Hand Foot Mouth,2023,Udon Thani,7
+41404,Hand Foot Mouth,2023,Udon Thani,8
+41405,Hand Foot Mouth,2023,Udon Thani,9
+41406,Hand Foot Mouth,2023,Udon Thani,10
+41407,Hand Foot Mouth,2023,Udon Thani,11
+41408,Hand Foot Mouth,2023,Udon Thani,12
+41409,Hand Foot Mouth,2023,Udon Thani,13
+41410,Hand Foot Mouth,2023,Udon Thani,14
+41411,Hand Foot Mouth,2023,Udon Thani,15
+41412,Hand Foot Mouth,2023,Udon Thani,16
+41413,Hand Foot Mouth,2023,Udon Thani,17
+41414,Hand Foot Mouth,2023,Udon Thani,18
+41415,Hand Foot Mouth,2023,Udon Thani,19
+41416,Hand Foot Mouth,2023,Udon Thani,20
+41417,Hand Foot Mouth,2023,Udon Thani,21
+41418,Hand Foot Mouth,2023,Udon Thani,22
+41419,Hand Foot Mouth,2023,Udon Thani,23
+41420,Hand Foot Mouth,2023,Udon Thani,24
+41421,Hand Foot Mouth,2023,Udon Thani,25
+41422,Hand Foot Mouth,2023,Udon Thani,26
+41423,Hand Foot Mouth,2023,Udon Thani,27
+41424,Hand Foot Mouth,2023,Udon Thani,28
+41425,Hand Foot Mouth,2023,Udon Thani,29
+41426,Hand Foot Mouth,2023,Udon Thani,30
+41427,Hand Foot Mouth,2023,Udon Thani,31
+41428,Hand Foot Mouth,2023,Udon Thani,32
+41429,Hand Foot Mouth,2023,Udon Thani,33
+41430,Hand Foot Mouth,2023,Udon Thani,34
+41431,Hand Foot Mouth,2023,Udon Thani,35
+41432,Hand Foot Mouth,2023,Udon Thani,36
+41433,Hand Foot Mouth,2023,Udon Thani,37
+41434,Hand Foot Mouth,2023,Udon Thani,38
+41435,Hand Foot Mouth,2023,Udon Thani,39
+41436,Hand Foot Mouth,2023,Udon Thani,40
+41437,Hand Foot Mouth,2023,Udon Thani,41
+41438,Hand Foot Mouth,2023,Udon Thani,42
+41439,Hand Foot Mouth,2023,Loei,1
+41440,Hand Foot Mouth,2023,Loei,2
+41441,Hand Foot Mouth,2023,Loei,3
+41442,Hand Foot Mouth,2023,Loei,4
+41443,Hand Foot Mouth,2023,Loei,5
+41444,Hand Foot Mouth,2023,Loei,6
+41445,Hand Foot Mouth,2023,Loei,7
+41446,Hand Foot Mouth,2023,Loei,8
+41447,Hand Foot Mouth,2023,Loei,9
+41448,Hand Foot Mouth,2023,Loei,10
+41449,Hand Foot Mouth,2023,Loei,11
+41450,Hand Foot Mouth,2023,Loei,12
+41451,Hand Foot Mouth,2023,Loei,13
+41452,Hand Foot Mouth,2023,Loei,14
+41453,Hand Foot Mouth,2023,Loei,15
+41454,Hand Foot Mouth,2023,Loei,16
+41455,Hand Foot Mouth,2023,Loei,17
+41456,Hand Foot Mouth,2023,Loei,18
+41457,Hand Foot Mouth,2023,Loei,19
+41458,Hand Foot Mouth,2023,Loei,20
+41459,Hand Foot Mouth,2023,Loei,21
+41460,Hand Foot Mouth,2023,Loei,22
+41461,Hand Foot Mouth,2023,Loei,23
+41462,Hand Foot Mouth,2023,Loei,24
+41463,Hand Foot Mouth,2023,Loei,25
+41464,Hand Foot Mouth,2023,Loei,26
+41465,Hand Foot Mouth,2023,Loei,27
+41466,Hand Foot Mouth,2023,Loei,28
+41467,Hand Foot Mouth,2023,Loei,29
+41468,Hand Foot Mouth,2023,Loei,30
+41469,Hand Foot Mouth,2023,Loei,31
+41470,Hand Foot Mouth,2023,Loei,32
+41471,Hand Foot Mouth,2023,Loei,33
+41472,Hand Foot Mouth,2023,Loei,34
+41473,Hand Foot Mouth,2023,Loei,35
+41474,Hand Foot Mouth,2023,Loei,36
+41475,Hand Foot Mouth,2023,Loei,37
+41476,Hand Foot Mouth,2023,Loei,38
+41477,Hand Foot Mouth,2023,Loei,39
+41478,Hand Foot Mouth,2023,Loei,40
+41479,Hand Foot Mouth,2023,Loei,41
+41480,Hand Foot Mouth,2023,Nong Khai,1
+41481,Hand Foot Mouth,2023,Nong Khai,2
+41482,Hand Foot Mouth,2023,Nong Khai,3
+41483,Hand Foot Mouth,2023,Nong Khai,4
+41484,Hand Foot Mouth,2023,Nong Khai,5
+41485,Hand Foot Mouth,2023,Nong Khai,6
+41486,Hand Foot Mouth,2023,Nong Khai,7
+41487,Hand Foot Mouth,2023,Nong Khai,8
+41488,Hand Foot Mouth,2023,Nong Khai,9
+41489,Hand Foot Mouth,2023,Nong Khai,10
+41490,Hand Foot Mouth,2023,Nong Khai,11
+41491,Hand Foot Mouth,2023,Nong Khai,12
+41492,Hand Foot Mouth,2023,Nong Khai,13
+41493,Hand Foot Mouth,2023,Nong Khai,14
+41494,Hand Foot Mouth,2023,Nong Khai,15
+41495,Hand Foot Mouth,2023,Nong Khai,16
+41496,Hand Foot Mouth,2023,Nong Khai,17
+41497,Hand Foot Mouth,2023,Nong Khai,18
+41498,Hand Foot Mouth,2023,Nong Khai,19
+41499,Hand Foot Mouth,2023,Nong Khai,20
+41500,Hand Foot Mouth,2023,Nong Khai,21
+41501,Hand Foot Mouth,2023,Nong Khai,22
+41502,Hand Foot Mouth,2023,Nong Khai,23
+41503,Hand Foot Mouth,2023,Nong Khai,24
+41504,Hand Foot Mouth,2023,Nong Khai,25
+41505,Hand Foot Mouth,2023,Nong Khai,26
+41506,Hand Foot Mouth,2023,Nong Khai,27
+41507,Hand Foot Mouth,2023,Nong Khai,28
+41508,Hand Foot Mouth,2023,Nong Khai,29
+41509,Hand Foot Mouth,2023,Nong Khai,30
+41510,Hand Foot Mouth,2023,Nong Khai,31
+41511,Hand Foot Mouth,2023,Nong Khai,32
+41512,Hand Foot Mouth,2023,Nong Khai,33
+41513,Hand Foot Mouth,2023,Nong Khai,34
+41514,Hand Foot Mouth,2023,Nong Khai,35
+41515,Hand Foot Mouth,2023,Nong Khai,36
+41516,Hand Foot Mouth,2023,Nong Khai,37
+41517,Hand Foot Mouth,2023,Nong Khai,38
+41518,Hand Foot Mouth,2023,Nong Khai,39
+41519,Hand Foot Mouth,2023,Nong Khai,40
+41520,Hand Foot Mouth,2023,Nong Khai,41
+41521,Hand Foot Mouth,2023,Nong Khai,42
+41522,Hand Foot Mouth,2023,Maha Sarakham,1
+41523,Hand Foot Mouth,2023,Maha Sarakham,2
+41524,Hand Foot Mouth,2023,Maha Sarakham,3
+41525,Hand Foot Mouth,2023,Maha Sarakham,4
+41526,Hand Foot Mouth,2023,Maha Sarakham,5
+41527,Hand Foot Mouth,2023,Maha Sarakham,6
+41528,Hand Foot Mouth,2023,Maha Sarakham,7
+41529,Hand Foot Mouth,2023,Maha Sarakham,8
+41530,Hand Foot Mouth,2023,Maha Sarakham,9
+41531,Hand Foot Mouth,2023,Maha Sarakham,10
+41532,Hand Foot Mouth,2023,Maha Sarakham,11
+41533,Hand Foot Mouth,2023,Maha Sarakham,12
+41534,Hand Foot Mouth,2023,Maha Sarakham,13
+41535,Hand Foot Mouth,2023,Maha Sarakham,14
+41536,Hand Foot Mouth,2023,Maha Sarakham,15
+41537,Hand Foot Mouth,2023,Maha Sarakham,16
+41538,Hand Foot Mouth,2023,Maha Sarakham,17
+41539,Hand Foot Mouth,2023,Maha Sarakham,18
+41540,Hand Foot Mouth,2023,Maha Sarakham,19
+41541,Hand Foot Mouth,2023,Maha Sarakham,20
+41542,Hand Foot Mouth,2023,Maha Sarakham,21
+41543,Hand Foot Mouth,2023,Maha Sarakham,22
+41544,Hand Foot Mouth,2023,Maha Sarakham,23
+41545,Hand Foot Mouth,2023,Maha Sarakham,24
+41546,Hand Foot Mouth,2023,Maha Sarakham,25
+41547,Hand Foot Mouth,2023,Maha Sarakham,26
+41548,Hand Foot Mouth,2023,Maha Sarakham,27
+41549,Hand Foot Mouth,2023,Maha Sarakham,28
+41550,Hand Foot Mouth,2023,Maha Sarakham,29
+41551,Hand Foot Mouth,2023,Maha Sarakham,30
+41552,Hand Foot Mouth,2023,Maha Sarakham,31
+41553,Hand Foot Mouth,2023,Maha Sarakham,32
+41554,Hand Foot Mouth,2023,Maha Sarakham,33
+41555,Hand Foot Mouth,2023,Maha Sarakham,34
+41556,Hand Foot Mouth,2023,Maha Sarakham,35
+41557,Hand Foot Mouth,2023,Maha Sarakham,36
+41558,Hand Foot Mouth,2023,Maha Sarakham,37
+41559,Hand Foot Mouth,2023,Maha Sarakham,38
+41560,Hand Foot Mouth,2023,Maha Sarakham,39
+41561,Hand Foot Mouth,2023,Maha Sarakham,40
+41562,Hand Foot Mouth,2023,Maha Sarakham,41
+41563,Hand Foot Mouth,2023,Roi Et,1
+41564,Hand Foot Mouth,2023,Roi Et,2
+41565,Hand Foot Mouth,2023,Roi Et,3
+41566,Hand Foot Mouth,2023,Roi Et,4
+41567,Hand Foot Mouth,2023,Roi Et,5
+41568,Hand Foot Mouth,2023,Roi Et,6
+41569,Hand Foot Mouth,2023,Roi Et,7
+41570,Hand Foot Mouth,2023,Roi Et,8
+41571,Hand Foot Mouth,2023,Roi Et,9
+41572,Hand Foot Mouth,2023,Roi Et,10
+41573,Hand Foot Mouth,2023,Roi Et,11
+41574,Hand Foot Mouth,2023,Roi Et,12
+41575,Hand Foot Mouth,2023,Roi Et,13
+41576,Hand Foot Mouth,2023,Roi Et,14
+41577,Hand Foot Mouth,2023,Roi Et,15
+41578,Hand Foot Mouth,2023,Roi Et,16
+41579,Hand Foot Mouth,2023,Roi Et,17
+41580,Hand Foot Mouth,2023,Roi Et,18
+41581,Hand Foot Mouth,2023,Roi Et,19
+41582,Hand Foot Mouth,2023,Roi Et,20
+41583,Hand Foot Mouth,2023,Roi Et,21
+41584,Hand Foot Mouth,2023,Roi Et,22
+41585,Hand Foot Mouth,2023,Roi Et,23
+41586,Hand Foot Mouth,2023,Roi Et,24
+41587,Hand Foot Mouth,2023,Roi Et,25
+41588,Hand Foot Mouth,2023,Roi Et,26
+41589,Hand Foot Mouth,2023,Roi Et,27
+41590,Hand Foot Mouth,2023,Roi Et,28
+41591,Hand Foot Mouth,2023,Roi Et,29
+41592,Hand Foot Mouth,2023,Roi Et,30
+41593,Hand Foot Mouth,2023,Roi Et,31
+41594,Hand Foot Mouth,2023,Roi Et,32
+41595,Hand Foot Mouth,2023,Roi Et,33
+41596,Hand Foot Mouth,2023,Roi Et,34
+41597,Hand Foot Mouth,2023,Roi Et,35
+41598,Hand Foot Mouth,2023,Roi Et,36
+41599,Hand Foot Mouth,2023,Roi Et,37
+41600,Hand Foot Mouth,2023,Roi Et,38
+41601,Hand Foot Mouth,2023,Roi Et,39
+41602,Hand Foot Mouth,2023,Roi Et,40
+41603,Hand Foot Mouth,2023,Roi Et,41
+41604,Hand Foot Mouth,2023,Kalasin,1
+41605,Hand Foot Mouth,2023,Kalasin,2
+41606,Hand Foot Mouth,2023,Kalasin,3
+41607,Hand Foot Mouth,2023,Kalasin,4
+41608,Hand Foot Mouth,2023,Kalasin,5
+41609,Hand Foot Mouth,2023,Kalasin,6
+41610,Hand Foot Mouth,2023,Kalasin,7
+41611,Hand Foot Mouth,2023,Kalasin,8
+41612,Hand Foot Mouth,2023,Kalasin,9
+41613,Hand Foot Mouth,2023,Kalasin,10
+41614,Hand Foot Mouth,2023,Kalasin,11
+41615,Hand Foot Mouth,2023,Kalasin,12
+41616,Hand Foot Mouth,2023,Kalasin,13
+41617,Hand Foot Mouth,2023,Kalasin,14
+41618,Hand Foot Mouth,2023,Kalasin,15
+41619,Hand Foot Mouth,2023,Kalasin,16
+41620,Hand Foot Mouth,2023,Kalasin,17
+41621,Hand Foot Mouth,2023,Kalasin,18
+41622,Hand Foot Mouth,2023,Kalasin,19
+41623,Hand Foot Mouth,2023,Kalasin,20
+41624,Hand Foot Mouth,2023,Kalasin,21
+41625,Hand Foot Mouth,2023,Kalasin,22
+41626,Hand Foot Mouth,2023,Kalasin,23
+41627,Hand Foot Mouth,2023,Kalasin,24
+41628,Hand Foot Mouth,2023,Kalasin,25
+41629,Hand Foot Mouth,2023,Kalasin,26
+41630,Hand Foot Mouth,2023,Kalasin,27
+41631,Hand Foot Mouth,2023,Kalasin,28
+41632,Hand Foot Mouth,2023,Kalasin,29
+41633,Hand Foot Mouth,2023,Kalasin,30
+41634,Hand Foot Mouth,2023,Kalasin,31
+41635,Hand Foot Mouth,2023,Kalasin,32
+41636,Hand Foot Mouth,2023,Kalasin,33
+41637,Hand Foot Mouth,2023,Kalasin,34
+41638,Hand Foot Mouth,2023,Kalasin,35
+41639,Hand Foot Mouth,2023,Kalasin,36
+41640,Hand Foot Mouth,2023,Kalasin,37
+41641,Hand Foot Mouth,2023,Kalasin,38
+41642,Hand Foot Mouth,2023,Kalasin,39
+41643,Hand Foot Mouth,2023,Kalasin,40
+41644,Hand Foot Mouth,2023,Kalasin,41
+41645,Hand Foot Mouth,2023,Kalasin,42
+41646,Hand Foot Mouth,2023,Sakon Nakhon,1
+41647,Hand Foot Mouth,2023,Sakon Nakhon,2
+41648,Hand Foot Mouth,2023,Sakon Nakhon,3
+41649,Hand Foot Mouth,2023,Sakon Nakhon,4
+41650,Hand Foot Mouth,2023,Sakon Nakhon,5
+41651,Hand Foot Mouth,2023,Sakon Nakhon,6
+41652,Hand Foot Mouth,2023,Sakon Nakhon,7
+41653,Hand Foot Mouth,2023,Sakon Nakhon,8
+41654,Hand Foot Mouth,2023,Sakon Nakhon,9
+41655,Hand Foot Mouth,2023,Sakon Nakhon,10
+41656,Hand Foot Mouth,2023,Sakon Nakhon,11
+41657,Hand Foot Mouth,2023,Sakon Nakhon,12
+41658,Hand Foot Mouth,2023,Sakon Nakhon,13
+41659,Hand Foot Mouth,2023,Sakon Nakhon,14
+41660,Hand Foot Mouth,2023,Sakon Nakhon,15
+41661,Hand Foot Mouth,2023,Sakon Nakhon,16
+41662,Hand Foot Mouth,2023,Sakon Nakhon,17
+41663,Hand Foot Mouth,2023,Sakon Nakhon,18
+41664,Hand Foot Mouth,2023,Sakon Nakhon,19
+41665,Hand Foot Mouth,2023,Sakon Nakhon,20
+41666,Hand Foot Mouth,2023,Sakon Nakhon,21
+41667,Hand Foot Mouth,2023,Sakon Nakhon,22
+41668,Hand Foot Mouth,2023,Sakon Nakhon,23
+41669,Hand Foot Mouth,2023,Sakon Nakhon,24
+41670,Hand Foot Mouth,2023,Sakon Nakhon,25
+41671,Hand Foot Mouth,2023,Sakon Nakhon,26
+41672,Hand Foot Mouth,2023,Sakon Nakhon,27
+41673,Hand Foot Mouth,2023,Sakon Nakhon,28
+41674,Hand Foot Mouth,2023,Sakon Nakhon,29
+41675,Hand Foot Mouth,2023,Sakon Nakhon,30
+41676,Hand Foot Mouth,2023,Sakon Nakhon,31
+41677,Hand Foot Mouth,2023,Sakon Nakhon,32
+41678,Hand Foot Mouth,2023,Sakon Nakhon,33
+41679,Hand Foot Mouth,2023,Sakon Nakhon,34
+41680,Hand Foot Mouth,2023,Sakon Nakhon,35
+41681,Hand Foot Mouth,2023,Sakon Nakhon,36
+41682,Hand Foot Mouth,2023,Sakon Nakhon,37
+41683,Hand Foot Mouth,2023,Sakon Nakhon,38
+41684,Hand Foot Mouth,2023,Sakon Nakhon,39
+41685,Hand Foot Mouth,2023,Sakon Nakhon,40
+41686,Hand Foot Mouth,2023,Sakon Nakhon,41
+41687,Hand Foot Mouth,2023,Sakon Nakhon,42
+41688,Hand Foot Mouth,2023,Nakhon Phanom,1
+41689,Hand Foot Mouth,2023,Nakhon Phanom,2
+41690,Hand Foot Mouth,2023,Nakhon Phanom,3
+41691,Hand Foot Mouth,2023,Nakhon Phanom,4
+41692,Hand Foot Mouth,2023,Nakhon Phanom,5
+41693,Hand Foot Mouth,2023,Nakhon Phanom,6
+41694,Hand Foot Mouth,2023,Nakhon Phanom,7
+41695,Hand Foot Mouth,2023,Nakhon Phanom,8
+41696,Hand Foot Mouth,2023,Nakhon Phanom,9
+41697,Hand Foot Mouth,2023,Nakhon Phanom,10
+41698,Hand Foot Mouth,2023,Nakhon Phanom,11
+41699,Hand Foot Mouth,2023,Nakhon Phanom,12
+41700,Hand Foot Mouth,2023,Nakhon Phanom,13
+41701,Hand Foot Mouth,2023,Nakhon Phanom,14
+41702,Hand Foot Mouth,2023,Nakhon Phanom,15
+41703,Hand Foot Mouth,2023,Nakhon Phanom,16
+41704,Hand Foot Mouth,2023,Nakhon Phanom,17
+41705,Hand Foot Mouth,2023,Nakhon Phanom,18
+41706,Hand Foot Mouth,2023,Nakhon Phanom,19
+41707,Hand Foot Mouth,2023,Nakhon Phanom,20
+41708,Hand Foot Mouth,2023,Nakhon Phanom,21
+41709,Hand Foot Mouth,2023,Nakhon Phanom,22
+41710,Hand Foot Mouth,2023,Nakhon Phanom,23
+41711,Hand Foot Mouth,2023,Nakhon Phanom,24
+41712,Hand Foot Mouth,2023,Nakhon Phanom,25
+41713,Hand Foot Mouth,2023,Nakhon Phanom,26
+41714,Hand Foot Mouth,2023,Nakhon Phanom,27
+41715,Hand Foot Mouth,2023,Nakhon Phanom,28
+41716,Hand Foot Mouth,2023,Nakhon Phanom,29
+41717,Hand Foot Mouth,2023,Nakhon Phanom,30
+41718,Hand Foot Mouth,2023,Nakhon Phanom,31
+41719,Hand Foot Mouth,2023,Nakhon Phanom,32
+41720,Hand Foot Mouth,2023,Nakhon Phanom,33
+41721,Hand Foot Mouth,2023,Nakhon Phanom,34
+41722,Hand Foot Mouth,2023,Nakhon Phanom,35
+41723,Hand Foot Mouth,2023,Nakhon Phanom,36
+41724,Hand Foot Mouth,2023,Nakhon Phanom,37
+41725,Hand Foot Mouth,2023,Nakhon Phanom,38
+41726,Hand Foot Mouth,2023,Nakhon Phanom,39
+41727,Hand Foot Mouth,2023,Nakhon Phanom,40
+41728,Hand Foot Mouth,2023,Nakhon Phanom,41
+41729,Hand Foot Mouth,2023,Nakhon Phanom,42
+41730,Hand Foot Mouth,2023,Mukdahan,1
+41731,Hand Foot Mouth,2023,Mukdahan,2
+41732,Hand Foot Mouth,2023,Mukdahan,3
+41733,Hand Foot Mouth,2023,Mukdahan,4
+41734,Hand Foot Mouth,2023,Mukdahan,5
+41735,Hand Foot Mouth,2023,Mukdahan,6
+41736,Hand Foot Mouth,2023,Mukdahan,7
+41737,Hand Foot Mouth,2023,Mukdahan,8
+41738,Hand Foot Mouth,2023,Mukdahan,9
+41739,Hand Foot Mouth,2023,Mukdahan,10
+41740,Hand Foot Mouth,2023,Mukdahan,11
+41741,Hand Foot Mouth,2023,Mukdahan,12
+41742,Hand Foot Mouth,2023,Mukdahan,13
+41743,Hand Foot Mouth,2023,Mukdahan,14
+41744,Hand Foot Mouth,2023,Mukdahan,15
+41745,Hand Foot Mouth,2023,Mukdahan,16
+41746,Hand Foot Mouth,2023,Mukdahan,17
+41747,Hand Foot Mouth,2023,Mukdahan,18
+41748,Hand Foot Mouth,2023,Mukdahan,19
+41749,Hand Foot Mouth,2023,Mukdahan,20
+41750,Hand Foot Mouth,2023,Mukdahan,21
+41751,Hand Foot Mouth,2023,Mukdahan,22
+41752,Hand Foot Mouth,2023,Mukdahan,23
+41753,Hand Foot Mouth,2023,Mukdahan,24
+41754,Hand Foot Mouth,2023,Mukdahan,25
+41755,Hand Foot Mouth,2023,Mukdahan,26
+41756,Hand Foot Mouth,2023,Mukdahan,27
+41757,Hand Foot Mouth,2023,Mukdahan,28
+41758,Hand Foot Mouth,2023,Mukdahan,29
+41759,Hand Foot Mouth,2023,Mukdahan,30
+41760,Hand Foot Mouth,2023,Mukdahan,31
+41761,Hand Foot Mouth,2023,Mukdahan,32
+41762,Hand Foot Mouth,2023,Mukdahan,33
+41763,Hand Foot Mouth,2023,Mukdahan,34
+41764,Hand Foot Mouth,2023,Mukdahan,35
+41765,Hand Foot Mouth,2023,Mukdahan,36
+41766,Hand Foot Mouth,2023,Mukdahan,37
+41767,Hand Foot Mouth,2023,Mukdahan,38
+41768,Hand Foot Mouth,2023,Mukdahan,39
+41769,Hand Foot Mouth,2023,Mukdahan,40
+41770,Hand Foot Mouth,2023,Mukdahan,41
+41771,Hand Foot Mouth,2023,Mukdahan,42
+41772,Hand Foot Mouth,2023,Chiang Mai,1
+41773,Hand Foot Mouth,2023,Chiang Mai,2
+41774,Hand Foot Mouth,2023,Chiang Mai,3
+41775,Hand Foot Mouth,2023,Chiang Mai,4
+41776,Hand Foot Mouth,2023,Chiang Mai,5
+41777,Hand Foot Mouth,2023,Chiang Mai,6
+41778,Hand Foot Mouth,2023,Chiang Mai,7
+41779,Hand Foot Mouth,2023,Chiang Mai,8
+41780,Hand Foot Mouth,2023,Chiang Mai,9
+41781,Hand Foot Mouth,2023,Chiang Mai,10
+41782,Hand Foot Mouth,2023,Chiang Mai,11
+41783,Hand Foot Mouth,2023,Chiang Mai,12
+41784,Hand Foot Mouth,2023,Chiang Mai,13
+41785,Hand Foot Mouth,2023,Chiang Mai,14
+41786,Hand Foot Mouth,2023,Chiang Mai,15
+41787,Hand Foot Mouth,2023,Chiang Mai,16
+41788,Hand Foot Mouth,2023,Chiang Mai,17
+41789,Hand Foot Mouth,2023,Chiang Mai,18
+41790,Hand Foot Mouth,2023,Chiang Mai,19
+41791,Hand Foot Mouth,2023,Chiang Mai,20
+41792,Hand Foot Mouth,2023,Chiang Mai,21
+41793,Hand Foot Mouth,2023,Chiang Mai,22
+41794,Hand Foot Mouth,2023,Chiang Mai,23
+41795,Hand Foot Mouth,2023,Chiang Mai,24
+41796,Hand Foot Mouth,2023,Chiang Mai,25
+41797,Hand Foot Mouth,2023,Chiang Mai,26
+41798,Hand Foot Mouth,2023,Chiang Mai,27
+41799,Hand Foot Mouth,2023,Chiang Mai,28
+41800,Hand Foot Mouth,2023,Chiang Mai,29
+41801,Hand Foot Mouth,2023,Chiang Mai,30
+41802,Hand Foot Mouth,2023,Chiang Mai,31
+41803,Hand Foot Mouth,2023,Chiang Mai,32
+41804,Hand Foot Mouth,2023,Chiang Mai,33
+41805,Hand Foot Mouth,2023,Chiang Mai,34
+41806,Hand Foot Mouth,2023,Chiang Mai,35
+41807,Hand Foot Mouth,2023,Chiang Mai,36
+41808,Hand Foot Mouth,2023,Chiang Mai,37
+41809,Hand Foot Mouth,2023,Chiang Mai,38
+41810,Hand Foot Mouth,2023,Chiang Mai,39
+41811,Hand Foot Mouth,2023,Chiang Mai,40
+41812,Hand Foot Mouth,2023,Chiang Mai,41
+41813,Hand Foot Mouth,2023,Chiang Mai,42
+41814,Hand Foot Mouth,2023,Lamphun,1
+41815,Hand Foot Mouth,2023,Lamphun,2
+41816,Hand Foot Mouth,2023,Lamphun,3
+41817,Hand Foot Mouth,2023,Lamphun,4
+41818,Hand Foot Mouth,2023,Lamphun,5
+41819,Hand Foot Mouth,2023,Lamphun,6
+41820,Hand Foot Mouth,2023,Lamphun,7
+41821,Hand Foot Mouth,2023,Lamphun,8
+41822,Hand Foot Mouth,2023,Lamphun,9
+41823,Hand Foot Mouth,2023,Lamphun,10
+41824,Hand Foot Mouth,2023,Lamphun,11
+41825,Hand Foot Mouth,2023,Lamphun,12
+41826,Hand Foot Mouth,2023,Lamphun,13
+41827,Hand Foot Mouth,2023,Lamphun,14
+41828,Hand Foot Mouth,2023,Lamphun,15
+41829,Hand Foot Mouth,2023,Lamphun,16
+41830,Hand Foot Mouth,2023,Lamphun,17
+41831,Hand Foot Mouth,2023,Lamphun,18
+41832,Hand Foot Mouth,2023,Lamphun,19
+41833,Hand Foot Mouth,2023,Lamphun,20
+41834,Hand Foot Mouth,2023,Lamphun,21
+41835,Hand Foot Mouth,2023,Lamphun,22
+41836,Hand Foot Mouth,2023,Lamphun,23
+41837,Hand Foot Mouth,2023,Lamphun,24
+41838,Hand Foot Mouth,2023,Lamphun,25
+41839,Hand Foot Mouth,2023,Lamphun,26
+41840,Hand Foot Mouth,2023,Lamphun,27
+41841,Hand Foot Mouth,2023,Lamphun,28
+41842,Hand Foot Mouth,2023,Lamphun,29
+41843,Hand Foot Mouth,2023,Lamphun,30
+41844,Hand Foot Mouth,2023,Lamphun,31
+41845,Hand Foot Mouth,2023,Lamphun,32
+41846,Hand Foot Mouth,2023,Lamphun,33
+41847,Hand Foot Mouth,2023,Lamphun,34
+41848,Hand Foot Mouth,2023,Lamphun,35
+41849,Hand Foot Mouth,2023,Lamphun,36
+41850,Hand Foot Mouth,2023,Lamphun,37
+41851,Hand Foot Mouth,2023,Lamphun,38
+41852,Hand Foot Mouth,2023,Lamphun,39
+41853,Hand Foot Mouth,2023,Lamphun,40
+41854,Hand Foot Mouth,2023,Lamphun,41
+41855,Hand Foot Mouth,2023,Lamphun,42
+41856,Hand Foot Mouth,2023,Lampang,1
+41857,Hand Foot Mouth,2023,Lampang,2
+41858,Hand Foot Mouth,2023,Lampang,3
+41859,Hand Foot Mouth,2023,Lampang,4
+41860,Hand Foot Mouth,2023,Lampang,5
+41861,Hand Foot Mouth,2023,Lampang,6
+41862,Hand Foot Mouth,2023,Lampang,7
+41863,Hand Foot Mouth,2023,Lampang,8
+41864,Hand Foot Mouth,2023,Lampang,9
+41865,Hand Foot Mouth,2023,Lampang,10
+41866,Hand Foot Mouth,2023,Lampang,11
+41867,Hand Foot Mouth,2023,Lampang,12
+41868,Hand Foot Mouth,2023,Lampang,13
+41869,Hand Foot Mouth,2023,Lampang,14
+41870,Hand Foot Mouth,2023,Lampang,15
+41871,Hand Foot Mouth,2023,Lampang,16
+41872,Hand Foot Mouth,2023,Lampang,17
+41873,Hand Foot Mouth,2023,Lampang,18
+41874,Hand Foot Mouth,2023,Lampang,19
+41875,Hand Foot Mouth,2023,Lampang,20
+41876,Hand Foot Mouth,2023,Lampang,21
+41877,Hand Foot Mouth,2023,Lampang,22
+41878,Hand Foot Mouth,2023,Lampang,23
+41879,Hand Foot Mouth,2023,Lampang,24
+41880,Hand Foot Mouth,2023,Lampang,25
+41881,Hand Foot Mouth,2023,Lampang,26
+41882,Hand Foot Mouth,2023,Lampang,27
+41883,Hand Foot Mouth,2023,Lampang,28
+41884,Hand Foot Mouth,2023,Lampang,29
+41885,Hand Foot Mouth,2023,Lampang,30
+41886,Hand Foot Mouth,2023,Lampang,31
+41887,Hand Foot Mouth,2023,Lampang,32
+41888,Hand Foot Mouth,2023,Lampang,33
+41889,Hand Foot Mouth,2023,Lampang,34
+41890,Hand Foot Mouth,2023,Lampang,35
+41891,Hand Foot Mouth,2023,Lampang,36
+41892,Hand Foot Mouth,2023,Lampang,37
+41893,Hand Foot Mouth,2023,Lampang,38
+41894,Hand Foot Mouth,2023,Lampang,39
+41895,Hand Foot Mouth,2023,Lampang,40
+41896,Hand Foot Mouth,2023,Lampang,41
+41897,Hand Foot Mouth,2023,Lampang,42
+41898,Hand Foot Mouth,2023,Uttaradit,1
+41899,Hand Foot Mouth,2023,Uttaradit,2
+41900,Hand Foot Mouth,2023,Uttaradit,3
+41901,Hand Foot Mouth,2023,Uttaradit,4
+41902,Hand Foot Mouth,2023,Uttaradit,5
+41903,Hand Foot Mouth,2023,Uttaradit,6
+41904,Hand Foot Mouth,2023,Uttaradit,7
+41905,Hand Foot Mouth,2023,Uttaradit,8
+41906,Hand Foot Mouth,2023,Uttaradit,9
+41907,Hand Foot Mouth,2023,Uttaradit,10
+41908,Hand Foot Mouth,2023,Uttaradit,11
+41909,Hand Foot Mouth,2023,Uttaradit,12
+41910,Hand Foot Mouth,2023,Uttaradit,13
+41911,Hand Foot Mouth,2023,Uttaradit,14
+41912,Hand Foot Mouth,2023,Uttaradit,15
+41913,Hand Foot Mouth,2023,Uttaradit,16
+41914,Hand Foot Mouth,2023,Uttaradit,17
+41915,Hand Foot Mouth,2023,Uttaradit,18
+41916,Hand Foot Mouth,2023,Uttaradit,19
+41917,Hand Foot Mouth,2023,Uttaradit,20
+41918,Hand Foot Mouth,2023,Uttaradit,21
+41919,Hand Foot Mouth,2023,Uttaradit,22
+41920,Hand Foot Mouth,2023,Uttaradit,23
+41921,Hand Foot Mouth,2023,Uttaradit,24
+41922,Hand Foot Mouth,2023,Uttaradit,25
+41923,Hand Foot Mouth,2023,Uttaradit,26
+41924,Hand Foot Mouth,2023,Uttaradit,27
+41925,Hand Foot Mouth,2023,Uttaradit,28
+41926,Hand Foot Mouth,2023,Uttaradit,29
+41927,Hand Foot Mouth,2023,Uttaradit,30
+41928,Hand Foot Mouth,2023,Uttaradit,31
+41929,Hand Foot Mouth,2023,Uttaradit,32
+41930,Hand Foot Mouth,2023,Uttaradit,33
+41931,Hand Foot Mouth,2023,Uttaradit,34
+41932,Hand Foot Mouth,2023,Uttaradit,35
+41933,Hand Foot Mouth,2023,Uttaradit,36
+41934,Hand Foot Mouth,2023,Uttaradit,37
+41935,Hand Foot Mouth,2023,Uttaradit,38
+41936,Hand Foot Mouth,2023,Uttaradit,39
+41937,Hand Foot Mouth,2023,Uttaradit,40
+41938,Hand Foot Mouth,2023,Uttaradit,41
+41939,Hand Foot Mouth,2023,Uttaradit,42
+41940,Hand Foot Mouth,2023,Phrae,1
+41941,Hand Foot Mouth,2023,Phrae,2
+41942,Hand Foot Mouth,2023,Phrae,3
+41943,Hand Foot Mouth,2023,Phrae,4
+41944,Hand Foot Mouth,2023,Phrae,5
+41945,Hand Foot Mouth,2023,Phrae,6
+41946,Hand Foot Mouth,2023,Phrae,7
+41947,Hand Foot Mouth,2023,Phrae,8
+41948,Hand Foot Mouth,2023,Phrae,9
+41949,Hand Foot Mouth,2023,Phrae,10
+41950,Hand Foot Mouth,2023,Phrae,11
+41951,Hand Foot Mouth,2023,Phrae,12
+41952,Hand Foot Mouth,2023,Phrae,13
+41953,Hand Foot Mouth,2023,Phrae,14
+41954,Hand Foot Mouth,2023,Phrae,15
+41955,Hand Foot Mouth,2023,Phrae,16
+41956,Hand Foot Mouth,2023,Phrae,17
+41957,Hand Foot Mouth,2023,Phrae,18
+41958,Hand Foot Mouth,2023,Phrae,19
+41959,Hand Foot Mouth,2023,Phrae,20
+41960,Hand Foot Mouth,2023,Phrae,21
+41961,Hand Foot Mouth,2023,Phrae,22
+41962,Hand Foot Mouth,2023,Phrae,23
+41963,Hand Foot Mouth,2023,Phrae,24
+41964,Hand Foot Mouth,2023,Phrae,25
+41965,Hand Foot Mouth,2023,Phrae,26
+41966,Hand Foot Mouth,2023,Phrae,27
+41967,Hand Foot Mouth,2023,Phrae,28
+41968,Hand Foot Mouth,2023,Phrae,29
+41969,Hand Foot Mouth,2023,Phrae,30
+41970,Hand Foot Mouth,2023,Phrae,31
+41971,Hand Foot Mouth,2023,Phrae,32
+41972,Hand Foot Mouth,2023,Phrae,33
+41973,Hand Foot Mouth,2023,Phrae,34
+41974,Hand Foot Mouth,2023,Phrae,35
+41975,Hand Foot Mouth,2023,Phrae,36
+41976,Hand Foot Mouth,2023,Phrae,37
+41977,Hand Foot Mouth,2023,Phrae,38
+41978,Hand Foot Mouth,2023,Phrae,39
+41979,Hand Foot Mouth,2023,Phrae,40
+41980,Hand Foot Mouth,2023,Phrae,41
+41981,Hand Foot Mouth,2023,Phrae,42
+41982,Hand Foot Mouth,2023,Nan,1
+41983,Hand Foot Mouth,2023,Nan,2
+41984,Hand Foot Mouth,2023,Nan,3
+41985,Hand Foot Mouth,2023,Nan,4
+41986,Hand Foot Mouth,2023,Nan,5
+41987,Hand Foot Mouth,2023,Nan,6
+41988,Hand Foot Mouth,2023,Nan,7
+41989,Hand Foot Mouth,2023,Nan,8
+41990,Hand Foot Mouth,2023,Nan,9
+41991,Hand Foot Mouth,2023,Nan,10
+41992,Hand Foot Mouth,2023,Nan,11
+41993,Hand Foot Mouth,2023,Nan,12
+41994,Hand Foot Mouth,2023,Nan,13
+41995,Hand Foot Mouth,2023,Nan,14
+41996,Hand Foot Mouth,2023,Nan,15
+41997,Hand Foot Mouth,2023,Nan,16
+41998,Hand Foot Mouth,2023,Nan,17
+41999,Hand Foot Mouth,2023,Nan,18
+42000,Hand Foot Mouth,2023,Nan,19
+42001,Hand Foot Mouth,2023,Nan,20
+42002,Hand Foot Mouth,2023,Nan,21
+42003,Hand Foot Mouth,2023,Nan,22
+42004,Hand Foot Mouth,2023,Nan,23
+42005,Hand Foot Mouth,2023,Nan,24
+42006,Hand Foot Mouth,2023,Nan,25
+42007,Hand Foot Mouth,2023,Nan,26
+42008,Hand Foot Mouth,2023,Nan,27
+42009,Hand Foot Mouth,2023,Nan,28
+42010,Hand Foot Mouth,2023,Nan,29
+42011,Hand Foot Mouth,2023,Nan,30
+42012,Hand Foot Mouth,2023,Nan,31
+42013,Hand Foot Mouth,2023,Nan,32
+42014,Hand Foot Mouth,2023,Nan,33
+42015,Hand Foot Mouth,2023,Nan,34
+42016,Hand Foot Mouth,2023,Nan,35
+42017,Hand Foot Mouth,2023,Nan,36
+42018,Hand Foot Mouth,2023,Nan,37
+42019,Hand Foot Mouth,2023,Nan,38
+42020,Hand Foot Mouth,2023,Nan,39
+42021,Hand Foot Mouth,2023,Nan,40
+42022,Hand Foot Mouth,2023,Nan,41
+42023,Hand Foot Mouth,2023,Phayao,1
+42024,Hand Foot Mouth,2023,Phayao,2
+42025,Hand Foot Mouth,2023,Phayao,3
+42026,Hand Foot Mouth,2023,Phayao,4
+42027,Hand Foot Mouth,2023,Phayao,5
+42028,Hand Foot Mouth,2023,Phayao,6
+42029,Hand Foot Mouth,2023,Phayao,7
+42030,Hand Foot Mouth,2023,Phayao,8
+42031,Hand Foot Mouth,2023,Phayao,9
+42032,Hand Foot Mouth,2023,Phayao,10
+42033,Hand Foot Mouth,2023,Phayao,11
+42034,Hand Foot Mouth,2023,Phayao,12
+42035,Hand Foot Mouth,2023,Phayao,13
+42036,Hand Foot Mouth,2023,Phayao,14
+42037,Hand Foot Mouth,2023,Phayao,15
+42038,Hand Foot Mouth,2023,Phayao,16
+42039,Hand Foot Mouth,2023,Phayao,17
+42040,Hand Foot Mouth,2023,Phayao,18
+42041,Hand Foot Mouth,2023,Phayao,19
+42042,Hand Foot Mouth,2023,Phayao,20
+42043,Hand Foot Mouth,2023,Phayao,21
+42044,Hand Foot Mouth,2023,Phayao,22
+42045,Hand Foot Mouth,2023,Phayao,23
+42046,Hand Foot Mouth,2023,Phayao,24
+42047,Hand Foot Mouth,2023,Phayao,25
+42048,Hand Foot Mouth,2023,Phayao,26
+42049,Hand Foot Mouth,2023,Phayao,27
+42050,Hand Foot Mouth,2023,Phayao,28
+42051,Hand Foot Mouth,2023,Phayao,29
+42052,Hand Foot Mouth,2023,Phayao,30
+42053,Hand Foot Mouth,2023,Phayao,31
+42054,Hand Foot Mouth,2023,Phayao,32
+42055,Hand Foot Mouth,2023,Phayao,33
+42056,Hand Foot Mouth,2023,Phayao,34
+42057,Hand Foot Mouth,2023,Phayao,35
+42058,Hand Foot Mouth,2023,Phayao,36
+42059,Hand Foot Mouth,2023,Phayao,37
+42060,Hand Foot Mouth,2023,Phayao,38
+42061,Hand Foot Mouth,2023,Phayao,39
+42062,Hand Foot Mouth,2023,Phayao,40
+42063,Hand Foot Mouth,2023,Phayao,41
+42064,Hand Foot Mouth,2023,Chiang Rai,1
+42065,Hand Foot Mouth,2023,Chiang Rai,2
+42066,Hand Foot Mouth,2023,Chiang Rai,3
+42067,Hand Foot Mouth,2023,Chiang Rai,4
+42068,Hand Foot Mouth,2023,Chiang Rai,5
+42069,Hand Foot Mouth,2023,Chiang Rai,6
+42070,Hand Foot Mouth,2023,Chiang Rai,7
+42071,Hand Foot Mouth,2023,Chiang Rai,8
+42072,Hand Foot Mouth,2023,Chiang Rai,9
+42073,Hand Foot Mouth,2023,Chiang Rai,10
+42074,Hand Foot Mouth,2023,Chiang Rai,11
+42075,Hand Foot Mouth,2023,Chiang Rai,12
+42076,Hand Foot Mouth,2023,Chiang Rai,13
+42077,Hand Foot Mouth,2023,Chiang Rai,14
+42078,Hand Foot Mouth,2023,Chiang Rai,15
+42079,Hand Foot Mouth,2023,Chiang Rai,16
+42080,Hand Foot Mouth,2023,Chiang Rai,17
+42081,Hand Foot Mouth,2023,Chiang Rai,18
+42082,Hand Foot Mouth,2023,Chiang Rai,19
+42083,Hand Foot Mouth,2023,Chiang Rai,20
+42084,Hand Foot Mouth,2023,Chiang Rai,21
+42085,Hand Foot Mouth,2023,Chiang Rai,22
+42086,Hand Foot Mouth,2023,Chiang Rai,23
+42087,Hand Foot Mouth,2023,Chiang Rai,24
+42088,Hand Foot Mouth,2023,Chiang Rai,25
+42089,Hand Foot Mouth,2023,Chiang Rai,26
+42090,Hand Foot Mouth,2023,Chiang Rai,27
+42091,Hand Foot Mouth,2023,Chiang Rai,28
+42092,Hand Foot Mouth,2023,Chiang Rai,29
+42093,Hand Foot Mouth,2023,Chiang Rai,30
+42094,Hand Foot Mouth,2023,Chiang Rai,31
+42095,Hand Foot Mouth,2023,Chiang Rai,32
+42096,Hand Foot Mouth,2023,Chiang Rai,33
+42097,Hand Foot Mouth,2023,Chiang Rai,34
+42098,Hand Foot Mouth,2023,Chiang Rai,35
+42099,Hand Foot Mouth,2023,Chiang Rai,36
+42100,Hand Foot Mouth,2023,Chiang Rai,37
+42101,Hand Foot Mouth,2023,Chiang Rai,38
+42102,Hand Foot Mouth,2023,Chiang Rai,39
+42103,Hand Foot Mouth,2023,Chiang Rai,40
+42104,Hand Foot Mouth,2023,Chiang Rai,41
+42105,Hand Foot Mouth,2023,Chiang Rai,42
+42106,Hand Foot Mouth,2023,Mae Hong Son,1
+42107,Hand Foot Mouth,2023,Mae Hong Son,2
+42108,Hand Foot Mouth,2023,Mae Hong Son,3
+42109,Hand Foot Mouth,2023,Mae Hong Son,4
+42110,Hand Foot Mouth,2023,Mae Hong Son,5
+42111,Hand Foot Mouth,2023,Mae Hong Son,6
+42112,Hand Foot Mouth,2023,Mae Hong Son,7
+42113,Hand Foot Mouth,2023,Mae Hong Son,8
+42114,Hand Foot Mouth,2023,Mae Hong Son,9
+42115,Hand Foot Mouth,2023,Mae Hong Son,10
+42116,Hand Foot Mouth,2023,Mae Hong Son,11
+42117,Hand Foot Mouth,2023,Mae Hong Son,12
+42118,Hand Foot Mouth,2023,Mae Hong Son,13
+42119,Hand Foot Mouth,2023,Mae Hong Son,14
+42120,Hand Foot Mouth,2023,Mae Hong Son,15
+42121,Hand Foot Mouth,2023,Mae Hong Son,16
+42122,Hand Foot Mouth,2023,Mae Hong Son,17
+42123,Hand Foot Mouth,2023,Mae Hong Son,18
+42124,Hand Foot Mouth,2023,Mae Hong Son,19
+42125,Hand Foot Mouth,2023,Mae Hong Son,20
+42126,Hand Foot Mouth,2023,Mae Hong Son,21
+42127,Hand Foot Mouth,2023,Mae Hong Son,22
+42128,Hand Foot Mouth,2023,Mae Hong Son,23
+42129,Hand Foot Mouth,2023,Mae Hong Son,24
+42130,Hand Foot Mouth,2023,Mae Hong Son,25
+42131,Hand Foot Mouth,2023,Mae Hong Son,26
+42132,Hand Foot Mouth,2023,Mae Hong Son,27
+42133,Hand Foot Mouth,2023,Mae Hong Son,28
+42134,Hand Foot Mouth,2023,Mae Hong Son,29
+42135,Hand Foot Mouth,2023,Mae Hong Son,30
+42136,Hand Foot Mouth,2023,Mae Hong Son,31
+42137,Hand Foot Mouth,2023,Mae Hong Son,32
+42138,Hand Foot Mouth,2023,Mae Hong Son,33
+42139,Hand Foot Mouth,2023,Mae Hong Son,34
+42140,Hand Foot Mouth,2023,Mae Hong Son,35
+42141,Hand Foot Mouth,2023,Mae Hong Son,36
+42142,Hand Foot Mouth,2023,Mae Hong Son,37
+42143,Hand Foot Mouth,2023,Mae Hong Son,38
+42144,Hand Foot Mouth,2023,Mae Hong Son,39
+42145,Hand Foot Mouth,2023,Mae Hong Son,40
+42146,Hand Foot Mouth,2023,Mae Hong Son,41
+42147,Hand Foot Mouth,2023,Nakhon Sawan,1
+42148,Hand Foot Mouth,2023,Nakhon Sawan,2
+42149,Hand Foot Mouth,2023,Nakhon Sawan,3
+42150,Hand Foot Mouth,2023,Nakhon Sawan,4
+42151,Hand Foot Mouth,2023,Nakhon Sawan,5
+42152,Hand Foot Mouth,2023,Nakhon Sawan,6
+42153,Hand Foot Mouth,2023,Nakhon Sawan,7
+42154,Hand Foot Mouth,2023,Nakhon Sawan,8
+42155,Hand Foot Mouth,2023,Nakhon Sawan,9
+42156,Hand Foot Mouth,2023,Nakhon Sawan,10
+42157,Hand Foot Mouth,2023,Nakhon Sawan,11
+42158,Hand Foot Mouth,2023,Nakhon Sawan,12
+42159,Hand Foot Mouth,2023,Nakhon Sawan,13
+42160,Hand Foot Mouth,2023,Nakhon Sawan,14
+42161,Hand Foot Mouth,2023,Nakhon Sawan,15
+42162,Hand Foot Mouth,2023,Nakhon Sawan,16
+42163,Hand Foot Mouth,2023,Nakhon Sawan,17
+42164,Hand Foot Mouth,2023,Nakhon Sawan,18
+42165,Hand Foot Mouth,2023,Nakhon Sawan,19
+42166,Hand Foot Mouth,2023,Nakhon Sawan,20
+42167,Hand Foot Mouth,2023,Nakhon Sawan,21
+42168,Hand Foot Mouth,2023,Nakhon Sawan,22
+42169,Hand Foot Mouth,2023,Nakhon Sawan,23
+42170,Hand Foot Mouth,2023,Nakhon Sawan,24
+42171,Hand Foot Mouth,2023,Nakhon Sawan,25
+42172,Hand Foot Mouth,2023,Nakhon Sawan,26
+42173,Hand Foot Mouth,2023,Nakhon Sawan,27
+42174,Hand Foot Mouth,2023,Nakhon Sawan,28
+42175,Hand Foot Mouth,2023,Nakhon Sawan,29
+42176,Hand Foot Mouth,2023,Nakhon Sawan,30
+42177,Hand Foot Mouth,2023,Nakhon Sawan,31
+42178,Hand Foot Mouth,2023,Nakhon Sawan,32
+42179,Hand Foot Mouth,2023,Nakhon Sawan,33
+42180,Hand Foot Mouth,2023,Nakhon Sawan,34
+42181,Hand Foot Mouth,2023,Nakhon Sawan,35
+42182,Hand Foot Mouth,2023,Nakhon Sawan,36
+42183,Hand Foot Mouth,2023,Nakhon Sawan,37
+42184,Hand Foot Mouth,2023,Nakhon Sawan,38
+42185,Hand Foot Mouth,2023,Nakhon Sawan,39
+42186,Hand Foot Mouth,2023,Nakhon Sawan,40
+42187,Hand Foot Mouth,2023,Nakhon Sawan,41
+42188,Hand Foot Mouth,2023,Nakhon Sawan,42
+42189,Hand Foot Mouth,2023,Uthai Thani,1
+42190,Hand Foot Mouth,2023,Uthai Thani,2
+42191,Hand Foot Mouth,2023,Uthai Thani,3
+42192,Hand Foot Mouth,2023,Uthai Thani,4
+42193,Hand Foot Mouth,2023,Uthai Thani,5
+42194,Hand Foot Mouth,2023,Uthai Thani,6
+42195,Hand Foot Mouth,2023,Uthai Thani,7
+42196,Hand Foot Mouth,2023,Uthai Thani,8
+42197,Hand Foot Mouth,2023,Uthai Thani,9
+42198,Hand Foot Mouth,2023,Uthai Thani,10
+42199,Hand Foot Mouth,2023,Uthai Thani,11
+42200,Hand Foot Mouth,2023,Uthai Thani,12
+42201,Hand Foot Mouth,2023,Uthai Thani,13
+42202,Hand Foot Mouth,2023,Uthai Thani,14
+42203,Hand Foot Mouth,2023,Uthai Thani,15
+42204,Hand Foot Mouth,2023,Uthai Thani,16
+42205,Hand Foot Mouth,2023,Uthai Thani,17
+42206,Hand Foot Mouth,2023,Uthai Thani,18
+42207,Hand Foot Mouth,2023,Uthai Thani,19
+42208,Hand Foot Mouth,2023,Uthai Thani,20
+42209,Hand Foot Mouth,2023,Uthai Thani,21
+42210,Hand Foot Mouth,2023,Uthai Thani,22
+42211,Hand Foot Mouth,2023,Uthai Thani,23
+42212,Hand Foot Mouth,2023,Uthai Thani,24
+42213,Hand Foot Mouth,2023,Uthai Thani,25
+42214,Hand Foot Mouth,2023,Uthai Thani,26
+42215,Hand Foot Mouth,2023,Uthai Thani,27
+42216,Hand Foot Mouth,2023,Uthai Thani,28
+42217,Hand Foot Mouth,2023,Uthai Thani,29
+42218,Hand Foot Mouth,2023,Uthai Thani,30
+42219,Hand Foot Mouth,2023,Uthai Thani,31
+42220,Hand Foot Mouth,2023,Uthai Thani,32
+42221,Hand Foot Mouth,2023,Uthai Thani,33
+42222,Hand Foot Mouth,2023,Uthai Thani,34
+42223,Hand Foot Mouth,2023,Uthai Thani,35
+42224,Hand Foot Mouth,2023,Uthai Thani,36
+42225,Hand Foot Mouth,2023,Uthai Thani,37
+42226,Hand Foot Mouth,2023,Uthai Thani,38
+42227,Hand Foot Mouth,2023,Uthai Thani,39
+42228,Hand Foot Mouth,2023,Uthai Thani,40
+42229,Hand Foot Mouth,2023,Uthai Thani,41
+42230,Hand Foot Mouth,2023,Uthai Thani,42
+42231,Hand Foot Mouth,2023,Kamphaeng Phet,1
+42232,Hand Foot Mouth,2023,Kamphaeng Phet,2
+42233,Hand Foot Mouth,2023,Kamphaeng Phet,3
+42234,Hand Foot Mouth,2023,Kamphaeng Phet,4
+42235,Hand Foot Mouth,2023,Kamphaeng Phet,5
+42236,Hand Foot Mouth,2023,Kamphaeng Phet,6
+42237,Hand Foot Mouth,2023,Kamphaeng Phet,7
+42238,Hand Foot Mouth,2023,Kamphaeng Phet,8
+42239,Hand Foot Mouth,2023,Kamphaeng Phet,9
+42240,Hand Foot Mouth,2023,Kamphaeng Phet,10
+42241,Hand Foot Mouth,2023,Kamphaeng Phet,11
+42242,Hand Foot Mouth,2023,Kamphaeng Phet,12
+42243,Hand Foot Mouth,2023,Kamphaeng Phet,13
+42244,Hand Foot Mouth,2023,Kamphaeng Phet,14
+42245,Hand Foot Mouth,2023,Kamphaeng Phet,15
+42246,Hand Foot Mouth,2023,Kamphaeng Phet,16
+42247,Hand Foot Mouth,2023,Kamphaeng Phet,17
+42248,Hand Foot Mouth,2023,Kamphaeng Phet,18
+42249,Hand Foot Mouth,2023,Kamphaeng Phet,19
+42250,Hand Foot Mouth,2023,Kamphaeng Phet,20
+42251,Hand Foot Mouth,2023,Kamphaeng Phet,21
+42252,Hand Foot Mouth,2023,Kamphaeng Phet,22
+42253,Hand Foot Mouth,2023,Kamphaeng Phet,23
+42254,Hand Foot Mouth,2023,Kamphaeng Phet,24
+42255,Hand Foot Mouth,2023,Kamphaeng Phet,25
+42256,Hand Foot Mouth,2023,Kamphaeng Phet,26
+42257,Hand Foot Mouth,2023,Kamphaeng Phet,27
+42258,Hand Foot Mouth,2023,Kamphaeng Phet,28
+42259,Hand Foot Mouth,2023,Kamphaeng Phet,29
+42260,Hand Foot Mouth,2023,Kamphaeng Phet,30
+42261,Hand Foot Mouth,2023,Kamphaeng Phet,31
+42262,Hand Foot Mouth,2023,Kamphaeng Phet,32
+42263,Hand Foot Mouth,2023,Kamphaeng Phet,33
+42264,Hand Foot Mouth,2023,Kamphaeng Phet,34
+42265,Hand Foot Mouth,2023,Kamphaeng Phet,35
+42266,Hand Foot Mouth,2023,Kamphaeng Phet,36
+42267,Hand Foot Mouth,2023,Kamphaeng Phet,37
+42268,Hand Foot Mouth,2023,Kamphaeng Phet,38
+42269,Hand Foot Mouth,2023,Kamphaeng Phet,39
+42270,Hand Foot Mouth,2023,Kamphaeng Phet,40
+42271,Hand Foot Mouth,2023,Kamphaeng Phet,41
+42272,Hand Foot Mouth,2023,Tak,1
+42273,Hand Foot Mouth,2023,Tak,2
+42274,Hand Foot Mouth,2023,Tak,3
+42275,Hand Foot Mouth,2023,Tak,4
+42276,Hand Foot Mouth,2023,Tak,5
+42277,Hand Foot Mouth,2023,Tak,6
+42278,Hand Foot Mouth,2023,Tak,7
+42279,Hand Foot Mouth,2023,Tak,8
+42280,Hand Foot Mouth,2023,Tak,9
+42281,Hand Foot Mouth,2023,Tak,10
+42282,Hand Foot Mouth,2023,Tak,11
+42283,Hand Foot Mouth,2023,Tak,12
+42284,Hand Foot Mouth,2023,Tak,13
+42285,Hand Foot Mouth,2023,Tak,14
+42286,Hand Foot Mouth,2023,Tak,15
+42287,Hand Foot Mouth,2023,Tak,16
+42288,Hand Foot Mouth,2023,Tak,17
+42289,Hand Foot Mouth,2023,Tak,18
+42290,Hand Foot Mouth,2023,Tak,19
+42291,Hand Foot Mouth,2023,Tak,20
+42292,Hand Foot Mouth,2023,Tak,21
+42293,Hand Foot Mouth,2023,Tak,22
+42294,Hand Foot Mouth,2023,Tak,23
+42295,Hand Foot Mouth,2023,Tak,24
+42296,Hand Foot Mouth,2023,Tak,25
+42297,Hand Foot Mouth,2023,Tak,26
+42298,Hand Foot Mouth,2023,Tak,27
+42299,Hand Foot Mouth,2023,Tak,28
+42300,Hand Foot Mouth,2023,Tak,29
+42301,Hand Foot Mouth,2023,Tak,30
+42302,Hand Foot Mouth,2023,Tak,31
+42303,Hand Foot Mouth,2023,Tak,32
+42304,Hand Foot Mouth,2023,Tak,33
+42305,Hand Foot Mouth,2023,Tak,34
+42306,Hand Foot Mouth,2023,Tak,35
+42307,Hand Foot Mouth,2023,Tak,36
+42308,Hand Foot Mouth,2023,Tak,37
+42309,Hand Foot Mouth,2023,Tak,38
+42310,Hand Foot Mouth,2023,Tak,39
+42311,Hand Foot Mouth,2023,Tak,40
+42312,Hand Foot Mouth,2023,Tak,41
+42313,Hand Foot Mouth,2023,Sukhothai,1
+42314,Hand Foot Mouth,2023,Sukhothai,2
+42315,Hand Foot Mouth,2023,Sukhothai,3
+42316,Hand Foot Mouth,2023,Sukhothai,4
+42317,Hand Foot Mouth,2023,Sukhothai,5
+42318,Hand Foot Mouth,2023,Sukhothai,6
+42319,Hand Foot Mouth,2023,Sukhothai,7
+42320,Hand Foot Mouth,2023,Sukhothai,8
+42321,Hand Foot Mouth,2023,Sukhothai,9
+42322,Hand Foot Mouth,2023,Sukhothai,10
+42323,Hand Foot Mouth,2023,Sukhothai,11
+42324,Hand Foot Mouth,2023,Sukhothai,12
+42325,Hand Foot Mouth,2023,Sukhothai,13
+42326,Hand Foot Mouth,2023,Sukhothai,14
+42327,Hand Foot Mouth,2023,Sukhothai,15
+42328,Hand Foot Mouth,2023,Sukhothai,16
+42329,Hand Foot Mouth,2023,Sukhothai,17
+42330,Hand Foot Mouth,2023,Sukhothai,18
+42331,Hand Foot Mouth,2023,Sukhothai,19
+42332,Hand Foot Mouth,2023,Sukhothai,20
+42333,Hand Foot Mouth,2023,Sukhothai,21
+42334,Hand Foot Mouth,2023,Sukhothai,22
+42335,Hand Foot Mouth,2023,Sukhothai,23
+42336,Hand Foot Mouth,2023,Sukhothai,24
+42337,Hand Foot Mouth,2023,Sukhothai,25
+42338,Hand Foot Mouth,2023,Sukhothai,26
+42339,Hand Foot Mouth,2023,Sukhothai,27
+42340,Hand Foot Mouth,2023,Sukhothai,28
+42341,Hand Foot Mouth,2023,Sukhothai,29
+42342,Hand Foot Mouth,2023,Sukhothai,30
+42343,Hand Foot Mouth,2023,Sukhothai,31
+42344,Hand Foot Mouth,2023,Sukhothai,32
+42345,Hand Foot Mouth,2023,Sukhothai,33
+42346,Hand Foot Mouth,2023,Sukhothai,34
+42347,Hand Foot Mouth,2023,Sukhothai,35
+42348,Hand Foot Mouth,2023,Sukhothai,36
+42349,Hand Foot Mouth,2023,Sukhothai,37
+42350,Hand Foot Mouth,2023,Sukhothai,38
+42351,Hand Foot Mouth,2023,Sukhothai,39
+42352,Hand Foot Mouth,2023,Sukhothai,40
+42353,Hand Foot Mouth,2023,Sukhothai,41
+42354,Hand Foot Mouth,2023,Sukhothai,42
+42355,Hand Foot Mouth,2023,Phitsanulok,1
+42356,Hand Foot Mouth,2023,Phitsanulok,2
+42357,Hand Foot Mouth,2023,Phitsanulok,3
+42358,Hand Foot Mouth,2023,Phitsanulok,4
+42359,Hand Foot Mouth,2023,Phitsanulok,5
+42360,Hand Foot Mouth,2023,Phitsanulok,6
+42361,Hand Foot Mouth,2023,Phitsanulok,7
+42362,Hand Foot Mouth,2023,Phitsanulok,8
+42363,Hand Foot Mouth,2023,Phitsanulok,9
+42364,Hand Foot Mouth,2023,Phitsanulok,10
+42365,Hand Foot Mouth,2023,Phitsanulok,11
+42366,Hand Foot Mouth,2023,Phitsanulok,12
+42367,Hand Foot Mouth,2023,Phitsanulok,13
+42368,Hand Foot Mouth,2023,Phitsanulok,14
+42369,Hand Foot Mouth,2023,Phitsanulok,15
+42370,Hand Foot Mouth,2023,Phitsanulok,16
+42371,Hand Foot Mouth,2023,Phitsanulok,17
+42372,Hand Foot Mouth,2023,Phitsanulok,18
+42373,Hand Foot Mouth,2023,Phitsanulok,19
+42374,Hand Foot Mouth,2023,Phitsanulok,20
+42375,Hand Foot Mouth,2023,Phitsanulok,21
+42376,Hand Foot Mouth,2023,Phitsanulok,22
+42377,Hand Foot Mouth,2023,Phitsanulok,23
+42378,Hand Foot Mouth,2023,Phitsanulok,24
+42379,Hand Foot Mouth,2023,Phitsanulok,25
+42380,Hand Foot Mouth,2023,Phitsanulok,26
+42381,Hand Foot Mouth,2023,Phitsanulok,27
+42382,Hand Foot Mouth,2023,Phitsanulok,28
+42383,Hand Foot Mouth,2023,Phitsanulok,29
+42384,Hand Foot Mouth,2023,Phitsanulok,30
+42385,Hand Foot Mouth,2023,Phitsanulok,31
+42386,Hand Foot Mouth,2023,Phitsanulok,32
+42387,Hand Foot Mouth,2023,Phitsanulok,33
+42388,Hand Foot Mouth,2023,Phitsanulok,34
+42389,Hand Foot Mouth,2023,Phitsanulok,35
+42390,Hand Foot Mouth,2023,Phitsanulok,36
+42391,Hand Foot Mouth,2023,Phitsanulok,37
+42392,Hand Foot Mouth,2023,Phitsanulok,38
+42393,Hand Foot Mouth,2023,Phitsanulok,39
+42394,Hand Foot Mouth,2023,Phitsanulok,40
+42395,Hand Foot Mouth,2023,Phitsanulok,41
+42396,Hand Foot Mouth,2023,Phitsanulok,42
+42397,Hand Foot Mouth,2023,Phichit,1
+42398,Hand Foot Mouth,2023,Phichit,2
+42399,Hand Foot Mouth,2023,Phichit,3
+42400,Hand Foot Mouth,2023,Phichit,4
+42401,Hand Foot Mouth,2023,Phichit,5
+42402,Hand Foot Mouth,2023,Phichit,6
+42403,Hand Foot Mouth,2023,Phichit,7
+42404,Hand Foot Mouth,2023,Phichit,8
+42405,Hand Foot Mouth,2023,Phichit,9
+42406,Hand Foot Mouth,2023,Phichit,10
+42407,Hand Foot Mouth,2023,Phichit,11
+42408,Hand Foot Mouth,2023,Phichit,12
+42409,Hand Foot Mouth,2023,Phichit,13
+42410,Hand Foot Mouth,2023,Phichit,14
+42411,Hand Foot Mouth,2023,Phichit,15
+42412,Hand Foot Mouth,2023,Phichit,16
+42413,Hand Foot Mouth,2023,Phichit,17
+42414,Hand Foot Mouth,2023,Phichit,18
+42415,Hand Foot Mouth,2023,Phichit,19
+42416,Hand Foot Mouth,2023,Phichit,20
+42417,Hand Foot Mouth,2023,Phichit,21
+42418,Hand Foot Mouth,2023,Phichit,22
+42419,Hand Foot Mouth,2023,Phichit,23
+42420,Hand Foot Mouth,2023,Phichit,24
+42421,Hand Foot Mouth,2023,Phichit,25
+42422,Hand Foot Mouth,2023,Phichit,26
+42423,Hand Foot Mouth,2023,Phichit,27
+42424,Hand Foot Mouth,2023,Phichit,28
+42425,Hand Foot Mouth,2023,Phichit,29
+42426,Hand Foot Mouth,2023,Phichit,30
+42427,Hand Foot Mouth,2023,Phichit,31
+42428,Hand Foot Mouth,2023,Phichit,32
+42429,Hand Foot Mouth,2023,Phichit,33
+42430,Hand Foot Mouth,2023,Phichit,34
+42431,Hand Foot Mouth,2023,Phichit,35
+42432,Hand Foot Mouth,2023,Phichit,36
+42433,Hand Foot Mouth,2023,Phichit,37
+42434,Hand Foot Mouth,2023,Phichit,38
+42435,Hand Foot Mouth,2023,Phichit,39
+42436,Hand Foot Mouth,2023,Phichit,40
+42437,Hand Foot Mouth,2023,Phichit,41
+42438,Hand Foot Mouth,2023,Phichit,42
+42439,Hand Foot Mouth,2023,Phetchabun,1
+42440,Hand Foot Mouth,2023,Phetchabun,2
+42441,Hand Foot Mouth,2023,Phetchabun,3
+42442,Hand Foot Mouth,2023,Phetchabun,4
+42443,Hand Foot Mouth,2023,Phetchabun,5
+42444,Hand Foot Mouth,2023,Phetchabun,6
+42445,Hand Foot Mouth,2023,Phetchabun,7
+42446,Hand Foot Mouth,2023,Phetchabun,8
+42447,Hand Foot Mouth,2023,Phetchabun,9
+42448,Hand Foot Mouth,2023,Phetchabun,10
+42449,Hand Foot Mouth,2023,Phetchabun,11
+42450,Hand Foot Mouth,2023,Phetchabun,12
+42451,Hand Foot Mouth,2023,Phetchabun,13
+42452,Hand Foot Mouth,2023,Phetchabun,14
+42453,Hand Foot Mouth,2023,Phetchabun,15
+42454,Hand Foot Mouth,2023,Phetchabun,16
+42455,Hand Foot Mouth,2023,Phetchabun,17
+42456,Hand Foot Mouth,2023,Phetchabun,18
+42457,Hand Foot Mouth,2023,Phetchabun,19
+42458,Hand Foot Mouth,2023,Phetchabun,20
+42459,Hand Foot Mouth,2023,Phetchabun,21
+42460,Hand Foot Mouth,2023,Phetchabun,22
+42461,Hand Foot Mouth,2023,Phetchabun,23
+42462,Hand Foot Mouth,2023,Phetchabun,24
+42463,Hand Foot Mouth,2023,Phetchabun,25
+42464,Hand Foot Mouth,2023,Phetchabun,26
+42465,Hand Foot Mouth,2023,Phetchabun,27
+42466,Hand Foot Mouth,2023,Phetchabun,28
+42467,Hand Foot Mouth,2023,Phetchabun,29
+42468,Hand Foot Mouth,2023,Phetchabun,30
+42469,Hand Foot Mouth,2023,Phetchabun,31
+42470,Hand Foot Mouth,2023,Phetchabun,32
+42471,Hand Foot Mouth,2023,Phetchabun,33
+42472,Hand Foot Mouth,2023,Phetchabun,34
+42473,Hand Foot Mouth,2023,Phetchabun,35
+42474,Hand Foot Mouth,2023,Phetchabun,36
+42475,Hand Foot Mouth,2023,Phetchabun,37
+42476,Hand Foot Mouth,2023,Phetchabun,38
+42477,Hand Foot Mouth,2023,Phetchabun,39
+42478,Hand Foot Mouth,2023,Phetchabun,40
+42479,Hand Foot Mouth,2023,Phetchabun,41
+42480,Hand Foot Mouth,2023,Phetchabun,42
+42481,Hand Foot Mouth,2023,Ratchaburi,1
+42482,Hand Foot Mouth,2023,Ratchaburi,2
+42483,Hand Foot Mouth,2023,Ratchaburi,3
+42484,Hand Foot Mouth,2023,Ratchaburi,4
+42485,Hand Foot Mouth,2023,Ratchaburi,5
+42486,Hand Foot Mouth,2023,Ratchaburi,6
+42487,Hand Foot Mouth,2023,Ratchaburi,7
+42488,Hand Foot Mouth,2023,Ratchaburi,8
+42489,Hand Foot Mouth,2023,Ratchaburi,9
+42490,Hand Foot Mouth,2023,Ratchaburi,10
+42491,Hand Foot Mouth,2023,Ratchaburi,11
+42492,Hand Foot Mouth,2023,Ratchaburi,12
+42493,Hand Foot Mouth,2023,Ratchaburi,13
+42494,Hand Foot Mouth,2023,Ratchaburi,14
+42495,Hand Foot Mouth,2023,Ratchaburi,15
+42496,Hand Foot Mouth,2023,Ratchaburi,16
+42497,Hand Foot Mouth,2023,Ratchaburi,17
+42498,Hand Foot Mouth,2023,Ratchaburi,18
+42499,Hand Foot Mouth,2023,Ratchaburi,19
+42500,Hand Foot Mouth,2023,Ratchaburi,20
+42501,Hand Foot Mouth,2023,Ratchaburi,21
+42502,Hand Foot Mouth,2023,Ratchaburi,22
+42503,Hand Foot Mouth,2023,Ratchaburi,23
+42504,Hand Foot Mouth,2023,Ratchaburi,24
+42505,Hand Foot Mouth,2023,Ratchaburi,25
+42506,Hand Foot Mouth,2023,Ratchaburi,26
+42507,Hand Foot Mouth,2023,Ratchaburi,27
+42508,Hand Foot Mouth,2023,Ratchaburi,28
+42509,Hand Foot Mouth,2023,Ratchaburi,29
+42510,Hand Foot Mouth,2023,Ratchaburi,30
+42511,Hand Foot Mouth,2023,Ratchaburi,31
+42512,Hand Foot Mouth,2023,Ratchaburi,32
+42513,Hand Foot Mouth,2023,Ratchaburi,33
+42514,Hand Foot Mouth,2023,Ratchaburi,34
+42515,Hand Foot Mouth,2023,Ratchaburi,35
+42516,Hand Foot Mouth,2023,Ratchaburi,36
+42517,Hand Foot Mouth,2023,Ratchaburi,37
+42518,Hand Foot Mouth,2023,Ratchaburi,38
+42519,Hand Foot Mouth,2023,Ratchaburi,39
+42520,Hand Foot Mouth,2023,Ratchaburi,40
+42521,Hand Foot Mouth,2023,Ratchaburi,41
+42522,Hand Foot Mouth,2023,Kanchanaburi,1
+42523,Hand Foot Mouth,2023,Kanchanaburi,2
+42524,Hand Foot Mouth,2023,Kanchanaburi,3
+42525,Hand Foot Mouth,2023,Kanchanaburi,4
+42526,Hand Foot Mouth,2023,Kanchanaburi,5
+42527,Hand Foot Mouth,2023,Kanchanaburi,6
+42528,Hand Foot Mouth,2023,Kanchanaburi,7
+42529,Hand Foot Mouth,2023,Kanchanaburi,8
+42530,Hand Foot Mouth,2023,Kanchanaburi,9
+42531,Hand Foot Mouth,2023,Kanchanaburi,10
+42532,Hand Foot Mouth,2023,Kanchanaburi,11
+42533,Hand Foot Mouth,2023,Kanchanaburi,12
+42534,Hand Foot Mouth,2023,Kanchanaburi,13
+42535,Hand Foot Mouth,2023,Kanchanaburi,14
+42536,Hand Foot Mouth,2023,Kanchanaburi,15
+42537,Hand Foot Mouth,2023,Kanchanaburi,16
+42538,Hand Foot Mouth,2023,Kanchanaburi,17
+42539,Hand Foot Mouth,2023,Kanchanaburi,18
+42540,Hand Foot Mouth,2023,Kanchanaburi,19
+42541,Hand Foot Mouth,2023,Kanchanaburi,20
+42542,Hand Foot Mouth,2023,Kanchanaburi,21
+42543,Hand Foot Mouth,2023,Kanchanaburi,22
+42544,Hand Foot Mouth,2023,Kanchanaburi,23
+42545,Hand Foot Mouth,2023,Kanchanaburi,24
+42546,Hand Foot Mouth,2023,Kanchanaburi,25
+42547,Hand Foot Mouth,2023,Kanchanaburi,26
+42548,Hand Foot Mouth,2023,Kanchanaburi,27
+42549,Hand Foot Mouth,2023,Kanchanaburi,28
+42550,Hand Foot Mouth,2023,Kanchanaburi,29
+42551,Hand Foot Mouth,2023,Kanchanaburi,30
+42552,Hand Foot Mouth,2023,Kanchanaburi,31
+42553,Hand Foot Mouth,2023,Kanchanaburi,32
+42554,Hand Foot Mouth,2023,Kanchanaburi,33
+42555,Hand Foot Mouth,2023,Kanchanaburi,34
+42556,Hand Foot Mouth,2023,Kanchanaburi,35
+42557,Hand Foot Mouth,2023,Kanchanaburi,36
+42558,Hand Foot Mouth,2023,Kanchanaburi,37
+42559,Hand Foot Mouth,2023,Kanchanaburi,38
+42560,Hand Foot Mouth,2023,Kanchanaburi,39
+42561,Hand Foot Mouth,2023,Kanchanaburi,40
+42562,Hand Foot Mouth,2023,Kanchanaburi,41
+42563,Hand Foot Mouth,2023,Suphan Buri,1
+42564,Hand Foot Mouth,2023,Suphan Buri,2
+42565,Hand Foot Mouth,2023,Suphan Buri,3
+42566,Hand Foot Mouth,2023,Suphan Buri,4
+42567,Hand Foot Mouth,2023,Suphan Buri,5
+42568,Hand Foot Mouth,2023,Suphan Buri,6
+42569,Hand Foot Mouth,2023,Suphan Buri,7
+42570,Hand Foot Mouth,2023,Suphan Buri,8
+42571,Hand Foot Mouth,2023,Suphan Buri,9
+42572,Hand Foot Mouth,2023,Suphan Buri,10
+42573,Hand Foot Mouth,2023,Suphan Buri,11
+42574,Hand Foot Mouth,2023,Suphan Buri,12
+42575,Hand Foot Mouth,2023,Suphan Buri,13
+42576,Hand Foot Mouth,2023,Suphan Buri,14
+42577,Hand Foot Mouth,2023,Suphan Buri,15
+42578,Hand Foot Mouth,2023,Suphan Buri,16
+42579,Hand Foot Mouth,2023,Suphan Buri,17
+42580,Hand Foot Mouth,2023,Suphan Buri,18
+42581,Hand Foot Mouth,2023,Suphan Buri,19
+42582,Hand Foot Mouth,2023,Suphan Buri,20
+42583,Hand Foot Mouth,2023,Suphan Buri,21
+42584,Hand Foot Mouth,2023,Suphan Buri,22
+42585,Hand Foot Mouth,2023,Suphan Buri,23
+42586,Hand Foot Mouth,2023,Suphan Buri,24
+42587,Hand Foot Mouth,2023,Suphan Buri,25
+42588,Hand Foot Mouth,2023,Suphan Buri,26
+42589,Hand Foot Mouth,2023,Suphan Buri,27
+42590,Hand Foot Mouth,2023,Suphan Buri,28
+42591,Hand Foot Mouth,2023,Suphan Buri,29
+42592,Hand Foot Mouth,2023,Suphan Buri,30
+42593,Hand Foot Mouth,2023,Suphan Buri,31
+42594,Hand Foot Mouth,2023,Suphan Buri,32
+42595,Hand Foot Mouth,2023,Suphan Buri,33
+42596,Hand Foot Mouth,2023,Suphan Buri,34
+42597,Hand Foot Mouth,2023,Suphan Buri,35
+42598,Hand Foot Mouth,2023,Suphan Buri,36
+42599,Hand Foot Mouth,2023,Suphan Buri,37
+42600,Hand Foot Mouth,2023,Suphan Buri,38
+42601,Hand Foot Mouth,2023,Suphan Buri,39
+42602,Hand Foot Mouth,2023,Suphan Buri,40
+42603,Hand Foot Mouth,2023,Suphan Buri,41
+42604,Hand Foot Mouth,2023,Nakhon Pathom,1
+42605,Hand Foot Mouth,2023,Nakhon Pathom,2
+42606,Hand Foot Mouth,2023,Nakhon Pathom,3
+42607,Hand Foot Mouth,2023,Nakhon Pathom,4
+42608,Hand Foot Mouth,2023,Nakhon Pathom,5
+42609,Hand Foot Mouth,2023,Nakhon Pathom,6
+42610,Hand Foot Mouth,2023,Nakhon Pathom,7
+42611,Hand Foot Mouth,2023,Nakhon Pathom,8
+42612,Hand Foot Mouth,2023,Nakhon Pathom,9
+42613,Hand Foot Mouth,2023,Nakhon Pathom,10
+42614,Hand Foot Mouth,2023,Nakhon Pathom,11
+42615,Hand Foot Mouth,2023,Nakhon Pathom,12
+42616,Hand Foot Mouth,2023,Nakhon Pathom,13
+42617,Hand Foot Mouth,2023,Nakhon Pathom,14
+42618,Hand Foot Mouth,2023,Nakhon Pathom,15
+42619,Hand Foot Mouth,2023,Nakhon Pathom,16
+42620,Hand Foot Mouth,2023,Nakhon Pathom,17
+42621,Hand Foot Mouth,2023,Nakhon Pathom,18
+42622,Hand Foot Mouth,2023,Nakhon Pathom,19
+42623,Hand Foot Mouth,2023,Nakhon Pathom,20
+42624,Hand Foot Mouth,2023,Nakhon Pathom,21
+42625,Hand Foot Mouth,2023,Nakhon Pathom,22
+42626,Hand Foot Mouth,2023,Nakhon Pathom,23
+42627,Hand Foot Mouth,2023,Nakhon Pathom,24
+42628,Hand Foot Mouth,2023,Nakhon Pathom,25
+42629,Hand Foot Mouth,2023,Nakhon Pathom,26
+42630,Hand Foot Mouth,2023,Nakhon Pathom,27
+42631,Hand Foot Mouth,2023,Nakhon Pathom,28
+42632,Hand Foot Mouth,2023,Nakhon Pathom,29
+42633,Hand Foot Mouth,2023,Nakhon Pathom,30
+42634,Hand Foot Mouth,2023,Nakhon Pathom,31
+42635,Hand Foot Mouth,2023,Nakhon Pathom,32
+42636,Hand Foot Mouth,2023,Nakhon Pathom,33
+42637,Hand Foot Mouth,2023,Nakhon Pathom,34
+42638,Hand Foot Mouth,2023,Nakhon Pathom,35
+42639,Hand Foot Mouth,2023,Nakhon Pathom,36
+42640,Hand Foot Mouth,2023,Nakhon Pathom,37
+42641,Hand Foot Mouth,2023,Nakhon Pathom,38
+42642,Hand Foot Mouth,2023,Nakhon Pathom,39
+42643,Hand Foot Mouth,2023,Nakhon Pathom,40
+42644,Hand Foot Mouth,2023,Nakhon Pathom,41
+42645,Hand Foot Mouth,2023,Nakhon Pathom,42
+42646,Hand Foot Mouth,2023,Samut Sakhon,1
+42647,Hand Foot Mouth,2023,Samut Sakhon,2
+42648,Hand Foot Mouth,2023,Samut Sakhon,3
+42649,Hand Foot Mouth,2023,Samut Sakhon,4
+42650,Hand Foot Mouth,2023,Samut Sakhon,5
+42651,Hand Foot Mouth,2023,Samut Sakhon,6
+42652,Hand Foot Mouth,2023,Samut Sakhon,7
+42653,Hand Foot Mouth,2023,Samut Sakhon,8
+42654,Hand Foot Mouth,2023,Samut Sakhon,9
+42655,Hand Foot Mouth,2023,Samut Sakhon,10
+42656,Hand Foot Mouth,2023,Samut Sakhon,11
+42657,Hand Foot Mouth,2023,Samut Sakhon,12
+42658,Hand Foot Mouth,2023,Samut Sakhon,13
+42659,Hand Foot Mouth,2023,Samut Sakhon,14
+42660,Hand Foot Mouth,2023,Samut Sakhon,15
+42661,Hand Foot Mouth,2023,Samut Sakhon,16
+42662,Hand Foot Mouth,2023,Samut Sakhon,17
+42663,Hand Foot Mouth,2023,Samut Sakhon,18
+42664,Hand Foot Mouth,2023,Samut Sakhon,19
+42665,Hand Foot Mouth,2023,Samut Sakhon,20
+42666,Hand Foot Mouth,2023,Samut Sakhon,21
+42667,Hand Foot Mouth,2023,Samut Sakhon,22
+42668,Hand Foot Mouth,2023,Samut Sakhon,23
+42669,Hand Foot Mouth,2023,Samut Sakhon,24
+42670,Hand Foot Mouth,2023,Samut Sakhon,25
+42671,Hand Foot Mouth,2023,Samut Sakhon,26
+42672,Hand Foot Mouth,2023,Samut Sakhon,27
+42673,Hand Foot Mouth,2023,Samut Sakhon,28
+42674,Hand Foot Mouth,2023,Samut Sakhon,29
+42675,Hand Foot Mouth,2023,Samut Sakhon,30
+42676,Hand Foot Mouth,2023,Samut Sakhon,31
+42677,Hand Foot Mouth,2023,Samut Sakhon,32
+42678,Hand Foot Mouth,2023,Samut Sakhon,33
+42679,Hand Foot Mouth,2023,Samut Sakhon,34
+42680,Hand Foot Mouth,2023,Samut Sakhon,35
+42681,Hand Foot Mouth,2023,Samut Sakhon,36
+42682,Hand Foot Mouth,2023,Samut Sakhon,37
+42683,Hand Foot Mouth,2023,Samut Sakhon,38
+42684,Hand Foot Mouth,2023,Samut Sakhon,39
+42685,Hand Foot Mouth,2023,Samut Sakhon,40
+42686,Hand Foot Mouth,2023,Samut Songkhram,1
+42687,Hand Foot Mouth,2023,Samut Songkhram,2
+42688,Hand Foot Mouth,2023,Samut Songkhram,3
+42689,Hand Foot Mouth,2023,Samut Songkhram,4
+42690,Hand Foot Mouth,2023,Samut Songkhram,5
+42691,Hand Foot Mouth,2023,Samut Songkhram,6
+42692,Hand Foot Mouth,2023,Samut Songkhram,7
+42693,Hand Foot Mouth,2023,Samut Songkhram,8
+42694,Hand Foot Mouth,2023,Samut Songkhram,9
+42695,Hand Foot Mouth,2023,Samut Songkhram,10
+42696,Hand Foot Mouth,2023,Samut Songkhram,11
+42697,Hand Foot Mouth,2023,Samut Songkhram,12
+42698,Hand Foot Mouth,2023,Samut Songkhram,13
+42699,Hand Foot Mouth,2023,Samut Songkhram,14
+42700,Hand Foot Mouth,2023,Samut Songkhram,15
+42701,Hand Foot Mouth,2023,Samut Songkhram,16
+42702,Hand Foot Mouth,2023,Samut Songkhram,17
+42703,Hand Foot Mouth,2023,Samut Songkhram,18
+42704,Hand Foot Mouth,2023,Samut Songkhram,19
+42705,Hand Foot Mouth,2023,Samut Songkhram,20
+42706,Hand Foot Mouth,2023,Samut Songkhram,21
+42707,Hand Foot Mouth,2023,Samut Songkhram,22
+42708,Hand Foot Mouth,2023,Samut Songkhram,23
+42709,Hand Foot Mouth,2023,Samut Songkhram,24
+42710,Hand Foot Mouth,2023,Samut Songkhram,25
+42711,Hand Foot Mouth,2023,Samut Songkhram,26
+42712,Hand Foot Mouth,2023,Samut Songkhram,27
+42713,Hand Foot Mouth,2023,Samut Songkhram,28
+42714,Hand Foot Mouth,2023,Samut Songkhram,29
+42715,Hand Foot Mouth,2023,Samut Songkhram,30
+42716,Hand Foot Mouth,2023,Samut Songkhram,31
+42717,Hand Foot Mouth,2023,Samut Songkhram,32
+42718,Hand Foot Mouth,2023,Samut Songkhram,33
+42719,Hand Foot Mouth,2023,Samut Songkhram,34
+42720,Hand Foot Mouth,2023,Samut Songkhram,35
+42721,Hand Foot Mouth,2023,Samut Songkhram,36
+42722,Hand Foot Mouth,2023,Samut Songkhram,37
+42723,Hand Foot Mouth,2023,Samut Songkhram,38
+42724,Hand Foot Mouth,2023,Samut Songkhram,39
+42725,Hand Foot Mouth,2023,Samut Songkhram,40
+42726,Hand Foot Mouth,2023,Samut Songkhram,41
+42727,Hand Foot Mouth,2023,Phetchaburi,1
+42728,Hand Foot Mouth,2023,Phetchaburi,2
+42729,Hand Foot Mouth,2023,Phetchaburi,3
+42730,Hand Foot Mouth,2023,Phetchaburi,4
+42731,Hand Foot Mouth,2023,Phetchaburi,5
+42732,Hand Foot Mouth,2023,Phetchaburi,6
+42733,Hand Foot Mouth,2023,Phetchaburi,7
+42734,Hand Foot Mouth,2023,Phetchaburi,8
+42735,Hand Foot Mouth,2023,Phetchaburi,9
+42736,Hand Foot Mouth,2023,Phetchaburi,10
+42737,Hand Foot Mouth,2023,Phetchaburi,11
+42738,Hand Foot Mouth,2023,Phetchaburi,12
+42739,Hand Foot Mouth,2023,Phetchaburi,13
+42740,Hand Foot Mouth,2023,Phetchaburi,14
+42741,Hand Foot Mouth,2023,Phetchaburi,15
+42742,Hand Foot Mouth,2023,Phetchaburi,16
+42743,Hand Foot Mouth,2023,Phetchaburi,17
+42744,Hand Foot Mouth,2023,Phetchaburi,18
+42745,Hand Foot Mouth,2023,Phetchaburi,19
+42746,Hand Foot Mouth,2023,Phetchaburi,20
+42747,Hand Foot Mouth,2023,Phetchaburi,21
+42748,Hand Foot Mouth,2023,Phetchaburi,22
+42749,Hand Foot Mouth,2023,Phetchaburi,23
+42750,Hand Foot Mouth,2023,Phetchaburi,24
+42751,Hand Foot Mouth,2023,Phetchaburi,25
+42752,Hand Foot Mouth,2023,Phetchaburi,26
+42753,Hand Foot Mouth,2023,Phetchaburi,27
+42754,Hand Foot Mouth,2023,Phetchaburi,28
+42755,Hand Foot Mouth,2023,Phetchaburi,29
+42756,Hand Foot Mouth,2023,Phetchaburi,30
+42757,Hand Foot Mouth,2023,Phetchaburi,31
+42758,Hand Foot Mouth,2023,Phetchaburi,32
+42759,Hand Foot Mouth,2023,Phetchaburi,33
+42760,Hand Foot Mouth,2023,Phetchaburi,34
+42761,Hand Foot Mouth,2023,Phetchaburi,35
+42762,Hand Foot Mouth,2023,Phetchaburi,36
+42763,Hand Foot Mouth,2023,Phetchaburi,37
+42764,Hand Foot Mouth,2023,Phetchaburi,38
+42765,Hand Foot Mouth,2023,Phetchaburi,39
+42766,Hand Foot Mouth,2023,Phetchaburi,40
+42767,Hand Foot Mouth,2023,Phetchaburi,41
+42768,Hand Foot Mouth,2023,Prachuap Khiri Khan,1
+42769,Hand Foot Mouth,2023,Prachuap Khiri Khan,2
+42770,Hand Foot Mouth,2023,Prachuap Khiri Khan,3
+42771,Hand Foot Mouth,2023,Prachuap Khiri Khan,4
+42772,Hand Foot Mouth,2023,Prachuap Khiri Khan,5
+42773,Hand Foot Mouth,2023,Prachuap Khiri Khan,6
+42774,Hand Foot Mouth,2023,Prachuap Khiri Khan,7
+42775,Hand Foot Mouth,2023,Prachuap Khiri Khan,8
+42776,Hand Foot Mouth,2023,Prachuap Khiri Khan,9
+42777,Hand Foot Mouth,2023,Prachuap Khiri Khan,10
+42778,Hand Foot Mouth,2023,Prachuap Khiri Khan,11
+42779,Hand Foot Mouth,2023,Prachuap Khiri Khan,12
+42780,Hand Foot Mouth,2023,Prachuap Khiri Khan,13
+42781,Hand Foot Mouth,2023,Prachuap Khiri Khan,14
+42782,Hand Foot Mouth,2023,Prachuap Khiri Khan,15
+42783,Hand Foot Mouth,2023,Prachuap Khiri Khan,16
+42784,Hand Foot Mouth,2023,Prachuap Khiri Khan,17
+42785,Hand Foot Mouth,2023,Prachuap Khiri Khan,18
+42786,Hand Foot Mouth,2023,Prachuap Khiri Khan,19
+42787,Hand Foot Mouth,2023,Prachuap Khiri Khan,20
+42788,Hand Foot Mouth,2023,Prachuap Khiri Khan,21
+42789,Hand Foot Mouth,2023,Prachuap Khiri Khan,22
+42790,Hand Foot Mouth,2023,Prachuap Khiri Khan,23
+42791,Hand Foot Mouth,2023,Prachuap Khiri Khan,24
+42792,Hand Foot Mouth,2023,Prachuap Khiri Khan,25
+42793,Hand Foot Mouth,2023,Prachuap Khiri Khan,26
+42794,Hand Foot Mouth,2023,Prachuap Khiri Khan,27
+42795,Hand Foot Mouth,2023,Prachuap Khiri Khan,28
+42796,Hand Foot Mouth,2023,Prachuap Khiri Khan,29
+42797,Hand Foot Mouth,2023,Prachuap Khiri Khan,30
+42798,Hand Foot Mouth,2023,Prachuap Khiri Khan,31
+42799,Hand Foot Mouth,2023,Prachuap Khiri Khan,32
+42800,Hand Foot Mouth,2023,Prachuap Khiri Khan,33
+42801,Hand Foot Mouth,2023,Prachuap Khiri Khan,34
+42802,Hand Foot Mouth,2023,Prachuap Khiri Khan,35
+42803,Hand Foot Mouth,2023,Prachuap Khiri Khan,36
+42804,Hand Foot Mouth,2023,Prachuap Khiri Khan,37
+42805,Hand Foot Mouth,2023,Prachuap Khiri Khan,38
+42806,Hand Foot Mouth,2023,Prachuap Khiri Khan,39
+42807,Hand Foot Mouth,2023,Prachuap Khiri Khan,40
+42808,Hand Foot Mouth,2023,Prachuap Khiri Khan,41
+42809,Hand Foot Mouth,2023,Nakhon Si Thammarat,1
+42810,Hand Foot Mouth,2023,Nakhon Si Thammarat,2
+42811,Hand Foot Mouth,2023,Nakhon Si Thammarat,3
+42812,Hand Foot Mouth,2023,Nakhon Si Thammarat,4
+42813,Hand Foot Mouth,2023,Nakhon Si Thammarat,5
+42814,Hand Foot Mouth,2023,Nakhon Si Thammarat,6
+42815,Hand Foot Mouth,2023,Nakhon Si Thammarat,7
+42816,Hand Foot Mouth,2023,Nakhon Si Thammarat,8
+42817,Hand Foot Mouth,2023,Nakhon Si Thammarat,9
+42818,Hand Foot Mouth,2023,Nakhon Si Thammarat,10
+42819,Hand Foot Mouth,2023,Nakhon Si Thammarat,11
+42820,Hand Foot Mouth,2023,Nakhon Si Thammarat,12
+42821,Hand Foot Mouth,2023,Nakhon Si Thammarat,13
+42822,Hand Foot Mouth,2023,Nakhon Si Thammarat,14
+42823,Hand Foot Mouth,2023,Nakhon Si Thammarat,15
+42824,Hand Foot Mouth,2023,Nakhon Si Thammarat,16
+42825,Hand Foot Mouth,2023,Nakhon Si Thammarat,17
+42826,Hand Foot Mouth,2023,Nakhon Si Thammarat,18
+42827,Hand Foot Mouth,2023,Nakhon Si Thammarat,19
+42828,Hand Foot Mouth,2023,Nakhon Si Thammarat,20
+42829,Hand Foot Mouth,2023,Nakhon Si Thammarat,21
+42830,Hand Foot Mouth,2023,Nakhon Si Thammarat,22
+42831,Hand Foot Mouth,2023,Nakhon Si Thammarat,23
+42832,Hand Foot Mouth,2023,Nakhon Si Thammarat,24
+42833,Hand Foot Mouth,2023,Nakhon Si Thammarat,25
+42834,Hand Foot Mouth,2023,Nakhon Si Thammarat,26
+42835,Hand Foot Mouth,2023,Nakhon Si Thammarat,27
+42836,Hand Foot Mouth,2023,Nakhon Si Thammarat,28
+42837,Hand Foot Mouth,2023,Nakhon Si Thammarat,29
+42838,Hand Foot Mouth,2023,Nakhon Si Thammarat,30
+42839,Hand Foot Mouth,2023,Nakhon Si Thammarat,31
+42840,Hand Foot Mouth,2023,Nakhon Si Thammarat,32
+42841,Hand Foot Mouth,2023,Nakhon Si Thammarat,33
+42842,Hand Foot Mouth,2023,Nakhon Si Thammarat,34
+42843,Hand Foot Mouth,2023,Nakhon Si Thammarat,35
+42844,Hand Foot Mouth,2023,Nakhon Si Thammarat,36
+42845,Hand Foot Mouth,2023,Nakhon Si Thammarat,37
+42846,Hand Foot Mouth,2023,Nakhon Si Thammarat,38
+42847,Hand Foot Mouth,2023,Nakhon Si Thammarat,39
+42848,Hand Foot Mouth,2023,Nakhon Si Thammarat,40
+42849,Hand Foot Mouth,2023,Nakhon Si Thammarat,41
+42850,Hand Foot Mouth,2023,Nakhon Si Thammarat,42
+42851,Hand Foot Mouth,2023,Krabi,1
+42852,Hand Foot Mouth,2023,Krabi,2
+42853,Hand Foot Mouth,2023,Krabi,3
+42854,Hand Foot Mouth,2023,Krabi,4
+42855,Hand Foot Mouth,2023,Krabi,5
+42856,Hand Foot Mouth,2023,Krabi,6
+42857,Hand Foot Mouth,2023,Krabi,7
+42858,Hand Foot Mouth,2023,Krabi,8
+42859,Hand Foot Mouth,2023,Krabi,9
+42860,Hand Foot Mouth,2023,Krabi,10
+42861,Hand Foot Mouth,2023,Krabi,11
+42862,Hand Foot Mouth,2023,Krabi,12
+42863,Hand Foot Mouth,2023,Krabi,13
+42864,Hand Foot Mouth,2023,Krabi,14
+42865,Hand Foot Mouth,2023,Krabi,15
+42866,Hand Foot Mouth,2023,Krabi,16
+42867,Hand Foot Mouth,2023,Krabi,17
+42868,Hand Foot Mouth,2023,Krabi,18
+42869,Hand Foot Mouth,2023,Krabi,19
+42870,Hand Foot Mouth,2023,Krabi,20
+42871,Hand Foot Mouth,2023,Krabi,21
+42872,Hand Foot Mouth,2023,Krabi,22
+42873,Hand Foot Mouth,2023,Krabi,23
+42874,Hand Foot Mouth,2023,Krabi,24
+42875,Hand Foot Mouth,2023,Krabi,25
+42876,Hand Foot Mouth,2023,Krabi,26
+42877,Hand Foot Mouth,2023,Krabi,27
+42878,Hand Foot Mouth,2023,Krabi,28
+42879,Hand Foot Mouth,2023,Krabi,29
+42880,Hand Foot Mouth,2023,Krabi,30
+42881,Hand Foot Mouth,2023,Krabi,31
+42882,Hand Foot Mouth,2023,Krabi,32
+42883,Hand Foot Mouth,2023,Krabi,33
+42884,Hand Foot Mouth,2023,Krabi,34
+42885,Hand Foot Mouth,2023,Krabi,35
+42886,Hand Foot Mouth,2023,Krabi,36
+42887,Hand Foot Mouth,2023,Krabi,37
+42888,Hand Foot Mouth,2023,Krabi,38
+42889,Hand Foot Mouth,2023,Krabi,39
+42890,Hand Foot Mouth,2023,Krabi,40
+42891,Hand Foot Mouth,2023,Krabi,41
+42892,Hand Foot Mouth,2023,Krabi,42
+42893,Hand Foot Mouth,2023,Phang Nga,1
+42894,Hand Foot Mouth,2023,Phang Nga,2
+42895,Hand Foot Mouth,2023,Phang Nga,3
+42896,Hand Foot Mouth,2023,Phang Nga,4
+42897,Hand Foot Mouth,2023,Phang Nga,5
+42898,Hand Foot Mouth,2023,Phang Nga,6
+42899,Hand Foot Mouth,2023,Phang Nga,7
+42900,Hand Foot Mouth,2023,Phang Nga,8
+42901,Hand Foot Mouth,2023,Phang Nga,9
+42902,Hand Foot Mouth,2023,Phang Nga,10
+42903,Hand Foot Mouth,2023,Phang Nga,11
+42904,Hand Foot Mouth,2023,Phang Nga,12
+42905,Hand Foot Mouth,2023,Phang Nga,13
+42906,Hand Foot Mouth,2023,Phang Nga,14
+42907,Hand Foot Mouth,2023,Phang Nga,15
+42908,Hand Foot Mouth,2023,Phang Nga,16
+42909,Hand Foot Mouth,2023,Phang Nga,17
+42910,Hand Foot Mouth,2023,Phang Nga,18
+42911,Hand Foot Mouth,2023,Phang Nga,19
+42912,Hand Foot Mouth,2023,Phang Nga,20
+42913,Hand Foot Mouth,2023,Phang Nga,21
+42914,Hand Foot Mouth,2023,Phang Nga,22
+42915,Hand Foot Mouth,2023,Phang Nga,23
+42916,Hand Foot Mouth,2023,Phang Nga,24
+42917,Hand Foot Mouth,2023,Phang Nga,25
+42918,Hand Foot Mouth,2023,Phang Nga,26
+42919,Hand Foot Mouth,2023,Phang Nga,27
+42920,Hand Foot Mouth,2023,Phang Nga,28
+42921,Hand Foot Mouth,2023,Phang Nga,29
+42922,Hand Foot Mouth,2023,Phang Nga,30
+42923,Hand Foot Mouth,2023,Phang Nga,31
+42924,Hand Foot Mouth,2023,Phang Nga,32
+42925,Hand Foot Mouth,2023,Phang Nga,33
+42926,Hand Foot Mouth,2023,Phang Nga,34
+42927,Hand Foot Mouth,2023,Phang Nga,35
+42928,Hand Foot Mouth,2023,Phang Nga,36
+42929,Hand Foot Mouth,2023,Phang Nga,37
+42930,Hand Foot Mouth,2023,Phang Nga,38
+42931,Hand Foot Mouth,2023,Phang Nga,39
+42932,Hand Foot Mouth,2023,Phang Nga,40
+42933,Hand Foot Mouth,2023,Phang Nga,41
+42934,Hand Foot Mouth,2023,Phuket,1
+42935,Hand Foot Mouth,2023,Phuket,2
+42936,Hand Foot Mouth,2023,Phuket,3
+42937,Hand Foot Mouth,2023,Phuket,4
+42938,Hand Foot Mouth,2023,Phuket,5
+42939,Hand Foot Mouth,2023,Phuket,6
+42940,Hand Foot Mouth,2023,Phuket,7
+42941,Hand Foot Mouth,2023,Phuket,8
+42942,Hand Foot Mouth,2023,Phuket,9
+42943,Hand Foot Mouth,2023,Phuket,10
+42944,Hand Foot Mouth,2023,Phuket,11
+42945,Hand Foot Mouth,2023,Phuket,12
+42946,Hand Foot Mouth,2023,Phuket,13
+42947,Hand Foot Mouth,2023,Phuket,14
+42948,Hand Foot Mouth,2023,Phuket,15
+42949,Hand Foot Mouth,2023,Phuket,16
+42950,Hand Foot Mouth,2023,Phuket,17
+42951,Hand Foot Mouth,2023,Phuket,18
+42952,Hand Foot Mouth,2023,Phuket,19
+42953,Hand Foot Mouth,2023,Phuket,20
+42954,Hand Foot Mouth,2023,Phuket,21
+42955,Hand Foot Mouth,2023,Phuket,22
+42956,Hand Foot Mouth,2023,Phuket,23
+42957,Hand Foot Mouth,2023,Phuket,24
+42958,Hand Foot Mouth,2023,Phuket,25
+42959,Hand Foot Mouth,2023,Phuket,26
+42960,Hand Foot Mouth,2023,Phuket,27
+42961,Hand Foot Mouth,2023,Phuket,28
+42962,Hand Foot Mouth,2023,Phuket,29
+42963,Hand Foot Mouth,2023,Phuket,30
+42964,Hand Foot Mouth,2023,Phuket,31
+42965,Hand Foot Mouth,2023,Phuket,32
+42966,Hand Foot Mouth,2023,Phuket,33
+42967,Hand Foot Mouth,2023,Phuket,34
+42968,Hand Foot Mouth,2023,Phuket,35
+42969,Hand Foot Mouth,2023,Phuket,36
+42970,Hand Foot Mouth,2023,Phuket,37
+42971,Hand Foot Mouth,2023,Phuket,38
+42972,Hand Foot Mouth,2023,Phuket,39
+42973,Hand Foot Mouth,2023,Phuket,40
+42974,Hand Foot Mouth,2023,Phuket,41
+42975,Hand Foot Mouth,2023,Phuket,42
+42976,Hand Foot Mouth,2023,Surat Thani,1
+42977,Hand Foot Mouth,2023,Surat Thani,2
+42978,Hand Foot Mouth,2023,Surat Thani,3
+42979,Hand Foot Mouth,2023,Surat Thani,4
+42980,Hand Foot Mouth,2023,Surat Thani,5
+42981,Hand Foot Mouth,2023,Surat Thani,6
+42982,Hand Foot Mouth,2023,Surat Thani,7
+42983,Hand Foot Mouth,2023,Surat Thani,8
+42984,Hand Foot Mouth,2023,Surat Thani,9
+42985,Hand Foot Mouth,2023,Surat Thani,10
+42986,Hand Foot Mouth,2023,Surat Thani,11
+42987,Hand Foot Mouth,2023,Surat Thani,12
+42988,Hand Foot Mouth,2023,Surat Thani,13
+42989,Hand Foot Mouth,2023,Surat Thani,14
+42990,Hand Foot Mouth,2023,Surat Thani,15
+42991,Hand Foot Mouth,2023,Surat Thani,16
+42992,Hand Foot Mouth,2023,Surat Thani,17
+42993,Hand Foot Mouth,2023,Surat Thani,18
+42994,Hand Foot Mouth,2023,Surat Thani,19
+42995,Hand Foot Mouth,2023,Surat Thani,20
+42996,Hand Foot Mouth,2023,Surat Thani,21
+42997,Hand Foot Mouth,2023,Surat Thani,22
+42998,Hand Foot Mouth,2023,Surat Thani,23
+42999,Hand Foot Mouth,2023,Surat Thani,24
+43000,Hand Foot Mouth,2023,Surat Thani,25
+43001,Hand Foot Mouth,2023,Surat Thani,26
+43002,Hand Foot Mouth,2023,Surat Thani,27
+43003,Hand Foot Mouth,2023,Surat Thani,28
+43004,Hand Foot Mouth,2023,Surat Thani,29
+43005,Hand Foot Mouth,2023,Surat Thani,30
+43006,Hand Foot Mouth,2023,Surat Thani,31
+43007,Hand Foot Mouth,2023,Surat Thani,32
+43008,Hand Foot Mouth,2023,Surat Thani,33
+43009,Hand Foot Mouth,2023,Surat Thani,34
+43010,Hand Foot Mouth,2023,Surat Thani,35
+43011,Hand Foot Mouth,2023,Surat Thani,36
+43012,Hand Foot Mouth,2023,Surat Thani,37
+43013,Hand Foot Mouth,2023,Surat Thani,38
+43014,Hand Foot Mouth,2023,Surat Thani,39
+43015,Hand Foot Mouth,2023,Surat Thani,40
+43016,Hand Foot Mouth,2023,Surat Thani,41
+43017,Hand Foot Mouth,2023,Ranong,1
+43018,Hand Foot Mouth,2023,Ranong,2
+43019,Hand Foot Mouth,2023,Ranong,3
+43020,Hand Foot Mouth,2023,Ranong,4
+43021,Hand Foot Mouth,2023,Ranong,5
+43022,Hand Foot Mouth,2023,Ranong,6
+43023,Hand Foot Mouth,2023,Ranong,7
+43024,Hand Foot Mouth,2023,Ranong,8
+43025,Hand Foot Mouth,2023,Ranong,9
+43026,Hand Foot Mouth,2023,Ranong,10
+43027,Hand Foot Mouth,2023,Ranong,11
+43028,Hand Foot Mouth,2023,Ranong,12
+43029,Hand Foot Mouth,2023,Ranong,13
+43030,Hand Foot Mouth,2023,Ranong,14
+43031,Hand Foot Mouth,2023,Ranong,15
+43032,Hand Foot Mouth,2023,Ranong,16
+43033,Hand Foot Mouth,2023,Ranong,17
+43034,Hand Foot Mouth,2023,Ranong,18
+43035,Hand Foot Mouth,2023,Ranong,19
+43036,Hand Foot Mouth,2023,Ranong,20
+43037,Hand Foot Mouth,2023,Ranong,21
+43038,Hand Foot Mouth,2023,Ranong,22
+43039,Hand Foot Mouth,2023,Ranong,23
+43040,Hand Foot Mouth,2023,Ranong,24
+43041,Hand Foot Mouth,2023,Ranong,25
+43042,Hand Foot Mouth,2023,Ranong,26
+43043,Hand Foot Mouth,2023,Ranong,27
+43044,Hand Foot Mouth,2023,Ranong,28
+43045,Hand Foot Mouth,2023,Ranong,29
+43046,Hand Foot Mouth,2023,Ranong,30
+43047,Hand Foot Mouth,2023,Ranong,31
+43048,Hand Foot Mouth,2023,Ranong,32
+43049,Hand Foot Mouth,2023,Ranong,33
+43050,Hand Foot Mouth,2023,Ranong,34
+43051,Hand Foot Mouth,2023,Ranong,35
+43052,Hand Foot Mouth,2023,Ranong,36
+43053,Hand Foot Mouth,2023,Ranong,37
+43054,Hand Foot Mouth,2023,Ranong,38
+43055,Hand Foot Mouth,2023,Ranong,39
+43056,Hand Foot Mouth,2023,Ranong,40
+43057,Hand Foot Mouth,2023,Ranong,41
+43058,Hand Foot Mouth,2023,Chumphon,1
+43059,Hand Foot Mouth,2023,Chumphon,2
+43060,Hand Foot Mouth,2023,Chumphon,3
+43061,Hand Foot Mouth,2023,Chumphon,4
+43062,Hand Foot Mouth,2023,Chumphon,5
+43063,Hand Foot Mouth,2023,Chumphon,6
+43064,Hand Foot Mouth,2023,Chumphon,7
+43065,Hand Foot Mouth,2023,Chumphon,8
+43066,Hand Foot Mouth,2023,Chumphon,9
+43067,Hand Foot Mouth,2023,Chumphon,10
+43068,Hand Foot Mouth,2023,Chumphon,11
+43069,Hand Foot Mouth,2023,Chumphon,12
+43070,Hand Foot Mouth,2023,Chumphon,13
+43071,Hand Foot Mouth,2023,Chumphon,14
+43072,Hand Foot Mouth,2023,Chumphon,15
+43073,Hand Foot Mouth,2023,Chumphon,16
+43074,Hand Foot Mouth,2023,Chumphon,17
+43075,Hand Foot Mouth,2023,Chumphon,18
+43076,Hand Foot Mouth,2023,Chumphon,19
+43077,Hand Foot Mouth,2023,Chumphon,20
+43078,Hand Foot Mouth,2023,Chumphon,21
+43079,Hand Foot Mouth,2023,Chumphon,22
+43080,Hand Foot Mouth,2023,Chumphon,23
+43081,Hand Foot Mouth,2023,Chumphon,24
+43082,Hand Foot Mouth,2023,Chumphon,25
+43083,Hand Foot Mouth,2023,Chumphon,26
+43084,Hand Foot Mouth,2023,Chumphon,27
+43085,Hand Foot Mouth,2023,Chumphon,28
+43086,Hand Foot Mouth,2023,Chumphon,29
+43087,Hand Foot Mouth,2023,Chumphon,30
+43088,Hand Foot Mouth,2023,Chumphon,31
+43089,Hand Foot Mouth,2023,Chumphon,32
+43090,Hand Foot Mouth,2023,Chumphon,33
+43091,Hand Foot Mouth,2023,Chumphon,34
+43092,Hand Foot Mouth,2023,Chumphon,35
+43093,Hand Foot Mouth,2023,Chumphon,36
+43094,Hand Foot Mouth,2023,Chumphon,37
+43095,Hand Foot Mouth,2023,Chumphon,38
+43096,Hand Foot Mouth,2023,Chumphon,39
+43097,Hand Foot Mouth,2023,Chumphon,40
+43098,Hand Foot Mouth,2023,Chumphon,41
+43099,Hand Foot Mouth,2023,Songkhla,1
+43100,Hand Foot Mouth,2023,Songkhla,2
+43101,Hand Foot Mouth,2023,Songkhla,3
+43102,Hand Foot Mouth,2023,Songkhla,4
+43103,Hand Foot Mouth,2023,Songkhla,5
+43104,Hand Foot Mouth,2023,Songkhla,6
+43105,Hand Foot Mouth,2023,Songkhla,7
+43106,Hand Foot Mouth,2023,Songkhla,8
+43107,Hand Foot Mouth,2023,Songkhla,9
+43108,Hand Foot Mouth,2023,Songkhla,10
+43109,Hand Foot Mouth,2023,Songkhla,11
+43110,Hand Foot Mouth,2023,Songkhla,12
+43111,Hand Foot Mouth,2023,Songkhla,13
+43112,Hand Foot Mouth,2023,Songkhla,14
+43113,Hand Foot Mouth,2023,Songkhla,15
+43114,Hand Foot Mouth,2023,Songkhla,16
+43115,Hand Foot Mouth,2023,Songkhla,17
+43116,Hand Foot Mouth,2023,Songkhla,18
+43117,Hand Foot Mouth,2023,Songkhla,19
+43118,Hand Foot Mouth,2023,Songkhla,20
+43119,Hand Foot Mouth,2023,Songkhla,21
+43120,Hand Foot Mouth,2023,Songkhla,22
+43121,Hand Foot Mouth,2023,Songkhla,23
+43122,Hand Foot Mouth,2023,Songkhla,24
+43123,Hand Foot Mouth,2023,Songkhla,25
+43124,Hand Foot Mouth,2023,Songkhla,26
+43125,Hand Foot Mouth,2023,Songkhla,27
+43126,Hand Foot Mouth,2023,Songkhla,28
+43127,Hand Foot Mouth,2023,Songkhla,29
+43128,Hand Foot Mouth,2023,Songkhla,30
+43129,Hand Foot Mouth,2023,Songkhla,31
+43130,Hand Foot Mouth,2023,Songkhla,32
+43131,Hand Foot Mouth,2023,Songkhla,33
+43132,Hand Foot Mouth,2023,Songkhla,34
+43133,Hand Foot Mouth,2023,Songkhla,35
+43134,Hand Foot Mouth,2023,Songkhla,36
+43135,Hand Foot Mouth,2023,Songkhla,37
+43136,Hand Foot Mouth,2023,Songkhla,38
+43137,Hand Foot Mouth,2023,Songkhla,39
+43138,Hand Foot Mouth,2023,Songkhla,40
+43139,Hand Foot Mouth,2023,Songkhla,41
+43140,Hand Foot Mouth,2023,Songkhla,42
+43141,Hand Foot Mouth,2023,Satun,1
+43142,Hand Foot Mouth,2023,Satun,2
+43143,Hand Foot Mouth,2023,Satun,3
+43144,Hand Foot Mouth,2023,Satun,4
+43145,Hand Foot Mouth,2023,Satun,5
+43146,Hand Foot Mouth,2023,Satun,6
+43147,Hand Foot Mouth,2023,Satun,7
+43148,Hand Foot Mouth,2023,Satun,8
+43149,Hand Foot Mouth,2023,Satun,9
+43150,Hand Foot Mouth,2023,Satun,10
+43151,Hand Foot Mouth,2023,Satun,11
+43152,Hand Foot Mouth,2023,Satun,12
+43153,Hand Foot Mouth,2023,Satun,13
+43154,Hand Foot Mouth,2023,Satun,14
+43155,Hand Foot Mouth,2023,Satun,15
+43156,Hand Foot Mouth,2023,Satun,16
+43157,Hand Foot Mouth,2023,Satun,17
+43158,Hand Foot Mouth,2023,Satun,18
+43159,Hand Foot Mouth,2023,Satun,19
+43160,Hand Foot Mouth,2023,Satun,20
+43161,Hand Foot Mouth,2023,Satun,21
+43162,Hand Foot Mouth,2023,Satun,22
+43163,Hand Foot Mouth,2023,Satun,23
+43164,Hand Foot Mouth,2023,Satun,24
+43165,Hand Foot Mouth,2023,Satun,25
+43166,Hand Foot Mouth,2023,Satun,26
+43167,Hand Foot Mouth,2023,Satun,27
+43168,Hand Foot Mouth,2023,Satun,28
+43169,Hand Foot Mouth,2023,Satun,29
+43170,Hand Foot Mouth,2023,Satun,30
+43171,Hand Foot Mouth,2023,Satun,31
+43172,Hand Foot Mouth,2023,Satun,32
+43173,Hand Foot Mouth,2023,Satun,33
+43174,Hand Foot Mouth,2023,Satun,34
+43175,Hand Foot Mouth,2023,Satun,35
+43176,Hand Foot Mouth,2023,Satun,36
+43177,Hand Foot Mouth,2023,Satun,37
+43178,Hand Foot Mouth,2023,Satun,38
+43179,Hand Foot Mouth,2023,Satun,39
+43180,Hand Foot Mouth,2023,Satun,40
+43181,Hand Foot Mouth,2023,Satun,41
+43182,Hand Foot Mouth,2023,Satun,42
+43183,Hand Foot Mouth,2023,Trang,1
+43184,Hand Foot Mouth,2023,Trang,2
+43185,Hand Foot Mouth,2023,Trang,3
+43186,Hand Foot Mouth,2023,Trang,4
+43187,Hand Foot Mouth,2023,Trang,5
+43188,Hand Foot Mouth,2023,Trang,6
+43189,Hand Foot Mouth,2023,Trang,7
+43190,Hand Foot Mouth,2023,Trang,8
+43191,Hand Foot Mouth,2023,Trang,9
+43192,Hand Foot Mouth,2023,Trang,10
+43193,Hand Foot Mouth,2023,Trang,11
+43194,Hand Foot Mouth,2023,Trang,12
+43195,Hand Foot Mouth,2023,Trang,13
+43196,Hand Foot Mouth,2023,Trang,14
+43197,Hand Foot Mouth,2023,Trang,15
+43198,Hand Foot Mouth,2023,Trang,16
+43199,Hand Foot Mouth,2023,Trang,17
+43200,Hand Foot Mouth,2023,Trang,18
+43201,Hand Foot Mouth,2023,Trang,19
+43202,Hand Foot Mouth,2023,Trang,20
+43203,Hand Foot Mouth,2023,Trang,21
+43204,Hand Foot Mouth,2023,Trang,22
+43205,Hand Foot Mouth,2023,Trang,23
+43206,Hand Foot Mouth,2023,Trang,24
+43207,Hand Foot Mouth,2023,Trang,25
+43208,Hand Foot Mouth,2023,Trang,26
+43209,Hand Foot Mouth,2023,Trang,27
+43210,Hand Foot Mouth,2023,Trang,28
+43211,Hand Foot Mouth,2023,Trang,29
+43212,Hand Foot Mouth,2023,Trang,30
+43213,Hand Foot Mouth,2023,Trang,31
+43214,Hand Foot Mouth,2023,Trang,32
+43215,Hand Foot Mouth,2023,Trang,33
+43216,Hand Foot Mouth,2023,Trang,34
+43217,Hand Foot Mouth,2023,Trang,35
+43218,Hand Foot Mouth,2023,Trang,36
+43219,Hand Foot Mouth,2023,Trang,37
+43220,Hand Foot Mouth,2023,Trang,38
+43221,Hand Foot Mouth,2023,Trang,39
+43222,Hand Foot Mouth,2023,Trang,40
+43223,Hand Foot Mouth,2023,Trang,41
+43224,Hand Foot Mouth,2023,Phatthalung,1
+43225,Hand Foot Mouth,2023,Phatthalung,2
+43226,Hand Foot Mouth,2023,Phatthalung,3
+43227,Hand Foot Mouth,2023,Phatthalung,4
+43228,Hand Foot Mouth,2023,Phatthalung,5
+43229,Hand Foot Mouth,2023,Phatthalung,6
+43230,Hand Foot Mouth,2023,Phatthalung,7
+43231,Hand Foot Mouth,2023,Phatthalung,8
+43232,Hand Foot Mouth,2023,Phatthalung,9
+43233,Hand Foot Mouth,2023,Phatthalung,10
+43234,Hand Foot Mouth,2023,Phatthalung,11
+43235,Hand Foot Mouth,2023,Phatthalung,12
+43236,Hand Foot Mouth,2023,Phatthalung,13
+43237,Hand Foot Mouth,2023,Phatthalung,14
+43238,Hand Foot Mouth,2023,Phatthalung,15
+43239,Hand Foot Mouth,2023,Phatthalung,16
+43240,Hand Foot Mouth,2023,Phatthalung,17
+43241,Hand Foot Mouth,2023,Phatthalung,18
+43242,Hand Foot Mouth,2023,Phatthalung,19
+43243,Hand Foot Mouth,2023,Phatthalung,20
+43244,Hand Foot Mouth,2023,Phatthalung,21
+43245,Hand Foot Mouth,2023,Phatthalung,22
+43246,Hand Foot Mouth,2023,Phatthalung,23
+43247,Hand Foot Mouth,2023,Phatthalung,24
+43248,Hand Foot Mouth,2023,Phatthalung,25
+43249,Hand Foot Mouth,2023,Phatthalung,26
+43250,Hand Foot Mouth,2023,Phatthalung,27
+43251,Hand Foot Mouth,2023,Phatthalung,28
+43252,Hand Foot Mouth,2023,Phatthalung,29
+43253,Hand Foot Mouth,2023,Phatthalung,30
+43254,Hand Foot Mouth,2023,Phatthalung,31
+43255,Hand Foot Mouth,2023,Phatthalung,32
+43256,Hand Foot Mouth,2023,Phatthalung,33
+43257,Hand Foot Mouth,2023,Phatthalung,34
+43258,Hand Foot Mouth,2023,Phatthalung,35
+43259,Hand Foot Mouth,2023,Phatthalung,36
+43260,Hand Foot Mouth,2023,Phatthalung,37
+43261,Hand Foot Mouth,2023,Phatthalung,38
+43262,Hand Foot Mouth,2023,Phatthalung,39
+43263,Hand Foot Mouth,2023,Phatthalung,40
+43264,Hand Foot Mouth,2023,Phatthalung,41
+43265,Hand Foot Mouth,2023,Phatthalung,42
+43266,Hand Foot Mouth,2023,Pattani,1
+43267,Hand Foot Mouth,2023,Pattani,2
+43268,Hand Foot Mouth,2023,Pattani,3
+43269,Hand Foot Mouth,2023,Pattani,4
+43270,Hand Foot Mouth,2023,Pattani,5
+43271,Hand Foot Mouth,2023,Pattani,6
+43272,Hand Foot Mouth,2023,Pattani,7
+43273,Hand Foot Mouth,2023,Pattani,8
+43274,Hand Foot Mouth,2023,Pattani,9
+43275,Hand Foot Mouth,2023,Pattani,10
+43276,Hand Foot Mouth,2023,Pattani,11
+43277,Hand Foot Mouth,2023,Pattani,12
+43278,Hand Foot Mouth,2023,Pattani,13
+43279,Hand Foot Mouth,2023,Pattani,14
+43280,Hand Foot Mouth,2023,Pattani,15
+43281,Hand Foot Mouth,2023,Pattani,16
+43282,Hand Foot Mouth,2023,Pattani,17
+43283,Hand Foot Mouth,2023,Pattani,18
+43284,Hand Foot Mouth,2023,Pattani,19
+43285,Hand Foot Mouth,2023,Pattani,20
+43286,Hand Foot Mouth,2023,Pattani,21
+43287,Hand Foot Mouth,2023,Pattani,22
+43288,Hand Foot Mouth,2023,Pattani,23
+43289,Hand Foot Mouth,2023,Pattani,24
+43290,Hand Foot Mouth,2023,Pattani,25
+43291,Hand Foot Mouth,2023,Pattani,26
+43292,Hand Foot Mouth,2023,Pattani,27
+43293,Hand Foot Mouth,2023,Pattani,28
+43294,Hand Foot Mouth,2023,Pattani,29
+43295,Hand Foot Mouth,2023,Pattani,30
+43296,Hand Foot Mouth,2023,Pattani,31
+43297,Hand Foot Mouth,2023,Pattani,32
+43298,Hand Foot Mouth,2023,Pattani,33
+43299,Hand Foot Mouth,2023,Pattani,34
+43300,Hand Foot Mouth,2023,Pattani,35
+43301,Hand Foot Mouth,2023,Pattani,36
+43302,Hand Foot Mouth,2023,Pattani,37
+43303,Hand Foot Mouth,2023,Pattani,38
+43304,Hand Foot Mouth,2023,Pattani,39
+43305,Hand Foot Mouth,2023,Pattani,40
+43306,Hand Foot Mouth,2023,Pattani,41
+43307,Hand Foot Mouth,2023,Pattani,42
+43308,Hand Foot Mouth,2023,Yala,1
+43309,Hand Foot Mouth,2023,Yala,2
+43310,Hand Foot Mouth,2023,Yala,3
+43311,Hand Foot Mouth,2023,Yala,4
+43312,Hand Foot Mouth,2023,Yala,5
+43313,Hand Foot Mouth,2023,Yala,6
+43314,Hand Foot Mouth,2023,Yala,7
+43315,Hand Foot Mouth,2023,Yala,8
+43316,Hand Foot Mouth,2023,Yala,9
+43317,Hand Foot Mouth,2023,Yala,10
+43318,Hand Foot Mouth,2023,Yala,11
+43319,Hand Foot Mouth,2023,Yala,12
+43320,Hand Foot Mouth,2023,Yala,13
+43321,Hand Foot Mouth,2023,Yala,14
+43322,Hand Foot Mouth,2023,Yala,15
+43323,Hand Foot Mouth,2023,Yala,16
+43324,Hand Foot Mouth,2023,Yala,17
+43325,Hand Foot Mouth,2023,Yala,18
+43326,Hand Foot Mouth,2023,Yala,19
+43327,Hand Foot Mouth,2023,Yala,20
+43328,Hand Foot Mouth,2023,Yala,21
+43329,Hand Foot Mouth,2023,Yala,22
+43330,Hand Foot Mouth,2023,Yala,23
+43331,Hand Foot Mouth,2023,Yala,24
+43332,Hand Foot Mouth,2023,Yala,25
+43333,Hand Foot Mouth,2023,Yala,26
+43334,Hand Foot Mouth,2023,Yala,27
+43335,Hand Foot Mouth,2023,Yala,28
+43336,Hand Foot Mouth,2023,Yala,29
+43337,Hand Foot Mouth,2023,Yala,30
+43338,Hand Foot Mouth,2023,Yala,31
+43339,Hand Foot Mouth,2023,Yala,32
+43340,Hand Foot Mouth,2023,Yala,33
+43341,Hand Foot Mouth,2023,Yala,34
+43342,Hand Foot Mouth,2023,Yala,35
+43343,Hand Foot Mouth,2023,Yala,36
+43344,Hand Foot Mouth,2023,Yala,37
+43345,Hand Foot Mouth,2023,Yala,38
+43346,Hand Foot Mouth,2023,Yala,39
+43347,Hand Foot Mouth,2023,Yala,40
+43348,Hand Foot Mouth,2023,Yala,41
+43349,Hand Foot Mouth,2023,Narathiwat,1
+43350,Hand Foot Mouth,2023,Narathiwat,2
+43351,Hand Foot Mouth,2023,Narathiwat,3
+43352,Hand Foot Mouth,2023,Narathiwat,4
+43353,Hand Foot Mouth,2023,Narathiwat,5
+43354,Hand Foot Mouth,2023,Narathiwat,6
+43355,Hand Foot Mouth,2023,Narathiwat,7
+43356,Hand Foot Mouth,2023,Narathiwat,8
+43357,Hand Foot Mouth,2023,Narathiwat,9
+43358,Hand Foot Mouth,2023,Narathiwat,10
+43359,Hand Foot Mouth,2023,Narathiwat,11
+43360,Hand Foot Mouth,2023,Narathiwat,12
+43361,Hand Foot Mouth,2023,Narathiwat,13
+43362,Hand Foot Mouth,2023,Narathiwat,14
+43363,Hand Foot Mouth,2023,Narathiwat,15
+43364,Hand Foot Mouth,2023,Narathiwat,16
+43365,Hand Foot Mouth,2023,Narathiwat,17
+43366,Hand Foot Mouth,2023,Narathiwat,18
+43367,Hand Foot Mouth,2023,Narathiwat,19
+43368,Hand Foot Mouth,2023,Narathiwat,20
+43369,Hand Foot Mouth,2023,Narathiwat,21
+43370,Hand Foot Mouth,2023,Narathiwat,22
+43371,Hand Foot Mouth,2023,Narathiwat,23
+43372,Hand Foot Mouth,2023,Narathiwat,24
+43373,Hand Foot Mouth,2023,Narathiwat,25
+43374,Hand Foot Mouth,2023,Narathiwat,26
+43375,Hand Foot Mouth,2023,Narathiwat,27
+43376,Hand Foot Mouth,2023,Narathiwat,28
+43377,Hand Foot Mouth,2023,Narathiwat,29
+43378,Hand Foot Mouth,2023,Narathiwat,30
+43379,Hand Foot Mouth,2023,Narathiwat,31
+43380,Hand Foot Mouth,2023,Narathiwat,32
+43381,Hand Foot Mouth,2023,Narathiwat,33
+43382,Hand Foot Mouth,2023,Narathiwat,34
+43383,Hand Foot Mouth,2023,Narathiwat,35
+43384,Hand Foot Mouth,2023,Narathiwat,36
+43385,Hand Foot Mouth,2023,Narathiwat,37
+43386,Hand Foot Mouth,2023,Narathiwat,38
+43387,Hand Foot Mouth,2023,Narathiwat,39
+43388,Hand Foot Mouth,2023,Narathiwat,40
+43389,Hand Foot Mouth,2023,Narathiwat,41
