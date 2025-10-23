@@ -1,6 +1,6 @@
 # Text-to-Gloss Training (LANTA HPC)
 
-This repository contains scripts for training, compiling, and running inference with the MBART model using TRL and LoRA on the LANTA supercomputer.
+This repository contains scripts for training, compiling, and running inference with the LLM model using TRL and LoRA on the LANTA supercomputer.
 
 ---
 
