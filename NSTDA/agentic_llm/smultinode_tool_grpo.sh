@@ -2,7 +2,7 @@
 #sleep 30
 #fi_info -p efa -t FI_EP_RDM
 
-# HOSTNAMES MASTER_ADDR MASTER_PORT COUNT_NODE are coming from the main script
+# HOSTNAMES MASTER_ADDR MASTER_PORT COUNT_NODE from main script
 
 module restore
 module load Mamba
@@ -21,6 +21,7 @@ echo HOSTNAMES=$HOSTNAMES
 echo hostname=`hostname`
 echo MASTER_ADDR=$MASTER_ADDR
 echo MASTER_PORT=$MASTER_PORT
+echo TRAIN_NODELIST=$TRAIN_NODELIST
 
 H=`hostname`
 TIME_TAG=$(date +%F_%H-%M)
@@ -34,28 +35,29 @@ export NCCL_BLOCKING_WAIT=0
 
 accelerate launch \
     --num_processes $((4 * $COUNT_NODE)) \
-    --num_machines $COUNT_NODE \
+    --num_machines $(($COUNT_NODE)) \
     --multi_gpu \
-    --mixed_precision fp16 \
+    --mixed_precision bf16 \
     --machine_rank $SLURM_PROCID \
     --main_process_ip $MASTER_ADDR \
     --main_process_port $MASTER_PORT \
-    script/train_trl_sft_lora.py \
-        --output_dir /project/lt200246-mmacma/Big_seq2seq/sft_llm/trained_model/uncompile_model/qwen14B_largeparam \
+    script/train_tool_grpo.py \
+        --output_dir /project/lt-user/agent_grpo/qwen3_14B_tool \
         --save_strategy "no" \
-        --max_seq_length 2048 \
-        --num_train_epochs 8 \
-        --per_device_train_batch_size 4 \
-        --per_device_eval_batch_size 4 \
+        --max_completion_length 2048 \
+        --num_generations 4 \
+        --num_train_epochs 1 \
+        --per_device_train_batch_size 1 \
+        --per_device_eval_batch_size 1 \
         --gradient_accumulation_steps 8 \
         --gradient_checkpointing True \
-        --optim "adamw_torch_fused" \
-        --learning_rate 2e-4 \
+        --learning_rate 3e-6 \
         --warmup_steps 5 \
         --max_grad_norm 0.2 \
         --lr_scheduler_type "cosine" \
-        --model_name_or_path /project/lt200246-mmacma/Big_seq2seq/model/Qwen/Qwen3-14B \
-        --train_data /project/lt200246-mmacma/Big_seq2seq/data/text-to-gloss_ver5 \
+        --model_name_or_path /project/lt-user/llm/qwen3-14B \
+        --train_data /project/lt-user/data/text-to-gloss \
         --bf16 True \
-        --deepspeed /project/lt200246-mmacma/Big_seq2seq/sft_llm/sft_lora/deepspeed/deepspeed_3.json \
+        --deepspeed /project/lt-user/agentic_llm/deepspeed_config/deepspeed_2.json \
         --report_to "wandb" \
+        --use_vllm False \

@@ -1,11 +1,11 @@
 #!/bin/bash
 #SBATCH -p gpu
-#SBATCH -N 2
-#SBATCH --ntasks-per-node=4
-#SBATCH --gpus-per-task=1
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=1
+#SBATCH --gpus-per-task=4
 #SBATCH -t 10:00:00
-#SBATCH -A lt200246                    # Specify project name
-#SBATCH -J inference
+#SBATCH -A lt_specific_user_name_here   
+#SBATCH -J tool_calling
 
 module restore
 module load Mamba
@@ -29,14 +29,7 @@ echo HOSTNAMES=$HOSTNAMES
 echo hostname=`hostname`
 echo MASTER_ADDR=$MASTER_ADDR
 echo MASTER_PORT=$MASTER_PORT
-
-HOSTFILE="$PWD/hostfile.$SLURM_JOB_ID"
-> $HOSTFILE
-for n in $HOSTNAMES; do
-  echo "$n slots=$SLURM_GPUS_ON_NODE" >> $HOSTFILE
-done
-echo "Hostfile:"
-cat $HOSTFILE
+echo CUDA_HOME=$CUDA_HOME
 
 H=`hostname`
 TIME_TAG=$(date +%F_%H-%M)
@@ -50,11 +43,5 @@ export NCCL_SOCKET_IFNAME=hsn
 export NCCL_TIMEOUT=3600000
 export NCCL_BLOCKING_WAIT=0
 
-deepspeed \
-    --hostfile $HOSTFILE \
-    --num_nodes $COUNT_NODE \
-    --num_gpus 4 \
-    script/deepspeed_infer.py \
-        --model_name_or_path /project/lt200246-mmacma/Big_seq2seq/trained_model/model_use_data5/llm/qwen3-14B-largeparam \
-        --test_data /project/lt200246-mmacma/Big_seq2seq/data/text-to-gloss_ver5 \
-        --save_dir /project/lt200246-mmacma/Big_seq2seq/transcript/dataset_ver5/llm/qwen3-14B/qwen3-14B-largeparam_dataver5 \
+python tools/test_tool.py \
+  --model_name_or_path /project/lt-user/llm/qwen3-14B

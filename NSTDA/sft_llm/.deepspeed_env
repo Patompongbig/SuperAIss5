@@ -1,0 +1,4 @@
+CUDA_HOME=/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/cuda/12.6
+LD_LIBRARY_PATH=/opt/cray/pe/gcc/10.3.0/snos/lib64:/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/math_libs/12.6/lib64:/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/cuda/12.6/extras/CUPTI/lib64:/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/cuda/12.6/extras/Debugger/lib64:/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/cuda/12.6/nvvm/lib64:/opt/nvidia/hpc_sdk/Linux_x86_64/24.11/cuda/12.6/lib64:/opt/cray/pe/dsmml/0.3.1/dsmml/lib:/opt/cray/pe/papi/7.2.0.1/lib64:/opt/cray/libfabric/1.22.0/lib64
+DS_BUILD_OPS=0
+DS_SKIP_CUDA_CHECK=1

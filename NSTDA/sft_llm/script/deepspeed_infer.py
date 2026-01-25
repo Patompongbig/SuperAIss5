@@ -19,19 +19,6 @@ def parse_args():
 
     return parser.parse_args()
 
-
-# def setup_distributed(local_rank):
-#     dist.init_process_group(backend="nccl")
-#     rank = dist.get_rank()
-#     world_size = dist.get_world_size()
-
-#     if local_rank != -1:
-#         torch.cuda.set_device(local_rank)
-#     else:
-#         torch.cuda.set_device(rank % torch.cuda.device_count())
-
-#     return rank, world_size
-
 def setup_distributed(local_rank):
     dist.init_process_group(backend="nccl")
     rank = dist.get_rank()
@@ -49,11 +36,8 @@ def setup_distributed(local_rank):
     print("world_size: ", world_size)
     return rank, world_size
 
-
-
-
 if __name__ == "__main__":
-    print("🚀 Starting inference with DeepSpeed model sharding...")
+    print("Starting inference with DeepSpeed model sharding")
     args = parse_args()
     rank, world_size = setup_distributed(args.local_rank)
     device = torch.device(f"cuda:{rank % torch.cuda.device_count()}")
@@ -68,32 +52,14 @@ if __name__ == "__main__":
         device_map=None
     )
 
-    # config = AutoConfig.from_pretrained(args.model_name_or_path)
-
-    # # 2. Create an empty 'meta' model without allocating memory for weights
-    # with deepspeed.OnDevice(dtype=torch.bfloat16, device="meta"):
-    #     model = AutoModelForCausalLM.from_config(config)
     
     # Shard across all GPUs
     ds_engine = deepspeed.init_inference(
         model,
         mp_size=world_size,
         dtype=torch.bfloat16,
-        # replace_with_kernel_inject=False
         replace_with_kernel_inject=True
     )
-
-    # ds_engine = deepspeed.init_inference(
-    #     model=AutoModelForCausalLM.from_pretrained(
-    #         args.model_name_or_path,
-    #         torch_dtype=torch.bfloat16,
-    #         low_cpu_mem_usage=True,
-    #     ),
-    #     mp_size=world_size,
-    #     dtype=torch.bfloat16,
-    #     replace_with_kernel_inject=True,  # if kernels compiled
-    #     use_safetensors=True,
-    # )
 
     model = ds_engine.module
 
@@ -140,7 +106,7 @@ if __name__ == "__main__":
             generated_text = tokenizer.decode(generated_tokens, skip_special_tokens=True).strip()
 
             # Extract <answer>...</answer>
-            match = re.search(r"<answer>(.*?)<answer>", generated_text, re.DOTALL)
+            match = re.search(r"<answer>(.*?)</answer>", generated_text, re.DOTALL)
             clean_answer = match.group(1).strip() if match else generated_text.split("\n")[-1].strip()
 
             print(f"Text: {item['text_raw']}")

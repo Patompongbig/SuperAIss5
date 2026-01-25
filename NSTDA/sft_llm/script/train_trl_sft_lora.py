@@ -16,8 +16,6 @@ import os
 import time
 import evaluate
 
-rouge_score = evaluate.load("/project/lt200246-mmacma/Big_seq2seq/sft_llm/sft_lora/script/rouge")
-
 def train():
     parser = transformers.HfArgumentParser(
         (ModelArguments, DataArguments, TRL_SFTTrainingArguments)
@@ -30,8 +28,8 @@ def train():
     )
 
     lora_config = LoraConfig(
-        r=2048,
-        lora_alpha=2048,
+        r=16,
+        lora_alpha=32,
         lora_dropout=0.05,
         bias="none",
         task_type="CAUSAL_LM",

@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1		        # Specify number of tasks per node
 #SBATCH --gpus-per-node=4		        # Specify total number of GPUs
 #SBATCH -t 24:00:00                    # Specify maximum time limit (hour: minute: second)
-#SBATCH -A lt200246                    # Specify project name
+#SBATCH -A lt_specific_user_name_here                    # Specify project name
 #SBATCH -J llm_finetuning               # Specify job name
 
 export NCCL_DEBUG=INFO
@@ -13,11 +13,10 @@ export NCCL_SOCKET_IFNAME=hsn
 START=`date`
 starttime=$(date +%s)
 
-export WANDB_PROJECT="seq2seq-training-dataver5"
-# export WANDB_NAME="qwen3_run_$(date +%F_%H-%M)"
-export WANDB_NAME="qwen14B_largeparam"
+export WANDB_PROJECT="llm-training"
+export WANDB_NAME="qwen14B"
 export WANDB_MODE="offline"  
-export WANDB_DIR=/project/lt200246-mmacma/Big_seq2seq/sft_llm/wandb_report
+export WANDB_DIR="/project/lt-user/sft_llm"
 
 # sent to sub script
 export HOSTNAMES=`scontrol show hostnames "$SLURM_JOB_NODELIST"`
