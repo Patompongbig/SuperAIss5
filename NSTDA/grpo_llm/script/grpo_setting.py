@@ -1,8 +1,21 @@
 import re
 import pandas as pd
 import unicodedata
+
 from rouge_score import rouge_scorer
 from jiwer import wer
+
+import nltk
+from nltk.translate.meteor_score import single_meteor_score
+nltk.data.path.append(
+    "/project/lt-user/Big_seq2seq/grpo_llm/nltk_data"
+)
+
+# install nltk data from https://www.nltk.org/data.html
+# python -m nltk.downloader \
+#   -d /project/lt-user/Big_seq2seq/grpo_llm/nltk_data \
+#   wordnet omw-1.4
+
 
 
 system_prompt = """You are an expert in translating from Thai to Thai-gloss following these rules:
@@ -92,13 +105,7 @@ def extract_xml_think(text: str) -> str:
     return answer.strip()
 
 
-I = 0
 def has_valid_format(text: str) -> bool:
-    global I
-    if I < 2:
-        print("Checking format:", text)
-        I += 1
-
     return bool(re.search(r"<think>[\s\S]*?</think>\s*<answer>[\s\S]*?</answer>", text))
 
 
@@ -127,17 +134,21 @@ def compute_wer_score(answer: str, prediction: str) -> float:
 
     return round(1 - wer_score, 2)
 
+def compute_meteor_score(answer: str, prediction: str) -> float:
+    meteor_score = single_meteor_score(answer.split("|"), prediction.split("|"))
+    return round(meteor_score, 2)
+
     
 def compute_oov_score(prediction: str, vocab: list) -> float:
     prediction_list = prediction.split("|")
     oov_count = sum(1 for token in prediction_list if token not in vocab)
 
     if oov_count == 0:
-        return 1.0
+        return 0.2
     elif oov_count <= 2:
-        return 0.3
-    elif oov_count <= 5:
         return 0.1
+    elif oov_count <= 5:
+        return 0.05
     else:
         return 0.0
 
@@ -184,9 +195,9 @@ def repetition_penalty_reward(completions, **kwargs):
 
         unique_ratio = len(set(tokens)) / max(len(tokens), 1)
 
-        if unique_ratio > 0.7:
+        if unique_ratio > 0.25:
             rewards.append(0.1)
-        elif unique_ratio > 0.5:
+        elif unique_ratio > 0.1:
             rewards.append(0.0)
         else:
             rewards.append(-1.0)
@@ -209,7 +220,9 @@ def lexical_and_semantic_reward_function(completions, **kwargs) -> list[float]:
         pred = normalize_thai(extract_xml_answer(response))
         lex = compute_rouge_L_score(gold, pred)
         sem = compute_wer_score(gold, pred)
-        reward.append((lex + sem) / 2)
+        jaccard = compute_jaccard_score(gold, pred)
+        meteor = compute_meteor_score(gold, pred)
+        reward.append((lex + sem + jaccard + meteor) / 4)
 
     return reward
 

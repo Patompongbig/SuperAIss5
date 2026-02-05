@@ -4,7 +4,7 @@ requires = ["setuptools>=40.8.0", "wheel"]
 [project]
 name = "llm_finetune"
 version = "0.1.0"
-description = "demo for multinode llm finetune thai-to-gloss"
+description = "demo for agentic tool grpo multinode llm finetune thai-to-gloss"
 requires-python = ">=3.8"
 classifiers = ["Programming Language :: Python :: 3"]
 dependencies = [
@@ -12,11 +12,10 @@ dependencies = [
     "pandas",
     "tqdm",
     "jupyter",
-    "transformers",
+    "trl",
     "datasets",
     "accelerate",
     "peft",
-    "trl[vllm]",
     "sentencepiece",
     "hydra-core",
     "protobuf>=3.19.6,<6",
@@ -24,6 +23,17 @@ dependencies = [
     "deepspeed",
     "wandb",
     "evaluate",
-    "rouge_score",
-    "openpyxl"
+    "rouge-score",
+    "openpyxl",
+    "jiwer",
+    "fastapi",
+    "jmespath",
+    "weave",
+    "nltk",
+    "sentence-transformers",
+    "smolagents[transformers]",
+    "faiss-cpu",
 ]
+
+[tool.setuptools]
+packages = ["script"]

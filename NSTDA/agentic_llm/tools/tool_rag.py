@@ -9,7 +9,7 @@ from script.utils import normalize_thai, VOCAB
 
 # RAG finding similar sentences
 MODEL_PATH = "/project/lt-user/model/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-RAG_DIR = "/project/lt-user/agent_grpo/rag_database"
+RAG_DIR = "/project/lt-user/agentic_llm/rag_database"
 INDEX_PATH = f"{RAG_DIR}/faiss_index.faiss"
 RECORDS_PATH = f"{RAG_DIR}/rag_records.pkl"
 

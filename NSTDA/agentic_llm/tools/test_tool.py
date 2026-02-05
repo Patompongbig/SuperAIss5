@@ -24,7 +24,7 @@ class tool_tester(Tool):
 
     def forward(self, task: str) -> str:
         print("Calling tool success")
-        return "ไม่รู้"
+        return "*Calling tool success* No gloss output here."
 
 
 

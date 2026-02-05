@@ -14,8 +14,10 @@ from arguments import (
     TRL_GRPOTrainingArguments
 )
 
-from tool_rag import (retrieve_similar_thai_gloss_sentences, 
-                      get_oov_gloss_tokens)
+from tools.tool_rag import (
+    retrieve_similar_thai_gloss_sentences, 
+    get_oov_gloss_tokens,
+)
 
 from datasets import load_dataset
 from trl import GRPOTrainer, clone_chat_template
@@ -47,17 +49,7 @@ def train():
     tokenizer.padding_side = "left"
 
     dataset = load_dataset(data_args.train_data, cache_dir=None)
-    
-    if data_args.tools:
-        # model, tokenizer, added_tokens = clone_chat_template(model, tokenizer, "/project/lt200246-mmacma/Big_seq2seq/trained_model/model_use_data7/llm/c")
-        data_module = get_agnews_questions_for_tools(dataset)
-        tools = [
-            retrieve_similar_thai_gloss_sentences,
-            get_oov_gloss_tokens
-        ]
-    else:
-        data_module = get_agnews_questions_for_grpo(dataset, tokenizer)
-        tools = None
+    data_module = get_agnews_questions_for_tools(dataset)
     
     print(data_module)
     print(data_module["grpo_train"][0])
@@ -67,13 +59,16 @@ def train():
         processing_class=tokenizer,
         args=training_args,
         reward_funcs=[lexical_and_semantic_reward_function,
-                    # oov_error_reward_function,
+                    oov_error_reward_function,
                     think_quality_reward,
                     repetition_penalty_reward
                     ],
         train_dataset=data_module["grpo_train"],
         eval_dataset=data_module["grpo_eval"],
-        tools=tools
+        tools=[
+            retrieve_similar_thai_gloss_sentences,
+            get_oov_gloss_tokens
+        ]
     )
 
     trainer.train()

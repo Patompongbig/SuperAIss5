@@ -61,7 +61,7 @@ deepspeed \
     --hostfile $HOSTFILE \
     --num_nodes $COUNT_NODE \
     --num_gpus 4 \
-    script/deepspeed_inference_grpo.py \
+    script/deepspeed_inference.py \
         --model_name_or_path /project/lt-user/llm_grpo/qwen3_14B_grpo \
         --test_data /project/lt-user/data/text-to-gloss \
         --save_dir /project/lt-user/transcript/llm_grpo/qwen3-14B_output \

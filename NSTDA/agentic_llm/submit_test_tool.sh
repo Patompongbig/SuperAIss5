@@ -44,4 +44,4 @@ export NCCL_TIMEOUT=3600000
 export NCCL_BLOCKING_WAIT=0
 
 python tools/test_tool.py \
-  --model_name_or_path /project/lt-user/llm/qwen3-14B
+  --model_name_or_path /project/lt-user/agent_grpo/qwen3_14B_tool

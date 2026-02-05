@@ -6,8 +6,17 @@ from rouge_score import rouge_scorer
 from jiwer import wer
 
 from utils import normalize_thai, VOCAB
-from sentence_transformers import SentenceTransformer
-from tool_rag import retrieve_similar_thai_gloss_sentences, get_oov_gloss_tokens
+
+import nltk
+from nltk.translate.meteor_score import single_meteor_score
+nltk.data.path.append(
+    "/project/lt-user/Big_seq2seq/grpo_llm/nltk_data"
+)
+
+# install nltk data from https://www.nltk.org/data.html
+# python -m nltk.downloader \
+#   -d /project/lt-user/Big_seq2seq/grpo_llm/nltk_data \
+#   wordnet omw-1.4
 
 system_prompt_tool = """You are an expert in translating from Thai to Thai-gloss following these rules:
 
@@ -43,35 +52,12 @@ Output format:
 
 
 #Dataset Create
-def get_agnews_questions_for_grpo(dataset, tokenizer):
-    dataset = dataset.map(
-        lambda x: preprocess_for_grpo(x, tokenizer),
-        remove_columns=[c for c in dataset["test"].column_names if c != "text_sign"],
-    )
-    return dataset
-
 def get_agnews_questions_for_tools(dataset):
     dataset = dataset.map(
         lambda x: preprocess_for_tools(x),
         remove_columns=[c for c in dataset["test"].column_names if c != "text_sign"],
     )
     return dataset
-
-def preprocess_for_grpo(example, tokenizer):
-    # tools = [retrieve_similar_thai_gloss_sentences, get_oov_gloss_tokens]
-
-    prompt = tokenizer.apply_chat_template(
-        example["messages"][:-1],
-        tokenize=False,
-        add_generation_prompt=True
-    )
-
-    completion = example["messages"][-1]["content"] + tokenizer.eos_token
-    return {
-        "prompt": prompt,
-        "completion": completion,
-        "text_sign": example["text_sign"]
-    }
 
 def preprocess_for_tools(example):
     completion = example["messages"][-1]["content"]
@@ -90,13 +76,11 @@ def preprocess_for_tools(example):
     }
 
 def test_dataset_grpo(dataset, tokenizer):
-    # tools = [retrieve_similar_thai_gloss_sentences, get_oov_gloss_tokens]
-
     dataset = dataset.map(
         lambda x: {
             "prompt": tokenizer.apply_chat_template(
                 [
-                    {"role": "system", "content": system_prompt},
+                    {"role": "system", "content": system_prompt_tool},
                     {"role": "user", "content": x["text_raw"]},
                 ],
                 tokenize=False,
@@ -105,6 +89,7 @@ def test_dataset_grpo(dataset, tokenizer):
         }
     )
     return dataset
+
 
 
 #Text process functions
@@ -118,15 +103,10 @@ def extract_xml_think(text: str) -> str:
     answer = answer.split("</think>")[0]
     return answer.strip()
 
-I = 0
+
 def has_valid_format(text: str) -> bool:
-    global I
-    if I < 2:
-        print("Checking format:", text)
-        I += 1
-    # if isinstance(text, list):
-    #     text = get_completion_content(text)
-    #     return "<answer>" in text
+    if isinstance(text, list):
+        text = get_completion_content(text)
 
     return bool(re.search(r"<think>[\s\S]*?</think>\s*<answer>[\s\S]*?</answer>", text))
 
@@ -160,32 +140,25 @@ def compute_wer_score(answer: str, prediction: str) -> float:
 
     return round(1 - wer_score, 2)
 
+def compute_meteor_score(answer: str, prediction: str) -> float:
+    meteor_score = single_meteor_score(answer.split("|"), prediction.split("|"))
+    return round(meteor_score, 2)
 
-def compute_sentence_similarity_score(answer: str, prediction: str, model) -> float:
-    encode_answer = model.encode(answer)
-    encode_prediction = model.encode(prediction)
-    sim = model.similarity(encode_answer, encode_prediction)
-    if sim > 0.8:
-        return 0.5
-    elif sim > 0.6:
-        return 0.25
-    elif sim > 0.3:
-        return 0.1
-    else:
-        return 0.0
     
 def compute_oov_score(prediction: str, vocab: list) -> float:
     prediction_list = prediction.split("|")
     oov_count = sum(1 for token in prediction_list if token not in vocab)
 
     if oov_count == 0:
-        return 1.0
+        return 0.2
     elif oov_count <= 2:
-        return 0.3
-    elif oov_count <= 5:
         return 0.1
+    elif oov_count <= 5:
+        return 0.05
     else:
         return 0.0
+
+
 
 #Reward functions
 
@@ -196,23 +169,17 @@ def compute_oov_score(prediction: str, vocab: list) -> float:
 #   ...
 # ]
 
-# Format think and answer reward
-def format_reward_function(completions, **kwargs) -> list[float]:
-    pattern = r"<think>[\s\S]*?</think>\s*<answer>[\s\S]*?</answer>"
-    #Get answer
-    responses = [completion for completion in completions]
-    reward = [0.2 if re.search(pattern, r) else -1.0 for r in responses]
-    return reward
 
+# Format think and answer reward
 def think_quality_reward(completions, **kwargs):
     rewards = []
     for c in completions:
         if not has_valid_format(c):
             rewards.append(0.0)
             continue
-               
-        # if isinstance(c, list):
-        #     c = get_completion_content(c)
+
+        if isinstance(c, list):
+            c = get_completion_content(c)
 
         think = extract_xml_think(c)
         if "|" in think:
@@ -231,17 +198,17 @@ def repetition_penalty_reward(completions, **kwargs):
             rewards.append(0.0)
             continue
                 
-        # if isinstance(c, list):
-        #     c = get_completion_content(c)
+        if isinstance(c, list):
+            c = get_completion_content(c)
 
         answer = extract_xml_answer(c)
         tokens = answer.split("|")
 
         unique_ratio = len(set(tokens)) / max(len(tokens), 1)
 
-        if unique_ratio > 0.7:
+        if unique_ratio > 0.25:
             rewards.append(0.1)
-        elif unique_ratio > 0.5:
+        elif unique_ratio > 0.1:
             rewards.append(0.0)
         else:
             rewards.append(-1.0)
@@ -260,32 +227,22 @@ def lexical_and_semantic_reward_function(completions, **kwargs) -> list[float]:
             reward.append(0.0)
             continue
 
-        # if isinstance(response, list):
-        #     response = get_completion_content(response)
+        if isinstance(response, list):
+            response = get_completion_content(response)
 
         gold = normalize_thai(gold)
         pred = normalize_thai(extract_xml_answer(response))
         lex = compute_rouge_L_score(gold, pred)
         sem = compute_wer_score(gold, pred)
-        reward.append((lex + sem) / 2)
+        jaccard = compute_jaccard_score(gold, pred)
+        meteor = compute_meteor_score(gold, pred)
+        reward.append((lex + sem + jaccard + meteor) / 4)
 
     return reward
 
-# Find similarity in meaning and topic between gloss and prediction
-# similarity_model = SentenceTransformer("/project/lt200246-mmacma/Big_seq2seq/model/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-# def sentence_similarity_reward_function(completions, **kwargs) -> list[float]:
-#     responses = [completion for completion in completions]
-#     gold_list = kwargs["text_sign"]
 
-#     reward = []
-#     for response, gold in zip(responses, gold_list):
-#         gold = normalize_thai(gold)
-#         pred = normalize_thai(extract_xml_answer(response))
-#         score = compute_sentence_similarity_score(gold, pred, similarity_model)
-#         reward.append(score)
-    
-#     return reward
 
+# OOV-based reward
 def oov_error_reward_function(completions, **kwargs) -> list[float]:
     gold_list = kwargs["text_sign"]
 
@@ -295,8 +252,8 @@ def oov_error_reward_function(completions, **kwargs) -> list[float]:
             reward.append(0.0)
             continue
                 
-        # if isinstance(response, list):
-        #     response = get_completion_content(response)
+        if isinstance(response, list):
+            response = get_completion_content(response)
 
         answer = normalize_thai(extract_xml_answer(response))
         reward.append(compute_oov_score(answer, VOCAB))

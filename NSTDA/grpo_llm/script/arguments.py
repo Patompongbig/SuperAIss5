@@ -5,8 +5,8 @@ from trl import GRPOConfig
 
 @dataclass
 class ModelArguments:
-    model_name_or_path: Optional[str] = field(default="/project/lt-user/pretrained_model/Qwen/Qwen3-14B")
-    save_path: Optional[str] = field(default="/project/lt-user/pretrained_model/Qwen/Qwen3-14B")
+    model_name_or_path: Optional[str] = field(default="/project/lt-user/llm/qwen3-14B")
+    save_path: Optional[str] = field(default="/project/lt-user/llm/qwen3_14B_grpo")
 
 @dataclass
 class DataArguments:

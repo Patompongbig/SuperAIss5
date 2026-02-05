@@ -14,9 +14,9 @@ START=`date`
 starttime=$(date +%s)
 
 export WANDB_PROJECT="llm-training"
-export WANDB_NAME="qwen14B"
+export WANDB_NAME="Qwen3_14B_agent"
 export WANDB_MODE="offline"
-export WANDB_DIR="/project/lt-user/agent_grpo"
+export WANDB_DIR="/project/lt-user/agent_llm"
 
 export HOSTNAMES=`scontrol show hostnames "$SLURM_JOB_NODELIST"`
 export MASTER_ADDR=$(scontrol show hostnames "$SLURM_JOB_NODELIST" | head -n 1)
@@ -28,4 +28,4 @@ echo $HOSTNAMES
 
 NODELIST=($(scontrol show hostnames $SLURM_JOB_NODELIST))
 
-srun sh smultinode_tool.sh
+srun sh smultinode_tool_grpo.sh

@@ -14,7 +14,7 @@ START=`date`
 starttime=$(date +%s)
 
 export WANDB_PROJECT="llm-training"
-export WANDB_NAME="Qwen3_14B"
+export WANDB_NAME="Qwen3_14B_grpo"
 export WANDB_MODE="offline"
 export WANDB_DIR="/project/lt-user/grpo_llm"
 

@@ -7,7 +7,7 @@ from datasets import load_dataset
 
 MODEL_PATH = "/project/lt-user/model/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 DATA_PATH = "/project/lt-user/data/text-to-gloss"
-RAG_DIR = "/project/lt-user/agent_grpo/rag_database"
+RAG_DIR = "/project/lt-user/agentic_llm/rag_database"
 os.makedirs(RAG_DIR, exist_ok=True)
 
 
